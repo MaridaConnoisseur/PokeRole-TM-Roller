@@ -3,6 +3,7 @@ Quick and dirty Python script for listing and randomly rolling TMs for PokeRole 
 The scripts are public domain under the Unlicense license.
 ## Move info data provenance
 As with All-Knowing Magikarp, base move data comes from [Pokerole-Data](https://github.com/Pokerole-Software-Development/Pokerole-Data), which Magikarp then converts into its own schema, and then overrides moves with its data from [pokerole-custom-data](https://github.com/Jacudibu/pokerole-custom-data).  I have written my own converter script to convert the Pokerole-Data JSON files to Magikarp's expected schema, and then replaced the JSON files with those from pokerole-custom-data's base overrides, and then again from the server-specific overrides.
+
 Note: Some of pokerole-custom-data is outdated and does not include up-to-date overrides within the Discord bot, e.g. Will-O-Wisp. pokerole-custom-data also includes typos within the files names of a handful of files, such as Acid Spray being `Acid Srpy.json` and Round being `Round,json`. Both have been manually corrected.
 
 # Usage
