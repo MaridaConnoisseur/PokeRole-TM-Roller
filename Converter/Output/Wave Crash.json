@@ -1,0 +1,11 @@
+{
+    "name": "Wave Crash",
+    "type": "Water",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Recoil. Reduce User's Dexterity by 1.",
+    "description": "The Pokémon rides a tsunami-like wave an slams it against its target. The crash is very destructive and the Pokémon may end up falling from the ride.",
+    "category": "Physical"
+}

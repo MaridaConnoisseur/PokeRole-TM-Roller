@@ -1,0 +1,11 @@
+{
+    "name": "Fiery Dance",
+    "type": "Fire",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Roll 5 Chance Dice to Increase User's Special by 1.",
+    "description": "The Pokémon cloaks themselves in flames while dancing with graceful passion. The flames are scattered and the user feels reinvigorated.",
+    "category": "Special"
+}

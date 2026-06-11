@@ -1,0 +1,11 @@
+{
+    "name": "Steady Strike",
+    "type": "Typeless",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "On your next attack against the target, ignore Defense equal to your Rank Bonus. Increase the User's Strength by 1, this move can stack with itself (but still subject to the standard +/-3 limit for Stat Changes).",
+    "description": "Take your time, take a proper swing, and leave them open.",
+    "category": "Physical"
+}

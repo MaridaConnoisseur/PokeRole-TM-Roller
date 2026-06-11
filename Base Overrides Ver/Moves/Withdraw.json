@@ -1,0 +1,11 @@
+{
+    "name": "Withdraw",
+    "type": "Water",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "Self",
+    "effect": "Target Self. Increase User's Defense by 1.",
+    "description": "The Pokémon withraw into their shell for increased protection and to avoid unwanted interactions.",
+    "category": "Support"
+}

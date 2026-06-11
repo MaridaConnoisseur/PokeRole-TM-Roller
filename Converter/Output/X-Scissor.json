@@ -1,0 +1,11 @@
+{
+    "name": "X-Scissor",
+    "type": "Bug",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Cutter Move.",
+    "description": "The Pokémon uses its scythes or clawa as if they were a pair of scissors to cut through the foe.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Plasma Fists",
+    "type": "Electric",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Fist Move. If successful, all Normal-Type Moves of the User will be considered Electric-Type. Whole Scene Duration.",
+    "description": "The user charges its fists with electricity, upon impact, the charge materializes into plasma that adds an electric element to all of its Normal moves.",
+    "category": "Physical"
+}

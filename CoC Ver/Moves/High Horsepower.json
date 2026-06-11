@@ -1,0 +1,11 @@
+{
+  "name": "High Horsepower",
+  "type": "Ground",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Kicking.",
+  "description": "The Pokemon rushes towards its target and tramples it without mercy.",
+  "category": "Physical"
+}

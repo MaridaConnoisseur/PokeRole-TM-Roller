@@ -1,0 +1,11 @@
+{
+    "name": "Roll the Bones",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "",
+    "target": "User",
+    "effect": "Roll three D6's and resolve an effect for each result. On a roll of 1 You lose 5 HP. On a roll of 2 you gain three random Stat Reductions. On a roll of 3 you gain three random Stat Increases. On a roll of 4 you Heal 5 HP. On a roll of 5 a random target besides yourself Heals 5 HP. On a roll of 6 use Metronome four times and pick one result to immediately perform.",
+    "description": "Do you like gambling with a side of gambling?",
+    "category": "Support"
+}

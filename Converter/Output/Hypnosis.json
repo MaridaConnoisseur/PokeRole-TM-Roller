@@ -1,0 +1,11 @@
+{
+    "name": "Hypnosis",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 3. Put the Target to sleep. Dark-Type Pokemon are affected by this Move.",
+    "description": "By staring at an hypnotic pendulum, the target is suggestioned to feel tired and close its eyelids.",
+    "category": "Support"
+}

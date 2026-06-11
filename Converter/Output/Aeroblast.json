@@ -1,0 +1,11 @@
+{
+    "name": "Aeroblast",
+    "type": "Flying",
+    "power": 4,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Wind Move. Lethal. High Critical. Unique.",
+    "description": "The victim is trapped in a violently swirling vortex. The strong wind currents make debris fly everywhere.",
+    "category": "Special"
+}

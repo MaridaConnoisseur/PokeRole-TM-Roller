@@ -1,0 +1,11 @@
+{
+    "name": "Swift",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Never Miss.",
+    "description": "The Pokémon shoots a burst of star-shaped sparkles at a blinding speed.",
+    "category": "Special"
+}

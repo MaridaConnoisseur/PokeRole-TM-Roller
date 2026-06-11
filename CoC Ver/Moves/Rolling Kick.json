@@ -1,0 +1,11 @@
+{
+  "name": "Rolling Kick",
+  "type": "Fighting",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Kicking. Roll 3 Chance Dice to Flinch the Foe.",
+  "description": "The user spins in the air landing an impressive kick that may daze the target.",
+  "category": "Physical"
+}

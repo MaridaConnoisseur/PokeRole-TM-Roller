@@ -1,0 +1,11 @@
+{
+  "name": "Stone Axe",
+  "type": "Rock",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Slicing. High Critical. Inflicts Wounds. Sets up Stealth Rocks on opponent's side on hit.",
+  "description": "The user strikes the opponent with a rock coated limb. Some of the rocks splinter off onto the battlefield.",
+  "category": "Physical"
+}

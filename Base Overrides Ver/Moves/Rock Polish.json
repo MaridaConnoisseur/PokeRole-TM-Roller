@@ -1,0 +1,11 @@
+{
+    "name": "Rock Polish",
+    "type": "Rock",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Strength",
+    "target": "Self",
+    "effect": "Target Self. Increase the User's Dexterity by 2.",
+    "description": "Smooth the rough edges, no need to grind about in life.",
+    "category": "Support"
+}

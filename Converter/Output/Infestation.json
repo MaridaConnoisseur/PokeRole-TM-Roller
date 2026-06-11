@@ -1,0 +1,11 @@
+{
+    "name": "Infestation",
+    "type": "Bug",
+    "power": 1,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Blocks. Ongoing Damage. Duration 4 Rounds. Increase the Target's difficulty to Evade at Storyteller's discretion.",
+    "description": "The Pokémon summons a bothersome swarm to prevent the foe from escaping. The swarm will relentlessly attack the foe.",
+    "category": "Special"
+}

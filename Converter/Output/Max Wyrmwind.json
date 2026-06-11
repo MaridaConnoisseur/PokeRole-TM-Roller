@@ -1,0 +1,11 @@
+{
+    "name": "Max Wyrmwind",
+    "type": "Dragon",
+    "power": 2,
+    "damage": "SameAsBasePower",
+    "accuracy": "SameAsBaseMove",
+    "target": "All Foes",
+    "effect": "Target all foes in Range or a Single Max Target. Reduce by 1 the Strength of those Affected.",
+    "description": "",
+    "category": "Physical/Special"
+}

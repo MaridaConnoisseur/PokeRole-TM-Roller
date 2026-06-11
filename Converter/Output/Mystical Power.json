@@ -1,0 +1,11 @@
+{
+    "name": "Mystical Power",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Self",
+    "effect": "Target Self. Increase by 2 the User's lowest Attribute/Trait. If an Attribute/Trait Score is 6 or More, this effect fails. Different Attributes/Traits may be increased this way.",
+    "description": "The power is inside you. You can feel it in your heart, you can see it in your mind. Believe in yourself and take it!",
+    "category": "Support"
+}

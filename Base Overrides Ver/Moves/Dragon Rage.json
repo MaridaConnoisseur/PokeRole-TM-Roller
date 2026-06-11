@@ -1,0 +1,11 @@
+{
+    "name": "Dragon Rage",
+    "type": "Dragon",
+    "power": 0,
+    "damage": "SetDamage",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Set Damage. Deal 2 Dragon-Type Damage to the Target.",
+    "description": "The Pokémon focuses their inner rage and makes it not-soinner anymore.",
+    "category": "Special"
+}

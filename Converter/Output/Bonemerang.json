@@ -1,0 +1,11 @@
+{
+    "name": "Bonemerang",
+    "type": "Ground",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Ranged. Double Action.",
+    "description": "The Pokémon throws their bone against the foe, the bone spins in the air and makes a comeback to strike a second time.",
+    "category": "Physical"
+}

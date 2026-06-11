@@ -1,0 +1,11 @@
+{
+    "name": "Demolish",
+    "type": "Typeless",
+    "power": 7,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "High Critical. The User may not use this move again, until they use another move.",
+    "description": "Fast and calculated, your goal is to stop your enemy by any means necessary.",
+    "category": "Physical"
+}

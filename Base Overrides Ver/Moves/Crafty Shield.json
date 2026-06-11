@@ -1,0 +1,11 @@
+{
+  "name": "Crafty Shield",
+  "type": "Fairy",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "User",
+  "effect": "Reaction. Shield move. Used in reaction to the user or allies being targeted by Support Moves. Support moves targeting the user and it's allies are nullified for this round.",
+  "description": "The pokemon creates a magic shield to protect everyone from the bad tricks a foe might have under it's sleeve. Under this shield, everyone can see dishonesty and bad intentions.",
+  "category": "Support"
+}

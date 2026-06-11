@@ -1,0 +1,11 @@
+{
+    "name": "Electroweb",
+    "type": "Electric",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Target All foes in Range. Reduce by 1 the Dexterity of those affected.",
+    "description": "An electrified web is shot towards the target, shoking and tangling them at the same time.",
+    "category": "Special"
+}

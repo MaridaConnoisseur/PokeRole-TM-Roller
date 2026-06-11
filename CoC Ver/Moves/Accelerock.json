@@ -1,0 +1,11 @@
+{
+    "name": "Accelerock",
+    "type": "Rock",
+    "power": 2,
+    "damage": "Strength/Dexterity",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Reaction 1.",
+    "description": "The Pokémon dashes at great speed using the rocks on their body to strike the foe upon impact.",
+    "category": "Physical"
+}

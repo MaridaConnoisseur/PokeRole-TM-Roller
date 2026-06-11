@@ -1,0 +1,11 @@
+{
+    "name": "Dragon Energy",
+    "type": "Dragon",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "All Foes",
+    "effect": "Target All foes in Range. Lethal. *Reduce 1 Dice from the Damage Pool for every missing HP the User has. Up to 5 dice may be removed this way.",
+    "description": "The Pokémon converts its life-energy into a life-ending beam. No exaggeration.",
+    "category": "Special"
+}

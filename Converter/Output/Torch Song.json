@@ -1,0 +1,11 @@
+{
+    "name": "Torch Song",
+    "type": "Fire",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Sound Move. Increase the User's Special by 1.",
+    "description": "Through a sweet melody the foe burns a haunting memory into those who harbor ill intent.",
+    "category": "Special"
+}

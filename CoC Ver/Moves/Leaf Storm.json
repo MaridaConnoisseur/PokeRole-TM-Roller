@@ -1,0 +1,11 @@
+{
+  "name": "Leaf Storm",
+  "type": "Grass",
+  "power": 6,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Slicing. Wind Based. Reduce the User's Special by 2. -1 Accuracy.",
+  "description": "A furious storm of sharp leaves swirls and pierces the target. The user is left exhausted.",
+  "category": "Special"
+}

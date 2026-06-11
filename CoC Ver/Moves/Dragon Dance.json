@@ -1,0 +1,11 @@
+{
+  "name": "Dragon Dance",
+  "type": "Dragon",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Tough",
+  "target": "User",
+  "effect": "Dancing. Increase the User's Strength and Dexterity.",
+  "description": "The user performs a vigorous and mystical dance that boosts the fighting spirit and reflexes.",
+  "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Fishious Rend",
+    "type": "Water",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Bite Move. *If this is the first Action of the Round for the User, add 2 Extra Dice to the Damage pool of this Move.",
+    "description": "This Pokémon uses their gills to snap at its target. Even if they don’t have teeth, their jaws have a crushing strength.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Cotton Guard",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "Self",
+    "effect": "Target Self. Increase the User's Defense by 3.",
+    "description": "The Pokémon grows a lush coat of cotton puffs. The cotton greatly reduces all kinds of impact.",
+    "category": "Support"
+}

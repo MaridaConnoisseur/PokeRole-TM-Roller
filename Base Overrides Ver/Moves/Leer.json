@@ -1,0 +1,11 @@
+{
+    "name": "Leer",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Reduce by 1 the Defense of those affected.",
+    "description": "The vicious glare of a predator that triggers the flight response of their prey.",
+    "category": "Support"
+}

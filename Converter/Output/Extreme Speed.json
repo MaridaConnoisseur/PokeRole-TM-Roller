@@ -1,0 +1,11 @@
+{
+    "name": "Extreme Speed",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Reaction 2. Out of battle, triple the Pokemon's movement speed.",
+    "description": "Gotta go extremely fast.",
+    "category": "Physical"
+}

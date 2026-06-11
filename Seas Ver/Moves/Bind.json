@@ -1,0 +1,11 @@
+{
+    "name": "Bind",
+    "type": "Normal",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Blocks. Ongoing Damage. Duration 4 Rounds. Increase the Target's difficultty to Evade at Storyteller's discretion.",
+    "description": "The Pokémon uses all their strength to restrain to the foe and keep them in place.",
+    "category": "Physical"
+}

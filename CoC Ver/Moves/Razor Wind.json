@@ -1,0 +1,11 @@
+{
+  "name": "Razor Wind",
+  "type": "Normal",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "Slicing. Wind Based. High Critical. Charge.",
+  "description": "A sharp wind current is unleased against anyone standing against this Pokemon.",
+  "category": "Special"
+}

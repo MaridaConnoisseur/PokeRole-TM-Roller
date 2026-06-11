@@ -1,0 +1,11 @@
+{
+    "name": "Gunk Shot",
+    "type": "Poison",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Pulse Move. Ranged. Roll 3 Chance Dice to Poison the Foe. -2 Accuracy.",
+    "description": "The Pokemon shoots a stream of corrosive sludge made with the most toxic substances it can produce. Just inhaling the scent can make you feel very sick.",
+    "category": "Physical"
+}

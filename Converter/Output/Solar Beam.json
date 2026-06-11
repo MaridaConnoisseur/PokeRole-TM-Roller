@@ -1,0 +1,11 @@
+{
+    "name": "Solar Beam",
+    "type": "Grass",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Charge Move. If Sunny Weather is active, you skip this Move's Charge action. If performed under Rain, Sandstorm or Hail/Snowy Weather, this Move takes two actions to Charge.",
+    "description": "The Pokémon gathers sunlight but instead of being absorbed it is sot as a devastating beam of light instead.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Parry",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "User or Ally",
+    "effect": "Reaction. Shield Move. Can be used when the User or an Ally is targeted. If parrying for an Ally, redirect the instigating move towards the User. Reduce incoming damage by 1. Becomes 2 at Level 2 or higher.",
+    "description": "Casual.",
+    "category": "Support"
+}

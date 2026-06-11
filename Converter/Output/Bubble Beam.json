@@ -1,0 +1,11 @@
+{
+    "name": "Bubble Beam",
+    "type": "Water",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Roll 1 Chance Die to Reduce the Target's Dexterity by 1.",
+    "description": "A powerful stream of foamy bubbles shot straight into the foe",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Mass Barrier",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "User and Allies",
+    "effect": "Screen Move. User and Allies receive Temporary Hit Points equal to the User's Rank Bonus. These Hit Points only apply to damage by attacking moves (damage from other sources apply directly to the subject's HP). These Hit Points persist for each target until expended or 2 Rounds have passed.",
+    "description": "For a student of the higher powers, you've come to realize that you're REALLY good at creating shields.",
+    "category": "Support"
+}

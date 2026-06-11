@@ -1,0 +1,11 @@
+{
+  "name": "Stomping Tantrum",
+  "type": "Ground",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Kicking. Add 2 Extra Dice to the Damage Pool of this move is the User failed the Accuracy Roll of the last Move it performed.",
+  "description": "The Pokemon throws a tantrum all over the place, it becomes worse if something has frustrated it earlier.",
+  "category": "Physical"
+}

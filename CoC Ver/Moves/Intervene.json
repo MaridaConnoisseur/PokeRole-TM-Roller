@@ -1,0 +1,11 @@
+{
+    "name": "Intervene",
+    "type": "Typeless",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Ally",
+    "effect": "Reaction. Shield Move. Redirect all moves targeting the Ally to yourself until the end of the Round. Increase your Base Defense and Sp. Defense by half your Rank Bonus (Rounded up) until the end of your next turn. Then, strike the foe who triggered this move (if this damage is enough to faint the foe, they get to finish performing the instigating attack before being removed from combat).",
+    "description": "You're quick on your feet when it comes to protecting others. You'll do so at any cost.",
+    "category": "Physical"
+}

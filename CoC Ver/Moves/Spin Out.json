@@ -1,0 +1,11 @@
+{
+    "name": "Spin Out",
+    "type": "Steel",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Dancing. Reduce the User's Dexterity by 2.",
+    "description": "The user does a burnout with their limbs, causing them to lose control and crash into the enemy.",
+    "category": "Physical"
+}

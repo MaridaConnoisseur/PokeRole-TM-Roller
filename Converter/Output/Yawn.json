@@ -1,0 +1,11 @@
+{
+    "name": "Yawn",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. *If the Target has not been removed from battle at the beginning of the next Round, put it to Sleep.",
+    "description": "The user yawns, the foe yawns, the trainers yawn... everyone should take a nap.",
+    "category": "Support"
+}

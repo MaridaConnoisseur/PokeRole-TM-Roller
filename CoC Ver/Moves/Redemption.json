@@ -1,0 +1,11 @@
+{
+    "name": "Redemption",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Ally",
+    "effect": "Revive a Fallen Ally, they recover HP equal to double your Rank Bonus, and heal Wounds equal to your Rank Bonus.  If their turn in the current Round has passed, they get to act immediately after you revive them. Costs 2 Will to Activate.",
+    "description": "Let your ally redeem themselves for failing.",
+    "category": "Support"
+}

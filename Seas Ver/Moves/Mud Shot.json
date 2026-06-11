@@ -1,0 +1,11 @@
+{
+    "name": "Mud Shot",
+    "type": "Ground",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Reduce the Target's Dexterity by 1.",
+    "description": "By shooting a stream of mud at their target, the user manages to impair their movement.",
+    "category": "Special"
+}

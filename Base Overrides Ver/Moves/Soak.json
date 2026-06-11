@@ -1,0 +1,11 @@
+{
+    "name": "Soak",
+    "type": "Water",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Foe",
+    "effect": "Single Target. Change the Target's Type to Water. (ie Charizard was Fire/Flying, after this Move their Type will be Water) Whole Scene Duration. This effect does not end by switching out the affected Pokemon.",
+    "description": "The foe gets soaking wet, they should stay away from electric outlets and thirsty plants.",
+    "category": "Support"
+}

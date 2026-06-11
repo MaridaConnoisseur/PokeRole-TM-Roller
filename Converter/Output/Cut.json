@@ -1,0 +1,11 @@
+{
+    "name": "Cut",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. Cutter Move. Out of battle it will help to easily cut down trees and obstacles.",
+    "description": "A swift and precise cut that can even slice a tree in half.",
+    "category": "Physical"
+}

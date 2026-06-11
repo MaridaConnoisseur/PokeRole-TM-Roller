@@ -1,0 +1,11 @@
+{
+    "name": "Lumina Crash",
+    "type": "Psychic",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Reduce the Foe's Sp. Defense by 2.",
+    "description": "The user flashes a light pattern that crashes the foe’s mind, leaving it acting erraticaly for a few moments.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Arm Thrust",
+    "type": "Fighting",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Successive Actions.",
+    "description": "A quick and relentless series of open-palmed thrusts against the foe.",
+    "category": "Physical"
+}

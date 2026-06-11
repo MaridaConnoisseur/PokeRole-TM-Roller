@@ -1,0 +1,11 @@
+{
+    "name": "Penance",
+    "type": "Typeless",
+    "power": 2,
+    "damage": "Special/Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe and Ally",
+    "effect": "Successive Action. The second and fourth attacks in this chain instead target an ally, healing them for Rank-1. Each attack in this chain must target a different target.",
+    "description": "Someone once said that the best way to heal others is to kill the attacker first. You tend to agree, but sometimes you might want to actually heal your friends, too.",
+    "category": "Special"
+}

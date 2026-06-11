@@ -1,0 +1,11 @@
+{
+    "name": "Icy Wind",
+    "type": "Ice",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Wind Move. Reduce by 1 the Dexterity of those affected.",
+    "description": "Polar winds sweep through the arena. Everyone starts to shiver and embrace themselves, trying to preserve a bit of warmth.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Sing",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cute/Beauty",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 3. Sound Move. Put the Target to sleep.",
+    "description": "The Pokémon sings a lullaby; the sound is so comforting that it evokes memories of being tucked in bed and kissed good night.",
+    "category": "Support"
+}

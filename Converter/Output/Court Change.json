@@ -1,0 +1,11 @@
+{
+    "name": "Court Change",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Battlefield",
+    "effect": "Target Battlefield. Swap any Force Fields, Entry Hazards and Effects on the Foe's side of the field (ie Tailwind, Grassy Terrain healing, Fire Pledge.) for those on the User's side.",
+    "description": "The Pokémon signals the referee for half-time, the referee complies and both parties swap their sides of the field. Wait... we brought everything with us, right?",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Force Palm",
+    "type": "Fighting",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Striking. Roll 3 Chance Dice to Paralyze the foe.",
+    "description": "A powerful open-palm hit that knocks the foe away and may leave him unable to move.",
+    "category": "Physical"
+}

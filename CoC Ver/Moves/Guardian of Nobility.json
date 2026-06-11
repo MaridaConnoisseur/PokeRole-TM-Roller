@@ -1,0 +1,11 @@
+{
+    "name": "Guardian of Nobility",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Ally",
+    "effect": "Reaction. Shield Move. Until the ende of the Round, redirect all moves targeting ally to the User. Reduce all damage taken equal by half your Rank Bonus (rounded down). For the next two Rounds or until you use this move again, the Ally receives half Damage from attacks (rounded down, before defenses are applied), the other half of the damage is redirected to you, ignoring your defenses.",
+    "description": "The gods weep at your misfortune. You will be the one to soothe their fears.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Unyielding Challenge",
+    "type": "Typeless",
+    "power": 5,
+    "damage": "Will",
+    "accuracy": "Special",
+    "target": "User",
+    "effect": "For the next four turns, ignore Shield Move Accuracy Reduction. While your challenge is in effect, any damage your Shield Moves block is also taken by the attacking Foe, ignoring their defenses (Wide Guard only reflects the damage mitigated against the primary target).",
+    "description": "They think you weak? Who decided that.",
+    "category": "Support"
+}

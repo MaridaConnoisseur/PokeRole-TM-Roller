@@ -1,0 +1,11 @@
+{
+    "name": "Tri Attack",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Roll 2 Chance Dice to inflict 1st Degree Burn on the Target. Roll 2 Chance Dice to Freeze the Target. Roll 2 Chance Dice to Paralyze the Target.",
+    "description": "The foe has three problems and this Move is all of them.",
+    "category": "Special"
+}

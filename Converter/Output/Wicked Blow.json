@@ -1,0 +1,11 @@
+{
+    "name": "Wicked Blow",
+    "type": "Dark",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. Fist Move. If the Accuracy Roll is successful, this Move becomes a Critical Hit.",
+    "description": "The “Dark Style” is known as the most deadly and vicious of battle techniques. The user mastered this style and their punches are wicked strong.",
+    "category": "Physical"
+}

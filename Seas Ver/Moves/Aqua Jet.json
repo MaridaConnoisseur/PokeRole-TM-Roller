@@ -1,0 +1,11 @@
+{
+    "name": "Aqua Jet",
+    "type": "Water",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Reaction 1.",
+    "description": "The Pokémon propels themselves with a jet of pressured water.",
+    "category": "Physical"
+}

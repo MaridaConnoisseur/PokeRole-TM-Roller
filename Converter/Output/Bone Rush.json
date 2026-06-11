@@ -1,0 +1,11 @@
+{
+    "name": "Bone Rush",
+    "type": "Ground",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Successive Actions.",
+    "description": "The foe is assaulted by a series of flurry strikes with a bone club.",
+    "category": "Physical"
+}

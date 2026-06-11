@@ -1,0 +1,11 @@
+{
+    "name": "Hard Press",
+    "type": "Steel",
+    "power": 6,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. *Reduce 1 Die from the Damage Pool for every missing Hp the User has. Up to 5 Dice may be removed this way.",
+    "description": "The foe is grappled in a painful lock, the more it struggles to get out the more pressure it’s gonna feel. The user must be on top condition for this grapple to be effective.",
+    "category": "Physical"
+}

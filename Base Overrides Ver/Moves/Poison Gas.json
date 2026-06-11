@@ -1,0 +1,11 @@
+{
+    "name": "Poison Gas",
+    "type": "Poison",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Low Accuracy 1. Poison those affected.",
+    "description": "A thick cloud of toxic gas that causes violent coughs and red eyes.",
+    "category": "Support"
+}

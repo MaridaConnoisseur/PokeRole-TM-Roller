@@ -1,0 +1,11 @@
+{
+    "name": "Dazzling Gleam",
+    "type": "Fairy",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Target All foes in Range.",
+    "description": "The Pokémon shines bright like a diamond. The powerful flash hurts the eyes of everyone watching.",
+    "category": "Special"
+}

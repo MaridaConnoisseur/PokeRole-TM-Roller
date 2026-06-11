@@ -1,0 +1,11 @@
+{
+    "name": "Shell Smash",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Strength",
+    "target": "Self",
+    "effect": "Target Self. Increase by 2 the User's Strength, Special and Dexterity. Reduce by 2 the User's Defense and Sp. Defense.",
+    "description": "The Pokémon breaks off their own shell. The foe mistakenly believed the shell was for the Pokémon to protect themselves when it was actually there to protect the foes from what’s next.",
+    "category": "Support"
+}

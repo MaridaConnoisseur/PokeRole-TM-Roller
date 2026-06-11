@@ -1,0 +1,11 @@
+{
+    "name": "Submission",
+    "type": "Fighting",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Recoil.",
+    "description": "The Pokémon wrestles their foe to subdue it, but the foe will put up a fight before they let it happen.",
+    "category": "Physical"
+}

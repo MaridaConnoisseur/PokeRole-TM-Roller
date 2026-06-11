@@ -1,0 +1,11 @@
+{
+    "name": "Supercell Slam",
+    "type": "Electric",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. If the Accuracy roll fails, Roll 4 Dice of Typeless Damage against the user, ignoring defenses.",
+    "description": "The user charges itself, jumps up high, then free-falls to crash on the target at a high speed. Beware of not ending up crashing directly against the floor.",
+    "category": "Physical"
+}

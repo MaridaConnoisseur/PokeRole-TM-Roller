@@ -1,0 +1,11 @@
+{
+    "name": "Heavy Blow",
+    "type": "Typeless",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Your next attack against the target ignores 2 of their Defense.",
+    "description": "A heavier blow that leaves the foe reeling.",
+    "category": "Physical"
+}

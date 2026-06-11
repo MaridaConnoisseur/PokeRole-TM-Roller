@@ -1,0 +1,11 @@
+{
+    "name": "Leafage",
+    "type": "Grass",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Ranged.",
+    "description": "The user throws leaf darts towards the foe.",
+    "category": "Physical"
+}

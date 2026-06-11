@@ -1,0 +1,11 @@
+{
+    "name": "Charm",
+    "type": "Fairy",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Beauty/Cute",
+    "target": "Foe",
+    "effect": "Single Target. Reduce Target's Strength by 2.",
+    "description": "The Pokémon engages their foe in a charming interaction to reduce their aggressive intent.",
+    "category": "Support"
+}

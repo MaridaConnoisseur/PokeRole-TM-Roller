@@ -1,0 +1,11 @@
+{
+    "name": "Ancient Power",
+    "type": "Rock",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Roll 1 Chance Die to Increase by 1 the User's Strength, Dexterity, Special, Defense and Sp. Defense.",
+    "description": "The Pokémon calls forward an energy from the ancient past. This may infuse the user with a primal strength.",
+    "category": "Special"
+}

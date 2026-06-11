@@ -1,0 +1,11 @@
+{
+    "name": "Bolt Strike",
+    "type": "Electric",
+    "power": 6,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Lethal. Unique. Roll 2 Chance Dice to Paralyze the foe.",
+    "description": "Zekrom delivers a powerful tackle while discharging lightning through its body. The foe is rendered unable to move, either by the strike of the electricity.",
+    "category": "Physical"
+}

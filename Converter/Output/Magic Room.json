@@ -1,0 +1,11 @@
+{
+    "name": "Magic Room",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Battlefield",
+    "effect": "Target Battlefield. Held items lose their effects. No items can be used. Duration 4 Rounds.",
+    "description": "The entire battlefield becomes a room on which the laws of the material world are rendered useless.",
+    "category": "Support"
+}

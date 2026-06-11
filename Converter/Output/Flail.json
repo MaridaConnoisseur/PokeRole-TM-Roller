@@ -1,0 +1,11 @@
+{
+    "name": "Flail",
+    "type": "Normal",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. *Add 1 Extra Die to the Damage Pool of this Move for every missing Point of HP the user has. Up to 5 Dice may be added this way.",
+    "description": "The user flails around trying to stay alive, as they get closer to fainting, more adrenaline will fuel their efforts of survival.",
+    "category": "Physical"
+}

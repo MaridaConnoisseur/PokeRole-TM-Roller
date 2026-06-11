@@ -1,0 +1,11 @@
+{
+    "name": "Sleep Powder",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 3. Powder Move. Put the Target to Sleep.",
+    "description": "The Pokémon spouts a cloud of somniferous pollen to know out their foe, the only problem is that the foe must inhale enough of the pollen for it to take effect.",
+    "category": "Support"
+}

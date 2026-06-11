@@ -1,0 +1,11 @@
+{
+    "name": "Chatter",
+    "type": "Flying",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Sound Move. Roll 3 Chance Dice to Confuse the Target.",
+    "description": "The Pokémon parrots the voice of a human and starts issuing silly commands to the foe. This quickly becomes confusing for the foe.",
+    "category": "Special"
+}

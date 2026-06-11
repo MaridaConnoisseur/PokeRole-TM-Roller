@@ -1,0 +1,11 @@
+{
+    "name": "Barrage",
+    "type": "Normal",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Ranged. Successive Actions. Projectile Move.",
+    "description": "The Pokémon throws whatever objects they find, one after the other to overwhelm the foe.",
+    "category": "Physical"
+}

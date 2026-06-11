@@ -1,0 +1,11 @@
+{
+    "name": "Snatch",
+    "type": "Dark",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "Single Target. Reaction 6. Remove any Increase/Reduction on the Foe's Attributes, Active Shield Moves, Healing effects on the Foe, or effects on its side of the field; and place them on the User instead. See p. 531 for more info.",
+    "description": "The user takes notice of the good stuff on the other side and quickly takes it for themselves. Finders keepers, losers weepers!",
+    "category": "Support"
+}

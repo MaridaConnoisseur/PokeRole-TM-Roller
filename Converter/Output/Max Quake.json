@@ -1,0 +1,11 @@
+{
+    "name": "Max Quake",
+    "type": "Ground",
+    "power": 2,
+    "damage": "SameAsBasePower",
+    "accuracy": "SameAsBaseMove",
+    "target": "All Allies",
+    "effect": "Target all foes in Range or a Single Max Target. Increase the Sp. Defense of the User and Allies in Range by 1.",
+    "description": "",
+    "category": "Physical/Special"
+}

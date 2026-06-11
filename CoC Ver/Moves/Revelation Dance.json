@@ -1,0 +1,11 @@
+{
+  "name": "Revelation Dance",
+  "type": "Normal",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Dancing. This Move's type will always match the User's first Type.",
+  "description": "The Pokemon performa a dance. The dance's energy influences the Type of this Move.",
+  "category": "Special"
+}

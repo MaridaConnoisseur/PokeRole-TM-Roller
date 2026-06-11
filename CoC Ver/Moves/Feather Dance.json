@@ -1,0 +1,11 @@
+{
+  "name": "Feather Dance",
+  "type": "Flying",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Beauty",
+  "target": "Foe",
+  "effect": "Dancing. Reduce the foe's Strength by 2.",
+  "description": "A beautiful dance that soothes the hearts of those who watch it, reducing their aggressive intentions.",
+  "category": "Support"
+}

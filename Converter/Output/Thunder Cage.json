@@ -1,0 +1,11 @@
+{
+    "name": "Thunder Cage",
+    "type": "Electric",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Blocks. Ongoing Damage. Duration 4 Rounds. Increase the Target's difficulty to Evade at Storyteller's discretion.",
+    "description": "Several lightning spheres are placed in the battlefied as if they were a tesla coil. Shooting thunderbolts non-stop and blasting those unfortunate enough to be trapped in it.",
+    "category": "Special"
+}

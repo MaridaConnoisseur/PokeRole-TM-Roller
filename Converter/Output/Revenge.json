@@ -1,0 +1,11 @@
+{
+    "name": "Revenge",
+    "type": "Fighting",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. *If the User has already received Damage this Round, add 2 Extra Dice to the Damage Pool.",
+    "description": "Best served cold.",
+    "category": "Physical"
+}

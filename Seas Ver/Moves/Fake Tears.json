@@ -1,0 +1,11 @@
+{
+    "name": "Fake Tears",
+    "type": "Dark",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cute",
+    "target": "Foe",
+    "effect": "Single Target. Reduce foe's Sp. Defense by 2.",
+    "description": "The user stops mid-combat to start crying; feeling incredibly guilty, the foe lowers its guard.",
+    "category": "Support"
+}

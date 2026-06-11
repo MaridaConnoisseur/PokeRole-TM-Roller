@@ -1,0 +1,11 @@
+{
+    "name": "Harmonic Surge",
+    "type": "Typeless",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Fist Based. For the next three turns, after you land a Fist Based attack, you can deal 1 additional damage or heal 1 Health.",
+    "description": "After your strikes, you find balance and regain health.",
+    "category": "Physical"
+}

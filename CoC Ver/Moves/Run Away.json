@@ -1,0 +1,11 @@
+{
+    "name": "Run Away",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Self",
+    "effect": "Target Self. The User runs away from the Battlefield. This Effect ends the Battle. Foes may try to prevent this by rolling Dexterity + Athletic and scoring the same or more Successes. If the User is Blocked, this Maneuver fails.",
+    "description": "Nope. Nope. Nope.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Agility",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Self",
+    "effect": "Target Self. Increase the User's Dexterity by 2.",
+    "description": "Swift of body, swift of mind.",
+    "category": "Support"
+}

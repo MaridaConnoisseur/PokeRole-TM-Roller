@@ -1,0 +1,11 @@
+{
+    "name": "Headbutt",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Dice to Flinch the Target. Out of battle it may cause a Random encounter when hitting trees and make objects drop from high places. ",
+    "description": "The Pokémon rams against their foe with their head. This Move is perfect to shake down trees when looking for berries, but beware of wild Pokémon nesting at the treetops.",
+    "category": "Physical"
+}

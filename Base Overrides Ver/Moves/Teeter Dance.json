@@ -1,0 +1,11 @@
+{
+    "name": "Teeter Dance",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity/Insight",
+    "target": "Area",
+    "effect": "Area Move. Confuse those affected.",
+    "description": "The Pokémon dances with wobbly movements and erratic spins. The spectators don’t know what to make of these modern choreographies.",
+    "category": "Support"
+}

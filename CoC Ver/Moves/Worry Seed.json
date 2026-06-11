@@ -1,0 +1,11 @@
+{
+    "name": "Worry Seed",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "Single Target. Replace the Target's Ability with \"Insomnia\". Whole Scene Duration. This effect does not end by switching out the affected Pokemon.",
+    "description": "The user plants the seed of doubt and uncertainty on its foe. The foe becomes such a worrywart that they can’t even sleep at night.",
+    "category": "Support"
+}

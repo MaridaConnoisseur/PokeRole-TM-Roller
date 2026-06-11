@@ -1,0 +1,11 @@
+{
+    "name": "Coaching",
+    "type": "Fighting",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cool/Clever",
+    "target": "All Allies",
+    "effect": "Target All Allies in Range. Increase by 1 the Strength and Defense of all Allies targeted. The User cannot target itself.",
+    "description": "This Pokémon allies form a line and start doing squats and push-ups while the user corrects their form and gives them tips and a confidence boost to win this match.",
+    "category": "Support"
+}

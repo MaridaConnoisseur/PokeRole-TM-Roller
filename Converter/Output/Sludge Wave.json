@@ -1,0 +1,11 @@
+{
+    "name": "Sludge Wave",
+    "type": "Poison",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Area",
+    "effect": "Area Move. Roll 1 Chance Die to Poison those affected.",
+    "description": "A wave of black water spouts all around the user. It’s knee-high and rising. Fighting in such unsanitary conditions is not a good idea.",
+    "category": "Special"
+}

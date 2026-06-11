@@ -1,0 +1,11 @@
+{
+    "name": "Psystrike",
+    "type": "Psychic",
+    "power": 4,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. Unique. This Move is resisted with the Foe's Defense instead of its Sp. Defense.",
+    "description": "Through sheer psychic power, the user materializes its energy to deal a heavy strike to its foe.",
+    "category": "Special"
+}

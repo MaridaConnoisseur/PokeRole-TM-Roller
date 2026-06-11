@@ -1,0 +1,11 @@
+{
+    "name": "Body Press",
+    "type": "Fighting",
+    "power": 3,
+    "damage": "Vitality",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. ",
+    "description": "The Pokémon makes a judo maneuver, using its body mass instead of its strength against the target.",
+    "category": "Physical"
+}

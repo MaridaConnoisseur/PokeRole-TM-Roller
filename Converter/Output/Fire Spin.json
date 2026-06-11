@@ -1,0 +1,11 @@
+{
+    "name": "Fire Spin",
+    "type": "Fire",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Blocks. Ongoing Damage. Duration 4 Rounds. Increase the Target's difficulty to Evade at Storyteller's discretion.",
+    "description": "The user creates a vortex of fire that remains spinning in the battlefield, trapping the foe within.",
+    "category": "Special"
+}

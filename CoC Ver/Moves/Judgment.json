@@ -1,0 +1,11 @@
+{
+    "name": "Judgment",
+    "type": "Normal",
+    "power": 0,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Unique. Ignore Defenses. This Move's Type, Power and extra Added Effects are decided by Storyteller. If something would prevent this Move from dealing Damage, ignore it. This Move can't be Clashed.",
+    "description": "Sooner or later, everyone gets what they deserve.",
+    "category": "Special"
+}

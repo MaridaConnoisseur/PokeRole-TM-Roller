@@ -1,0 +1,11 @@
+{
+    "name": "Fiery Wrath",
+    "type": "Dark",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "All Foes",
+    "effect": "Target all Foes in Range. Roll 2 Chance Dice to Flinch those affected.",
+    "description": "The Pokémon’s wrath is turned to flames that consume the foe’s body and soul.",
+    "category": "Special"
+}

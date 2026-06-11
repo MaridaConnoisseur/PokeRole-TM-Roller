@@ -1,0 +1,11 @@
+{
+  "name": "Throat Chop",
+  "type": "Dark",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Striking. The target cannot use any 'Sound Based' moves for the next four turns. This can be cured with a White Herb.",
+  "description": "A heinous attack to a Pokemon's throat that will leave them unable to make a sound for hours.",
+  "category": "Physical"
+}

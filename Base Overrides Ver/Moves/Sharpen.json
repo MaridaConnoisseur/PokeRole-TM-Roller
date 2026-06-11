@@ -1,0 +1,11 @@
+{
+    "name": "Sharpen",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Strength",
+    "target": "Self",
+    "effect": "Target Self. Increase the User's Strength by 1. *This effect can stack up to 3 times.",
+    "description": "This Pokémon doesn’t smooth the rough edges, they make them sharper and sharper.",
+    "category": "Support"
+}

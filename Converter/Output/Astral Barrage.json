@@ -1,0 +1,11 @@
+{
+    "name": "Astral Barrage",
+    "type": "Ghost",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Lethal. Unique.",
+    "description": "Call upon the restless spirits of the dead and send them to destroy your opponents. A truly frightening sight to witness.",
+    "category": "Special"
+}

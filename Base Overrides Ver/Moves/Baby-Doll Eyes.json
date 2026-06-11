@@ -1,0 +1,11 @@
+{
+    "name": "Baby-Doll Eyes",
+    "type": "Fairy",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cute",
+    "target": "Foe",
+    "effect": "Single Target. Reaction 1. Reduce Target's Strength by 1.",
+    "description": "The biggest and brightest eyes, spakling with unshed tears, how can you say “no” to that?!",
+    "category": "Support"
+}

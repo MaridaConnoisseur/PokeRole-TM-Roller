@@ -1,0 +1,11 @@
+{
+    "name": "Gigaslash",
+    "type": "Typeless",
+    "power": 3,
+    "damage": "Strength/Special",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Slicing. High Critical. If this move crits, it deals critical damage against all foes. The User may not use this move again, until they use another move.",
+    "description": "A powerful slash that cuts through your foes.",
+    "category": "Physical"
+}

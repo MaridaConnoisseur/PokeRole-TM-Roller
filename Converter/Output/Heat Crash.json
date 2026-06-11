@@ -1,0 +1,11 @@
+{
+    "name": "Heat Crash",
+    "type": "Fire",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. *Add 1 Extra Die of Damage for every 50kgs the User is above the Target. Up to 4 Dice may be added this way.",
+    "description": "The Pokémon sets themselves ablaze and dives a cannonball against their foe.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Prayer of Mending",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Ally",
+    "effect": "Heal an ally for 7 HP after they are hit by an attack. This then jumps to another Ally at random, decreasing in healing by 1 until every active Ally has been healed once. You cannot be healed by Prayer of Mending twice in one cycle. The User may not use this move again, until they use another move. Costs 2 Will to Activate.",
+    "description": "You pray for your allies to make out alive. Thankfully, somone seems to have answered your prayers.",
+    "category": "Support"
+}

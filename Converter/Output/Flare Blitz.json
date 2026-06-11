@@ -1,0 +1,11 @@
+{
+    "name": "Flare Blitz",
+    "type": "Fire",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Recoil. Roll 1 Chance die to inflict 3rd Degree Burn on the Target.",
+    "description": "A reckless blazing charge against their foe, ends up with an explosive collision",
+    "category": "Physical"
+}

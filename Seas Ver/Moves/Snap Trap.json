@@ -1,0 +1,11 @@
+{
+    "name": "Snap Trap",
+    "type": "Grass",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. Blocks. Whole Scene Duration.",
+    "description": "The user is so flat that you can barely see it in the tall grass. Waiting for an unsuspecting prey to get close enough to use its body as a snare trap. It won’t let go until its prey faints.",
+    "category": "Physical"
+}

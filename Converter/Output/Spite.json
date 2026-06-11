@@ -1,0 +1,11 @@
+{
+    "name": "Spite",
+    "type": "Ghost",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Foe",
+    "effect": "Single Target. Reduce the Target's Will to 1 point. Reset any effects it got from spending Will Points.",
+    "description": "The target feels overwhelmend by feelings of dread.",
+    "category": "Support"
+}

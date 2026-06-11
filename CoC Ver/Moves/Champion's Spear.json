@@ -1,0 +1,11 @@
+{
+    "name": "Champion's Spear",
+    "type": "Typeless",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Block until the end of your next turn. The User's Draining Moves restore HP equal to damage dealt until the Block ends.",
+    "description": "Lock 'em down. Make sure they don't have room to escape your wrath.",
+    "category": "Physical"
+}

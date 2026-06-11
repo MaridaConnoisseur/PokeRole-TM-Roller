@@ -1,0 +1,11 @@
+{
+    "name": "Attract",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Beauty",
+    "target": "Foe",
+    "effect": "Single Target. Target is now In Love with the User.",
+    "description": "Through their good looks and coquetish attitude, the Pokémon makes everyone develop a crush on them.",
+    "category": "Support"
+}

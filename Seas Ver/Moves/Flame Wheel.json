@@ -1,0 +1,11 @@
+{
+    "name": "Flame Wheel",
+    "type": "Fire",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Roll 1 Chance Die to inflict 1st Degree Burn on the Target.",
+    "description": "The user surrounds themselves with fire, then curl into a ball and runs over the target in a fiery spin.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Focus Fire",
+    "type": "Typeless",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Pulse Based. If Steady Shot was the move used Prior to this ignore the target's Sp. Defense Increases and apply a random Stat Reduction to the foe.",
+    "description": "Let the hunt begin!",
+    "category": "Special"
+}

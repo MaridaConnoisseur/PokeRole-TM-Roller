@@ -1,0 +1,11 @@
+{
+    "name": "Fury Cutter",
+    "type": "Bug",
+    "power": 1,
+    "damage": "Strength/Dexterity",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Successive Actions. Cutter Move.",
+    "description": "The Pokémon uses their claws or scythes to rapidly cut as if shredding paper.",
+    "category": "Physical"
+}

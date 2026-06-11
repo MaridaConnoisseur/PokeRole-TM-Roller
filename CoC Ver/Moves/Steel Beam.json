@@ -1,0 +1,11 @@
+{
+    "name": "Steel Beam",
+    "type": "Steel",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. Recoil.",
+    "description": "A concentrated ray of light that is capable of melting even the thickest steel plates. Unfortunately, the user is also made of steel.",
+    "category": "Special"
+}

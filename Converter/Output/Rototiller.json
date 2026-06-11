@@ -1,0 +1,11 @@
+{
+    "name": "Rototiller",
+    "type": "Ground",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Battlefield",
+    "effect": "Target Battlefield. Increase by 1 the Strength and Special of all Grass-Type Pokemon.",
+    "description": "The Pokémon digs around the battlefield to soften the soil and make it ideal for harvest.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Shore Up",
+    "type": "Ground",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Self",
+    "effect": "Target Self. Basic Heal. If successful, spend 1 Will point to activate. If performed under Sandstorm weather, this Move is a Complete Heal.",
+    "description": "The Pokémon gathers the sand around themselves to restore their body to shape.",
+    "category": "Support"
+}

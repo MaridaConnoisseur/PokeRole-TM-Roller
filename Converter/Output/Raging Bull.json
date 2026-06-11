@@ -1,0 +1,11 @@
+{
+    "name": "Raging Bull",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. *The Type of this Move becomes the same as the User's Secondary Type if possible, otherwise their Main Type. This affects Weakness, Resistances and STAB accordingly.",
+    "description": "The Pokémon charges against a foe, trampling through with a righteous fury, a blazing rage, a cold wrath, or maybe just the senseless desire for violence.",
+    "category": "Physical"
+}

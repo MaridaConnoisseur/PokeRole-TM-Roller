@@ -1,0 +1,11 @@
+{
+    "name": "Electrify",
+    "type": "Electric",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Reaction 1. All Damage of the Next Physical or Special Move the Target performs will become Electric-Type",
+    "description": "The user hurls a sudden electric jolt onto its target. The target’s is now charged and will need to release the excess energy through an attack.",
+    "category": "Support"
+}

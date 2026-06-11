@@ -1,0 +1,11 @@
+{
+    "name": "Heart Stamp",
+    "type": "Psychic",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Dice to Flinch the Target.",
+    "description": "The Pokémon controls the emotions of their victims just as they start to feel loved and safe, the Pokémon strikes. The poor victim is left broken hearted for a few seconds.",
+    "category": "Physical"
+}

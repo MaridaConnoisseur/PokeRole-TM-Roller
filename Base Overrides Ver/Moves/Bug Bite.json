@@ -1,0 +1,11 @@
+{
+    "name": "Bug Bite",
+    "type": "Bug",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Bite Move. If the target Pokemon is holding a berry, the User eats it and gains its effects.",
+    "description": "The Pokémon nibbles at their foe in hopes of finding something tasty to snack on.",
+    "category": "Physical"
+}

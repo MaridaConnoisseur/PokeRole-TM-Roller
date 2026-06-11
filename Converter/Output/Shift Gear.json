@@ -1,0 +1,11 @@
+{
+    "name": "Shift Gear",
+    "type": "Steel",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Self",
+    "effect": "Target Self. Increase the User's Strength by 1 and its Dexterity by 2.",
+    "description": "Once the Pokémon shifts to the fifth gear, nothing will stop them.",
+    "category": "Support"
+}

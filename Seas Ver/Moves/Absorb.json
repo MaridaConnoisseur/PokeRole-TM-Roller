@@ -1,0 +1,11 @@
+{
+    "name": "Absorb",
+    "type": "Grass",
+    "power": 1,
+    "damage": "Special",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. The User restores HP equal to half the damage dealt, rounded down.",
+    "description": "The user takes nutrients from the nearest source of life they find.",
+    "category": "Special"
+}

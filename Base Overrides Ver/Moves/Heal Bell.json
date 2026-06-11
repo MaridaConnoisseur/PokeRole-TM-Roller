@@ -1,0 +1,11 @@
+{
+    "name": "Heal Bell",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "All Allies",
+    "effect": "Target User and Allies in Range. Sound Move. Cure any Status Ailment on the Targets.",
+    "description": "The soothing chime of a magical bell cleanses all impurities.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Dual Wingbeat",
+    "type": "Flying",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Double action.",
+    "description": "The Pokémon slams the foe from above. Each wing provides a good smacking.",
+    "category": "Physical"
+}

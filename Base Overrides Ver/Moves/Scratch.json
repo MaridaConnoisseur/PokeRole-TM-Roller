@@ -1,0 +1,11 @@
+{
+    "name": "Scratch",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. ",
+    "description": "The Pokémon uses their sharp claws to scratch the enemy. Nothing fancy but it works.",
+    "category": "Physical"
+}

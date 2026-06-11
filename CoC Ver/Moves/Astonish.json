@@ -1,0 +1,11 @@
+{
+    "name": "Astonish",
+    "type": "Ghost",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Dice to Flinch the Foe.",
+    "description": "The user sneaks behind their target to jump scare them.",
+    "category": "Physical"
+}

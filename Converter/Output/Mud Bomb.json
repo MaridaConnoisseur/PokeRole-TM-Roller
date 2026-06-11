@@ -1,0 +1,11 @@
+{
+    "name": "Mud Bomb",
+    "type": "Ground",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Projectile Move. Roll 3 Chance Die to Reduce 1 success to all Accuracy rolls of the Target.",
+    "description": "The Pokémon shoots a ball of mud to burst on their victim’s face in an attempt to blind them.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Earthquake",
+    "type": "Ground",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Area",
+    "effect": "Area Move. Ranged. If the Target is out of range due to using the Move \"Dig\" this Move hits anyways.",
+    "description": "The user calls the forces of nature. The earth shakes violently and everything crumbles to the ground.",
+    "category": "Physical"
+}

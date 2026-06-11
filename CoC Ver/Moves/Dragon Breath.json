@@ -1,0 +1,11 @@
+{
+    "name": "Dragon Breath",
+    "type": "Dragon",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Dice to Paralyze the Target.",
+    "description": "A mystical flame breath that feels strengely cold to the touch. It doesn’t burn in a conventional way.",
+    "category": "Special"
+}

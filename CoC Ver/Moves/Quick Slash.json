@@ -1,0 +1,11 @@
+{
+    "name": "Quick Slash",
+    "type": "Typeless",
+    "power": 2,
+    "damage": "Strength/Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Priority 1. Gain 1 Dexterity after use. Slicing.",
+    "description": "A Quick slash with the blade.",
+    "category": "Physical"
+}

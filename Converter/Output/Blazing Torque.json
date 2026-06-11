@@ -1,0 +1,11 @@
+{
+    "name": "Blazing Torque",
+    "type": "Fire",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. Ranged. Roll 3 Chance dice to inflict 2nd Degee Burn on the Target.",
+    "description": "The user is spun into a fiery torque with live flames on it!",
+    "category": "Physical"
+}

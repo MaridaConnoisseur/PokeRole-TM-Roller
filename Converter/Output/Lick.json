@@ -1,0 +1,11 @@
+{
+    "name": "Lick",
+    "type": "Ghost",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Dice to Paralyze the Target.",
+    "description": "The Pokémon licks the foe. The foe is deeply disturbed by this creepy display of “affection”.",
+    "category": "Physical"
+}

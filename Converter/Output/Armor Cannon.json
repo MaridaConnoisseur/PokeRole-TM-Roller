@@ -1,0 +1,11 @@
+{
+    "name": "Armor Cannon",
+    "type": "Fire",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Reduce by 1 the User's Defense and Sp. Defense.",
+    "description": "The user shoots a mighty blast by using its own armor out as blazing projectiles.",
+    "category": "Special"
+}

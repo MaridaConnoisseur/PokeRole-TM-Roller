@@ -1,0 +1,11 @@
+{
+    "name": "Fire Punch",
+    "type": "Fire",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Fist Move. Roll 1 Chance Die to inflict 2nd Degree Burn on the Target.",
+    "description": "A fist powered by the fiery spirit of combat, the heat of the battle lights of for real as the punch hits the foe right where it hurts!",
+    "category": "Physical"
+}

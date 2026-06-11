@@ -1,0 +1,11 @@
+{
+    "name": "Leech Life",
+    "type": "Bug",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. The User restores HP equal to half the damage dealt, rounded down.",
+    "description": "The Pokémon clings to their foe, then bites in and starts to suck away its life force.",
+    "category": "Physical"
+}

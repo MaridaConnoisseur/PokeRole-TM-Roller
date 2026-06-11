@@ -1,0 +1,11 @@
+{
+    "name": "Rallying Shout",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "User and Allies",
+    "effect": "Grants targets 2 Temporary Hit Points that fade at the end of the next round.",
+    "description": "A cry that bolsters the troops, keeping them in the game longer than they should.",
+    "category": "Support"
+}

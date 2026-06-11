@@ -1,0 +1,11 @@
+{
+    "name": "Chilling Water",
+    "type": "Water",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Reduce the Target's Strength by 1.",
+    "description": "The Pokémon douses cold water in the head of their foe in order to make them think straight. Surprisingly, it works.",
+    "category": "Special"
+}

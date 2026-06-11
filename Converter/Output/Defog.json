@@ -1,0 +1,11 @@
+{
+    "name": "Defog",
+    "type": "Flying",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Battlefield",
+    "effect": "Target Battlefield. Remove all Force Fields, Entry Hazards and Terrains (Misty Terrain, Electric Terrain, etc.) from the Battlefield.",
+    "description": "A strong wind sweeps out the battle field, removing anything from bad weather to scattered objects and even invisible barriers.",
+    "category": "Support"
+}

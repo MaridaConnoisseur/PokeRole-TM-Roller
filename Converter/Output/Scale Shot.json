@@ -1,0 +1,11 @@
+{
+    "name": "Scale Shot",
+    "type": "Dragon",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Ranged. Successive Actions. *If all 5 actions land successfully, Increase the User's Dexterity by 1, and lower the User's Defense by 1.",
+    "description": "The Pokémon’s scales burst out as if they were shrapnel from a grenade.",
+    "category": "Physical"
+}

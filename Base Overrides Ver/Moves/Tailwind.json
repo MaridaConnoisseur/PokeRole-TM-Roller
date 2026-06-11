@@ -1,0 +1,11 @@
+{
+    "name": "Tailwind",
+    "type": "Flying",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "User's Battlefield",
+    "effect": "Wind Based. For the Next 4 Rounds, Increase the base Dexterity of the User and Allies by 2.",
+    "description": "User flaps its wings and casts a turbulent wind that helps the team move significantly faster.",
+    "category": "Support"
+}

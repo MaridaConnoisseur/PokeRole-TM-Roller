@@ -1,0 +1,11 @@
+{
+    "name": "Cosmic Power",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Self",
+    "effect": "Target Self. Increase by 1 the User's Defense and Sp. Defense.",
+    "description": "The Pokémon elevates their cosmos to enhance their physical and mental fortitude.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Aurora Veil",
+    "type": "Ice",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Ally's Battlefield",
+    "effect": "Target User's Side of the Field. Force Field against Physical & Special Damage. This move will fail if not performed under Hail/Snowy Weather. Duration 4 Rounds, even if Hail or Snow Weather is over.",
+    "description": "If the weather is cold enough, beautiful aurora lights will cover half of the battlefield, deflecting attacks.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Comet Punch",
+    "type": "Normal",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Fist Move. Successive Actions.",
+    "description": "A series of rapid punches. So fast they leace a luminous trail behind like a comet’s.",
+    "category": "Physical"
+}

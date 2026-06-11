@@ -1,0 +1,11 @@
+{
+    "name": "Play Rough",
+    "type": "Fairy",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Roll 1 Chance Dice to Reduce Target's Strength by 1.",
+    "description": "The Pokémon and their foe start a playful wrestle that soon escalates into a furious wrestling match.",
+    "category": "Physical"
+}

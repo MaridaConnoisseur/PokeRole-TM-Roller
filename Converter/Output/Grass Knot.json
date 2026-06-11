@@ -1,0 +1,11 @@
+{
+    "name": "Grass Knot",
+    "type": "Grass",
+    "power": 1,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. *Add 1 Extra Damage Dice for every 50kg of weight on the foe, up to 4 Dice may be added this way.",
+    "description": "The user snares the foe’s feet with a grass tangle to make it fall into the ground. The bigger they are, the harder they fall.",
+    "category": "Special"
+}

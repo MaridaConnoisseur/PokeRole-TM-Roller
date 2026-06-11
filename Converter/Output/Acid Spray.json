@@ -1,0 +1,11 @@
+{
+    "name": "Acid Spray",
+    "type": "Poison",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Projectile Move. Reduce the Target's Sp. Defense by 2.",
+    "description": "Do not point at face or eyes. Keep away from children.",
+    "category": "Special"
+}

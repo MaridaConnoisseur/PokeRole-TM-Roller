@@ -1,0 +1,11 @@
+{
+    "name": "Salt Cure",
+    "type": "Rock",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Ranged. Ongoing Damage. Duration 4 Rounds. Steel-Type and Water-Type Pokemon receive Super-Effective Damage from this Move and 1 Extra Damage from the Ongoing Damage.",
+    "description": "The user covers the foe with a salt crust, the salt irritates the skin and drehydrates the victim. It can even rust metal in a few seconds.",
+    "category": "Physical"
+}

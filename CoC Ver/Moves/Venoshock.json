@@ -1,0 +1,11 @@
+{
+    "name": "Venoshock",
+    "type": "Poison",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. *If the Target is already Poisoned, add 2 Extra Dice to the Damage Pool.",
+    "description": "The Pokémon identifies the weakest prey and makes an opportunistic shot.",
+    "category": "Special"
+}

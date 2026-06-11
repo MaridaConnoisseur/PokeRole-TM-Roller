@@ -1,0 +1,11 @@
+{
+    "name": "Sonic Boom",
+    "type": "Normal",
+    "power": 0,
+    "damage": "SetDamage",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. This Move always inflict 1 Typeless damage. Ignore Defenses, Force Fields, Shield Moves, Cover, Out of Range, Type or Ability that would prevent this damage.",
+    "description": "The Pokémon makes use of a small but very destructive shock that goes through any wall, layer or wall.",
+    "category": "Special"
+}

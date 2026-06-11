@@ -1,0 +1,11 @@
+{
+    "name": "Sizzly Slide",
+    "type": "Fire",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Inflict 1st Degree Burn on the Target. If the User of this Move is at its Final Stage of Evolution, this move fails.",
+    "description": "The user slides on the floor as if it was ice-skating, only there is no ice, only a raging fire.",
+    "category": "Physical"
+}

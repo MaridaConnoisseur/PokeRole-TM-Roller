@@ -1,0 +1,11 @@
+{
+    "name": "Giga Impact",
+    "type": "Normal",
+    "power": 6,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Must Recharge. Lethal.",
+    "description": "The Pokémon strikes with such a brutal force they leave a crater just from the impact. Let them catch their breath afterwards.",
+    "category": "Physical"
+}

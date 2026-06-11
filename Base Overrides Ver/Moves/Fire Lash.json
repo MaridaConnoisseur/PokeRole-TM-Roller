@@ -1,0 +1,11 @@
+{
+    "name": "Fire Lash",
+    "type": "Fire",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Reduce Foe's Defense by 1.",
+    "description": "With a whip of fire, the Pokémon ensnares its foe, who is left defenseless and at its mercy",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Decorate",
+    "type": "Fairy",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Beauty",
+    "target": "Ally",
+    "effect": "Target One Ally. Increase by 2 the Strength and Special of the Target.",
+    "description": "With just a bit of cake frosting the Pokémon decorates their target to look bigger, more powerful and incredibly delicious!",
+    "category": "Support"
+}

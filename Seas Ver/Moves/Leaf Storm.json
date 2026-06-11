@@ -1,0 +1,11 @@
+{
+    "name": "Leaf Storm",
+    "type": "Grass",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Reduce the User's Special by 2.",
+    "description": "A furious onslaught of sharp leaves blasting against the target. The user gives their all in this attack.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Mega Punch",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Fist Move.",
+    "description": "The Pokémon packs everything into this punch to pulverize their foe with a single strike.",
+    "category": "Physical"
+}

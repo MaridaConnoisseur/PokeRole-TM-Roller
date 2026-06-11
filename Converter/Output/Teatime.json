@@ -1,0 +1,11 @@
+{
+    "name": "Teatime",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cool/Beauty",
+    "target": "Area",
+    "effect": "Area Move. Those Affected will eat their held berries and berries on their Trainer's Bag without gaining their effects. Outside of battle, it will diffuse violent intentions for a few minutes.",
+    "description": "The Pokémon gathers everyone for a cup of delicious tea, not eating a snack along with it would be a waste.",
+    "category": "Support"
+}

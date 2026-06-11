@@ -1,0 +1,11 @@
+{
+    "name": "Origin Pulse",
+    "type": "Water",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Low Accuracy 2. Lethal. Unique. Ignore the Target's immunity to Water-Type Damage. If a Target is \"Out of Range\" due to using a Move, this Move hits anyways.",
+    "description": "The Pokémon sends a giant pulse underwater that creates a chain reaction in the tides, creating a series of tsunami waves. Not even water-pokemon can surf through these wild currents.",
+    "category": "Special"
+}

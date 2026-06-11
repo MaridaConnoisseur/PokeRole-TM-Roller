@@ -1,0 +1,11 @@
+{
+    "name": "Harden",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "Self",
+    "effect": "Target Self. Increase the User's Defense by 1.",
+    "description": "When life gets hard, do the same.",
+    "category": "Support"
+}

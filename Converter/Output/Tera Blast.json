@@ -1,0 +1,11 @@
+{
+    "name": "Tera Blast",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength/Special",
+    "accuracy": "Strength/Special",
+    "target": "Foe",
+    "effect": "Single Target. *If the User is actively Terastallized, the Type of this Move changes to match that of the Tera-Type. This affects Weaknesses, Resistances and STAB accordingly.",
+    "description": "A blast of sharp crystals and Tera energy, if the Pokémon is Terastallized the energy’s type will change. It is something beautiful to witness.",
+    "category": "Physical/Special"
+}

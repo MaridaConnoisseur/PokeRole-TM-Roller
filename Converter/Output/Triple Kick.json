@@ -1,0 +1,11 @@
+{
+    "name": "Triple Kick",
+    "type": "Fighting",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Triple Action. *Add 1 Extra Die to the Damage Pool of the third hit.",
+    "description": "The good ol’ one-two with an even better twist! They never see that last hit coming.",
+    "category": "Physical"
+}

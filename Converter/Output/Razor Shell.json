@@ -1,0 +1,11 @@
+{
+    "name": "Razor Shell",
+    "type": "Water",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Cutter Move. Roll 1 Chance Die to Reduce the Target's Defense by 1.",
+    "description": "The Pokémon sharpens a seashell to use as a cutting tool, when this shell manages to cut through the foe’s armor, they’ll finally will have mastered the craft.",
+    "category": "Physical"
+}

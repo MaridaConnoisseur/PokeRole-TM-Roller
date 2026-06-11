@@ -1,0 +1,11 @@
+{
+    "name": "Pay Day",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Ranged. At the end of the battle give Money to your Trainer Equal to their Rank: Starter/Rookie - 100 Standard - 250 Advanced - 500 Ace or more - 1000",
+    "description": "This Pokémon brings good fortune to businesses and trainers alike. Make sure to use some of that hard earned money to buy them a treat.",
+    "category": "Physical"
+}

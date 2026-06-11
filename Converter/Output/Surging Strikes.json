@@ -1,0 +1,11 @@
+{
+    "name": "Surging Strikes",
+    "type": "Water",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Successive Actions. Unique. This Move is always considered Critical Hit and gets the proper bonus for it.",
+    "description": "The ultimate technique from the swift “Water Style”. The User flows and smashes like waves striking a cliff.",
+    "category": "Physical"
+}

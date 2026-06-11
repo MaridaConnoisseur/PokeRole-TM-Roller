@@ -1,0 +1,11 @@
+{
+    "name": "Aqua Tail",
+    "type": "Water",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity/Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Roll 3 Chance Dice to Flinch the Target.",
+    "description": "The user sways their tail to create a pocket whirlpool in which the foe gets sucked in by the spinning motion.",
+    "category": "Physical"
+}

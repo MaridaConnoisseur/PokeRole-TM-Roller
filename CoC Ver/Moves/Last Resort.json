@@ -1,0 +1,11 @@
+{
+    "name": "Last Resort",
+    "type": "Normal",
+    "power": 6,
+    "damage": "Strength",
+    "accuracy": "Will",
+    "target": "Foe",
+    "effect": "Single Target. This Move will fail if the User has not successfully performed all of its known Moves at least once during the battle.",
+    "description": "The Pokémon may be out of energy, but never out of options.",
+    "category": "Physical"
+}

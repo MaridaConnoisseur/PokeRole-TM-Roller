@@ -1,0 +1,11 @@
+{
+    "name": "Dragon Pulse",
+    "type": "Dragon",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target.",
+    "description": "The Pokémon sends out a powerful wave of energy through their mouth.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Fleur Cannon",
+    "type": "Fairy",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Lethal. Unique. Reduce User's Special by 2.",
+    "description": "A light beam pierces the battlefield, it deals devastating damage but leaves newly grown flowers instead of scorched earth. The user is left feeling very tired.",
+    "category": "Special"
+}

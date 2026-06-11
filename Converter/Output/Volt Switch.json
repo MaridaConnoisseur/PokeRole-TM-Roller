@@ -1,0 +1,11 @@
+{
+    "name": "Volt Switch",
+    "type": "Electric",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Switcher Move for the User.",
+    "description": "The user shoots a wave of electric rings that allow it to reteat to safety at the speed of lightning.",
+    "category": "Special"
+}

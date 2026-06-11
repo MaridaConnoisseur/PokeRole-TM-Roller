@@ -1,0 +1,11 @@
+{
+    "name": "Steel Roller",
+    "type": "Steel",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. Can't be used if there is no Active Terrain (Grassy Terrain, Electric Terrain, etc.) on the Battlefield. Remove any active Terrain on the Battlefield.",
+    "description": "The Pokémon rolls into a wheel, destroying anything in their path. Buildings come crashing down, forests are swept away and the soil is left as a blank slate.",
+    "category": "Physical"
+}

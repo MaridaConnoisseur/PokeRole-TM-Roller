@@ -1,0 +1,11 @@
+{
+    "name": "Destiny Bond",
+    "type": "Ghost",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Self",
+    "effect": "Target Self. If the user faints this Round due to damage frm a Physical or Special Move, the Pokemon who dealt the damage is dealt damage equal to their remaining Hp. This Move will fail if it was used the previous Round.",
+    "description": "Through a mystical bond, everyone who brings disgrace to this Pokémon will suffer the exact same fate.",
+    "category": "Support"
+}

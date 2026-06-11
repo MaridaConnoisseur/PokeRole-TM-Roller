@@ -1,0 +1,11 @@
+{
+    "name": "Touch of Death",
+    "type": "Typeless",
+    "power": 4,
+    "damage": "Strength/Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Triple Action. Inflicts Badly Poisoned Status. After this move has been used, it cannot be used again until the User has used another move.",
+    "description": "You press your palm against your foe, inflicting grevious harm.",
+    "category": "Physical"
+}

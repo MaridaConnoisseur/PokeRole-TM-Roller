@@ -1,0 +1,11 @@
+{
+    "name": "Coil",
+    "type": "Poison",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "Self",
+    "effect": "Target Self. Increase by 1 the User's Strength and Defense score and Accuracy Pools.",
+    "description": "The Pokémon curls up into themselves. Foes soon realize this is not the position of a prey in hiding, but of a hunter about to spit their venom.",
+    "category": "Support"
+}

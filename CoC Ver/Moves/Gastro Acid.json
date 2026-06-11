@@ -1,0 +1,11 @@
+{
+    "name": "Gastro Acid",
+    "type": "Poison",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Nullify the target's Ability. Lasts 4 Rounds.",
+    "description": "The user spits some of its own gastric juices. The acid prevents the foe from using its special abilities.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Rapid Spin",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Dancing. Remove Hazards (Spikes, Stealth Rock, etc.) from the User's side of the field. Remove Leech Seed and the effects of moves which inflict the Blocked Status and deal end of Round damage from the User (ex: Fire Spin, Whirlpool etc.) Increase the User's Dexterity.",
+    "description": "The Pokemon spins swiftly to strike the foe. Anything near will be scattered around.",
+    "category": "Physical"
+}

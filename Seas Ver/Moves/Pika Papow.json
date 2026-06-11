@@ -1,0 +1,11 @@
+{
+    "name": "Pika Papow",
+    "type": "Electric",
+    "power": 1,
+    "damage": "Special",
+    "accuracy": "Cool",
+    "target": "Foe",
+    "effect": "Single Target. *Add 1 Extra Die to the Damage Pool of this Move for every point of Happiness on the User. Up to 5 Dice may be added this way. If the user of this Move is at its Final Stage of Evolution, this move fails.",
+    "description": "The User lets out its energy in the form of a lightning strike, the happier the user feels the more energized it will be.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Bubble",
+    "type": "Water",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Roll 1 Chance Die to Reduce by 1 the Dexterity of those affected.",
+    "description": "Dozens of bubbles are sent floating through the battlefield. The foes can’t resist the temptation to burst the pretty bubbles, only for the bubbles to explode for real when they do.",
+    "category": "Special"
+}

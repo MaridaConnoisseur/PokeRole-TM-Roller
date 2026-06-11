@@ -1,0 +1,11 @@
+{
+    "name": "Wildbolt Storm",
+    "type": "Electric",
+    "power": 4,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Area",
+    "effect": "Area Move. Low Accuracy 2. Lethal. Wind Move. Roll 3 Chance Dice to Paralyze those affected.",
+    "description": "The whole battlefield becomes engulfed in a wild lightning storm. Leaving the safety of cover could be a fatal mistake.",
+    "category": "Special"
+}

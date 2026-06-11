@@ -1,0 +1,11 @@
+{
+    "name": "Iron Head",
+    "type": "Steel",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Dice to flinch the Target.",
+    "description": "The Pokémon charges to cure the foe’s iron deficit.",
+    "category": "Physical"
+}

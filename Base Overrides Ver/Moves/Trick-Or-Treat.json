@@ -1,0 +1,11 @@
+{
+    "name": "Trick-Or-Treat",
+    "type": "Ghost",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Foe",
+    "effect": "Single Target. Add the Ghost Type to the Target's Type. (ie Pikachu will now be \"Electric/Ghost\", Charizard will not be \"Fire/Flying/Ghost\") If the Target already has a third Type attached, replace it.",
+    "description": "The user invites their foe to go trick-or-treating. The foe puts on a ghost costume that cannot be removed without an exorcism or help from the Pokémon center.",
+    "category": "Support"
+}

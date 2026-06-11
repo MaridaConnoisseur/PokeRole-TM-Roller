@@ -1,0 +1,11 @@
+{
+    "name": "Vine Whip",
+    "type": "Grass",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. ",
+    "description": "The Pokémon uses its body vines to give the foe a good smack. These vines can be as long as 20 feet and quite surdy as ropes.",
+    "category": "Physical"
+}

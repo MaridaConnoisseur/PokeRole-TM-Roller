@@ -1,0 +1,11 @@
+{
+    "name": "Temper Flare",
+    "type": "Fire",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. *Add 2 Extra Dice to the Damage Pool of this Move is the User failed the Accuracy roll of the last Move it performed.",
+    "description": "The Pokémon is a hot-head whose temper grows ever fiercer when dealing with frustration.",
+    "category": "Physical"
+}

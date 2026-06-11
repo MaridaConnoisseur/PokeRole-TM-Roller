@@ -1,0 +1,11 @@
+{
+    "name": "Skull Bash",
+    "type": "Normal",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. Charge Move. While this Move is charging, Increase the User's Defense by 1.",
+    "description": "The user withdraws into their shell, after a few seconds of them not moving, the foe goes to inspect and the user pops their head out in in a devastating strike.",
+    "category": "Physical"
+}

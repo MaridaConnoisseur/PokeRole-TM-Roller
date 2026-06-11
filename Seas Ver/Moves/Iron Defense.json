@@ -1,0 +1,11 @@
+{
+    "name": "Iron Defense",
+    "type": "Steel",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "Self",
+    "effect": "Target Self. Increase the User's Defense by 2.",
+    "description": "Iron body, iron will. This Pokémon is unbreakable.",
+    "category": "Support"
+}

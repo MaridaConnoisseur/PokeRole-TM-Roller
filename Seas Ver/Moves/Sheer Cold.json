@@ -1,0 +1,11 @@
+{
+    "name": "Sheer Cold",
+    "type": "Ice",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 5. Ranged. Deal Damage to the Target equal to its Remaining HP, plus 1 Lethal Damage.",
+    "description": "The Pokémon reaches an absolute zero by being freezed from the inside out. Urgent medical attention is required.",
+    "category": "Special"
+}

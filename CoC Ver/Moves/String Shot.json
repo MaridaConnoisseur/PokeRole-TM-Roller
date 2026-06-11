@@ -1,0 +1,11 @@
+{
+    "name": "String Shot",
+    "type": "Bug",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "All Foes",
+    "effect": "Pulse Move. Reduce the Dexterity of those affected.",
+    "description": "The user shoots a silk string that ties and limits the movement of its foe.",
+    "category": "Support"
+}

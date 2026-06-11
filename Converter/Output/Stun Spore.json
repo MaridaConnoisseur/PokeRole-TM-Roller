@@ -1,0 +1,11 @@
+{
+    "name": "Stun Spore",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 3. Powder Move. Paralyze the Target.",
+    "description": "A cloud of paralyzing pollen that affects the nerves and cramps the muscles of those who inhale it.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Drill Run",
+    "type": "Ground",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. High Critical.",
+    "description": "The Pokémon holds their claws together and starts spinning as if they were a drill. They can puncture a hole into any surface from walls and floors to their foes.",
+    "category": "Physical"
+}

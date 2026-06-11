@@ -1,0 +1,11 @@
+{
+    "name": "Blast Burn",
+    "type": "Fire",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Lethal. Must Recharge.",
+    "description": "The Pokémon creates an enormous blast of infernal flames, surviving would be a miracle!",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Ice Punch",
+    "type": "Ice",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Fist Move. Roll 1 Chance Dice to Freeze the Target.",
+    "description": "The Pokémon wears their ice gloves to punch the foe. Yes. Gloves made of ice.",
+    "category": "Physical"
+}

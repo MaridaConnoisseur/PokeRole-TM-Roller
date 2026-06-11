@@ -1,0 +1,11 @@
+{
+    "name": "Brine",
+    "type": "Water",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. *Add 3 Extra Dice to the Damage Pool if the Target is at half HP or less.",
+    "description": "A splash of sea water that literally adds more and more salt to the foe’s wounds.",
+    "category": "Special"
+}

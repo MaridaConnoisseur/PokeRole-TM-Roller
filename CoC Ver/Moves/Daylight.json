@@ -1,0 +1,11 @@
+{
+    "name": "Daylight",
+    "type": "Typeless",
+    "power": 2,
+    "damage": "Special/Strength",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Heal all Allies for health equal to your Rank Bonus. All foes suffer -2 Damage Dice until the end of your next turn. This move cannot be used again until the user has used a different move.",
+    "description": "You bring forth a light that smothers out the darkness.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Twin Beam",
+    "type": "Psychic",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Double Action.",
+    "description": "The Pokémon shoots a beam, and as if had a mind of its own, another part of their body also shoots a beam along.",
+    "category": "Special"
+}

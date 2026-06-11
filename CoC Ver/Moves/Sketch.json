@@ -1,0 +1,11 @@
+{
+    "name": "Sketch",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Never Fail. Copy the last move the target used. This move is added to your learnset (replacing Sketch). Moves learned this way may be reverted back to Sketch by using a Respec Potion. Custom moves are instead copied until the end of the scene.",
+    "description": "The Pokemon draws its foe performing a move. It learns how to perform that move in the process.",
+    "category": "Support"
+}

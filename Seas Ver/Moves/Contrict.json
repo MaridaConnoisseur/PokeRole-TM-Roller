@@ -1,0 +1,11 @@
+{
+    "name": "Contrict",
+    "type": "Normal",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. This Move deals Typeless Damage. Roll 1 Chance Die to Reduce the Target's Dexterity by 1.",
+    "description": "",
+    "category": "Physical"
+}

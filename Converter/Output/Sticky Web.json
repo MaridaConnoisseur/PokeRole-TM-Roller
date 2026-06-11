@@ -1,0 +1,11 @@
+{
+    "name": "Sticky Web",
+    "type": "Bug",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe's Battlefield",
+    "effect": "Target's Foe's Side of the Field. Entry Hazard. Reduce by 1 the Dexterity of Foes that enter the battlefield. Pokemon with Immunity to Ground are not affected.",
+    "description": "The Pokémon quickly covers the arena with a sticky web, newly arrived foes will have trouble moving with ease.",
+    "category": "Support"
+}

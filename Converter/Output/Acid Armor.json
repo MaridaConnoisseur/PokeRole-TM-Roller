@@ -1,0 +1,11 @@
+{
+    "name": "Acid Armor",
+    "type": "Poison",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "Self",
+    "effect": "Target Self. Increase the User's Defense by 2.",
+    "description": "Highly acidic goop oozes through the pores of this Pokémon. Touching it immediately causes a burning pain. Preventing foes from getting too close.",
+    "category": "Support"
+}

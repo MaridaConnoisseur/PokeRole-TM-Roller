@@ -1,0 +1,11 @@
+{
+    "name": "Smog",
+    "type": "Poison",
+    "power": 1,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Roll 4 Chance Dice to Poison the Target.",
+    "description": "The Pokémon releases a stream of filthy gases. The foe may try to hold their breath, but for how long?",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Stomp",
+  "type": "Normal",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Kicking. Roll 3 Chance Dice to Flinch the foe.",
+  "description": "The Pokemon steps and stomps the foe, the weight may leave the target squashed on the floor.",
+  "category": "Physical"
+}

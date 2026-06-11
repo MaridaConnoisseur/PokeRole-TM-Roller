@@ -1,0 +1,11 @@
+{
+    "name": "String Shot",
+    "type": "Bug",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Targets All Foes in Range. Reduce by 1 the Dexterity of those affected.",
+    "description": "The foe gets tangled in a fine silk string shot by the user. This silk can also be used to make fine clothes.",
+    "category": "Support"
+}

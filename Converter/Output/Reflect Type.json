@@ -1,0 +1,11 @@
+{
+    "name": "Reflect Type",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Self",
+    "effect": "Target Self. Change the User's Type to match the one(s) of a foe. (ie Staryu is battle vs Charizard, their type will become Fire/Flying intead of Water) Whole Scene Duration.",
+    "description": "The Pokémon is able to rewrite their own cellular composition at will to match that of potential predators. Increasing chances of survival.",
+    "category": "Support"
+}

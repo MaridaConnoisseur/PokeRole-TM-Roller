@@ -1,0 +1,11 @@
+{
+    "name": "Crush Claw",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Roll 5 Chance Dice to Reduce the Target's Defense by 2.",
+    "description": "With a crushing grip against the foe, the user manages to break their armor.",
+    "category": "Physical"
+}

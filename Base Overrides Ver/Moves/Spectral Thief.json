@@ -1,0 +1,11 @@
+{
+    "name": "Spectral Thief",
+    "type": "Ghost",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Unique. Before the User deals damage with this Move, steal all Attribute Increases the Target may have. Reduced Attributes on the Target remain.",
+    "description": "Through the shadows, the user sneaks on its target to steal its life force and consume it, leaving the victim with a sense of grief and loss.",
+    "category": "Physical"
+}

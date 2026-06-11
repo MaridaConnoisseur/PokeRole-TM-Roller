@@ -1,0 +1,11 @@
+{
+    "name": "Rock Slide",
+    "type": "Rock",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Low Accuracy 1. Ranged. Roll 3 Chance Dice to Flinch those affected.",
+    "description": "Don’t worry, even if you are not the fastest one in the race, you can still win by a landslide.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Breaking Swipe",
+    "type": "Dragon",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "All Foes",
+    "effect": "All Foes in Range. Reduce by 1 the Strength of those affected.",
+    "description": "The Pokémon will make a long swipe at using its tail. All foes fall to the ground and come up pretty bruised.",
+    "category": "Physical"
+}

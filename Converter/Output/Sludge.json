@@ -1,0 +1,11 @@
+{
+    "name": "Sludge",
+    "type": "Poison",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Dice to Poison the Target.",
+    "description": "What is it with these Poison Types and covering their victims with all kinds of organic waste?!",
+    "category": "Special"
+}

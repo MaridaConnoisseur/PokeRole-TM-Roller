@@ -1,0 +1,11 @@
+{
+    "name": "Spike Cannon",
+    "type": "Normal",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Ranged. Successive Actions. Projectile Move.",
+    "description": "The Pokémon shoots wave after wave of hundreds of tiny spikes.",
+    "category": "Physical"
+}

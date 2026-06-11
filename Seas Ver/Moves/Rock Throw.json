@@ -1,0 +1,11 @@
+{
+    "name": "Rock Throw",
+    "type": "Rock",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity/Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Ranged.",
+    "description": "Back in the day, this was a common form of amusement amongst Pokémon and children alike.",
+    "category": "Physical"
+}

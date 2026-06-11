@@ -1,0 +1,11 @@
+{
+    "name": "Chloroblast",
+    "type": "Grass",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Recoil.",
+    "description": "The Pokémon concentrates all of the chlorophyll inside of their body to make it explode. Targets are tinted green for days afterwards.",
+    "category": "Special"
+}

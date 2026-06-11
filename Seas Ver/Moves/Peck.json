@@ -1,0 +1,11 @@
+{
+    "name": "Peck",
+    "type": "Flying",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. ",
+    "description": "Raise crows and they’ll peck your foe’s eyes.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Parting Shot",
+    "type": "Dark",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "Foe",
+    "effect": "Single Target. Switcher Move for the User. Reduce by 1 the Foe's Strength and Special.",
+    "description": "The user throws one last threat against the foe before taking their leave. The foe is left too frightened to try to stand up against the user and their gang.",
+    "category": "Support"
+}

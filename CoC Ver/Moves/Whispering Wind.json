@@ -1,0 +1,11 @@
+{
+    "name": "Whispering Wind",
+    "type": "Typeless",
+    "power": 2,
+    "damage": "Strength/Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Wind Based. Summon a temporary gust which grants All Allies +1 Damage Dice on their next attack.",
+    "description": "Speak, young one, and let the wind hear you~",
+    "category": "Special"
+}

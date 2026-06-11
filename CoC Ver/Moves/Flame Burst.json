@@ -1,0 +1,11 @@
+{
+    "name": "Flame Burst",
+    "type": "Fire",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. After dealing damage, the User may roll 1 die of Fire-Type Damage against two other targets, ignoring defenses.",
+    "description": "A compact fireball that bursts just as it hits the foe, scattering smaller flames to unsuspecting bystanders.",
+    "category": "Special"
+}

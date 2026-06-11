@@ -1,0 +1,11 @@
+{
+    "name": "Mind Reader",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. The User has 2 automatic and unremovable successes on the next Accuracy or Evasion Roll against the Target.",
+    "description": "In a split of second, the Pokémon reads the foe’s mind so they know exactly what to do next.",
+    "category": "Support"
+}

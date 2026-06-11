@@ -1,0 +1,11 @@
+{
+    "name": "Self Destruct",
+    "type": "Normal",
+    "power": 8,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Area",
+    "effect": "Area Move. Lethal. Ranged. The User faints.",
+    "description": "It’s not about winning or losing, some pokémon just want to see the world burn.",
+    "category": "Physical"
+}

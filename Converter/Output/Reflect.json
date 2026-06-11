@@ -1,0 +1,11 @@
+{
+    "name": "Reflect",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Ally's Battlefield",
+    "effect": "Target the User's side of the field. Force Field. Activate a Force Field against Physical Damage. Duration 4 Rounds.",
+    "description": "An ethereal mirror-like wall cuts the battlefield in half, bouncing back the impact of most blows.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Giga Drain",
+    "type": "Grass",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. The User restores HP equal to half the damage dealt, rounded down.",
+    "description": "The Pokémon drains most of the foe’s vital energy and feeds on the nutrients it managed to extract.",
+    "category": "Special"
+}

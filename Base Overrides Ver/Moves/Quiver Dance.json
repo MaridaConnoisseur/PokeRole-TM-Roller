@@ -1,0 +1,11 @@
+{
+    "name": "Quiver Dance",
+    "type": "Bug",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Beauty",
+    "target": "Self",
+    "effect": "Target Self. Increase by 1 the User's Dexterity, Special an Sp. Defense.",
+    "description": "A mystical and beautiful dance that increases a Pokémon focus in combat.",
+    "category": "Support"
+}

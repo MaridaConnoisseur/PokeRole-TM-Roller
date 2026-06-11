@@ -1,0 +1,11 @@
+{
+    "name": "Anchor Shot",
+    "type": "Steel",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Ranged. Blocks. Whole Scene Duration.",
+    "description": "The Pokémon hurls an anchor at the foe and entangles it with seaweed, the anchor drags the foe down so it cannot escape.",
+    "category": "Physical"
+}

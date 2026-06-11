@@ -1,0 +1,11 @@
+{
+    "name": "Unending Gale",
+    "type": "Typeless",
+    "power": 3,
+    "damage": "Strength/Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Wind Based. Sets the Strong Wind Weather and Tailwind for 2 Turns. This is not affected by Climate Stone.",
+    "description": "You will be heard, if they can hear over the typhoon you brought!",
+    "category": "Special"
+}

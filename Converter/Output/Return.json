@@ -1,0 +1,11 @@
+{
+    "name": "Return",
+    "type": "Normal",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. *Add 1 Extra Die to the Damage Pool of this Move for every point of Happiness on the User, up to 5 Dice may be added this way.",
+    "description": "A loved Pokémon grows kind and happy, a Move fueled by gratitude.",
+    "category": "Physical"
+}

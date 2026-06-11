@@ -1,0 +1,11 @@
+{
+    "name": "Work Up",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Strength",
+    "target": "Self",
+    "effect": "Target Self. Increase by 1 the User's Strength and Special.",
+    "description": "The Pokémon has spent a lot of time training and doesn’t miss the chance to show off their muscles and fitness. After the battle they share routines and tips with the other Pokémon.",
+    "category": "Support"
+}

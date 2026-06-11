@@ -1,0 +1,11 @@
+{
+    "name": "Esper Wing",
+    "type": "Psychic",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. High Critical. Increase the User's Dexterity by 1.",
+    "description": "The User slashes the foe with psychic energy channeled through their wings. This energy also allows it to cut through the air and fly faster.",
+    "category": "Special"
+}

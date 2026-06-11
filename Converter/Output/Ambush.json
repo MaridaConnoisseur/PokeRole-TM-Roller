@@ -1,0 +1,11 @@
+{
+    "name": "Ambush",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Before the Battle starts, Target may resist by rolling: Insight + Alert and scoring the same or more Successes. The User has 1 Action before Initiatives are rolled in which the Target can't act. Other foes can still Evade or Clash during this time.",
+    "description": "Sneak through the shadows, stay low to the ground, and prepare yourself to pounce on an unsuspecting foe.",
+    "category": "Support"
+}

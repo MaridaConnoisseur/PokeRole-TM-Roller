@@ -1,0 +1,11 @@
+{
+    "name": "Fury Attack",
+    "type": "Normal",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Successive Actions.",
+    "description": "The Pokémon attacks in a fury, their attacks are uncoordinated but relentless.",
+    "category": "Physical"
+}

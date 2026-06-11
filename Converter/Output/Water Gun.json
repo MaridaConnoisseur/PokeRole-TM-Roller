@@ -1,0 +1,11 @@
+{
+    "name": "Water Gun",
+    "type": "Water",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity/Special",
+    "target": "Foe",
+    "effect": "Single Target. ",
+    "description": "The fastest water gun in town. No enemy will remain dry",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Mega Kick",
+    "type": "Normal",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2.",
+    "description": "A mighty kick. This sheer muscle-power strike can turn concrete pillars into rubble.",
+    "category": "Physical"
+}

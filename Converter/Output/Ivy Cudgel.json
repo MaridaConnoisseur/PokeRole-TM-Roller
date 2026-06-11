@@ -1,0 +1,11 @@
+{
+    "name": "Ivy Cudgel",
+    "type": "Grass",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength/Insight",
+    "target": "Foe",
+    "effect": "Single Target. *The Type of this Move becomes the same as the User's Secondary Type if possible Otherwise their Main Type. This affects Weakness, Resistances, and STAB accordingly.",
+    "description": "The Pokémon creates a club out of thorny ivy vines, this club is infused with the power of nature, everchanging.",
+    "category": "Physical"
+}

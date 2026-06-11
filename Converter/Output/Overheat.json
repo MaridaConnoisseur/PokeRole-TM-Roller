@@ -1,0 +1,11 @@
+{
+    "name": "Overheat",
+    "type": "Fire",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Lethal. Reduce User's Special by 2.",
+    "description": "A furious scorching flame that turns everything on the user’s radius to ash. This incredible destructive display leaves the user exhausted.",
+    "category": "Special"
+}

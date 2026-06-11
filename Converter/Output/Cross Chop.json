@@ -1,0 +1,11 @@
+{
+    "name": "Cross Chop",
+    "type": "Fighting",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. High Critical.",
+    "description": "The Pokémon delivers a chop with crossed arms, a quite impractical but extremely cool technique.",
+    "category": "Physical"
+}

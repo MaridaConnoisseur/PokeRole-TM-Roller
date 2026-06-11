@@ -1,0 +1,11 @@
+{
+    "name": "Take the Gamble",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "",
+    "target": "User",
+    "effect": "Roll a D6. If you roll a 1 You lose 2 HP, If you roll a 2 you gain a random Stat Reduction, if you roll a 3 you gain a random Stat Increase, if you roll a 4 you Heal 2 HP, if you roll a 5 a random target besides yourself Heals 2 HP, and if you roll a 6 use Metronome twice and pick one result to immediately perform.",
+    "description": "Roll me some bones.",
+    "category": "Support"
+}

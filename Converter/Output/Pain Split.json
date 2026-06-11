@@ -1,0 +1,11 @@
+{
+    "name": "Pain Split",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Spend 1 Will Point to activate. *Deal up to 3 Typeless Damage to the Target, Heal 1 HP to the User for every Damage dealt this way. This Move Fails if the User has more than Half HP rounded down. This Move cannot reduce a Target to less than 1 HP.",
+    "description": "The user channels their pain into the foe to relieve their agony. The foe gets to feel the burn of the damage it has caused.",
+    "category": "Support"
+}

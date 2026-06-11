@@ -1,0 +1,11 @@
+{
+  "name": "Needle Arm",
+  "type": "Grass",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Fist Based. Roll 3 Chance Dice to Flinch the Foe.",
+  "description": "The Pokemon hits the foe with its flailing arms, some thorns may get stuck on the target like needles.",
+  "category": "Physical"
+}

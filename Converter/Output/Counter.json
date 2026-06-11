@@ -1,0 +1,11 @@
+{
+    "name": "Counter",
+    "type": "Fighting",
+    "power": 0,
+    "damage": "Varies",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Late Reaction 5. Can only be used if Target's last Move on User was a Physical Move. For damage, roll dice equal to Target's last damage pool rolled against the User plus 2 dice. Ignore Defenses.",
+    "description": "The Pokémon strikes back at their foe. Showing they can take a hit and punch even harder.",
+    "category": "Physical"
+}

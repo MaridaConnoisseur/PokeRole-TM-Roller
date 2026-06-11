@@ -1,0 +1,11 @@
+{
+    "name": "Sacred Sword",
+    "type": "Fighting",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Cutter Move. Ignore Defenses.",
+    "description": "The user slashes at its target with a mighty blade. Theres no hide nor armor thick enough to resist its valorous steel.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Dragon Cheer",
+    "type": "Dragon",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "All Allies",
+    "effect": "Target Allies in Range. All Physical and Special Moves of the Allies now have the \"High Critical\" Added Effect. *If an Ally is a Dragon-Type, Increase their Strength and Special by 1.",
+    "description": "With a mighty roar, the Pokémon fires up the battle spirit of their companions on their quest for victory.",
+    "category": "Support"
+}

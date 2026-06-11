@@ -1,0 +1,11 @@
+{
+    "name": "Mirror Coat",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "Varies",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Late Reaction 5. Can only be used if Target's last Move on User was a Special Move. For damage, roll dice equal to Target's last damage pool rolled against the User plus 2. Ignore Defenses.",
+    "description": "The user gathers the harmful energies around themselves and bounces them back to their source.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Relic Song",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Sound Move. Unique. Roll 1 Chance Die to put the foe to Sleep. If successful, the User may choose to change its form afterwards.",
+    "description": "The user sings and dances to a melody so beautiful you won’t notice you were crying while listening to it.",
+    "category": "Special"
+}

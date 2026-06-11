@@ -1,0 +1,11 @@
+{
+    "name": "Thief",
+    "type": "Dark",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. The User steals the Target's Held Item. If the User already has a Held Item, this effect fails.",
+    "description": "The Pokémon hits their foe and seizes the moment to take some pocket change from its wallet as well.",
+    "category": "Physical"
+}

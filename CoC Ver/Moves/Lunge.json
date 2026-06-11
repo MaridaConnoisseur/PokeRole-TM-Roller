@@ -1,0 +1,11 @@
+{
+  "name": "Lunge",
+  "type": "Bug",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Kicking. Reduce foe's Strength by 1.",
+  "description": "The user charges against the foe at full force, not just to knock it down but to restain it with its many limbs.",
+  "category": "Physical"
+}

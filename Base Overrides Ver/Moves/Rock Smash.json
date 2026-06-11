@@ -1,0 +1,11 @@
+{
+    "name": "Rock Smash",
+    "type": "Fighting",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Roll 5 Chance Dice to Reduce the Target's Defense by 1.",
+    "description": "A hit powerful enough to destroy rocks and crack armor.",
+    "category": "Physical"
+}

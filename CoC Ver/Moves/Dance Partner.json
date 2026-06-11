@@ -1,0 +1,11 @@
+{
+    "name": "Dance Partner",
+    "type": "Typeless",
+    "power": 3,
+    "damage": "Dexterity",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Dancing. You mark one ally, for the rest of combat or until you use this move again, they benefit from any positive Stat Changes you receive.",
+    "description": "Let's make a show together!",
+    "category": "Special"
+}

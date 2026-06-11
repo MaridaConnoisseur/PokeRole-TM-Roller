@@ -1,0 +1,11 @@
+{
+    "name": "Head Charge",
+    "type": "Normal",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Recoil.",
+    "description": "The Pokémon is headstrong, in head-to-head competitions they will always charge head on.",
+    "category": "Physical"
+}

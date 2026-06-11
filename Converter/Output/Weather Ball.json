@@ -1,0 +1,11 @@
+{
+    "name": "Weather Ball",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Projectile Move. *If there is a weather condition on the field, add 2 Extra Dice to the Damage Pool. This Move's type will change according to the Weather. Sun/Fire, Rain/Water, Hail or Snow/Ice, Sand/Rock, Wind/Flying.",
+    "description": "A ball created out of the forces of the weather. Today’s forecast is cloudy with a chance of pain!",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Comeuppance",
+    "type": "Dark",
+    "power": 0,
+    "damage": "Varies",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Can only be used if Target's last Move on User was a Physical or Special Move. Roll dice equal to Target's last damage pool rolled against the User plus 2 dice.",
+    "description": "An eye for en eye, the user retaliates with a vengance against those who cross them.",
+    "category": "Physical"
+}

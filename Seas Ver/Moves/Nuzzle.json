@@ -1,0 +1,11 @@
+{
+    "name": "Nuzzle",
+    "type": "Electric",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Paralyze the foe.",
+    "description": "The Pokémon gives a cute nuzzle at their target, it looks adorable until you see the sparks.",
+    "category": "Physical"
+}

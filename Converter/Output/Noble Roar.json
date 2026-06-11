@@ -1,0 +1,11 @@
+{
+    "name": "Noble Roar",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "Foe",
+    "effect": "Single Target. Sound Move. Reduce by 1 the Target's Strength and Special.",
+    "description": "The mighty roar of a king. It commands respect and authority over anyone who listens.",
+    "category": "Support"
+}

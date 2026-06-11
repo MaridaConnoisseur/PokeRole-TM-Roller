@@ -1,0 +1,11 @@
+{
+    "name": "Struggle Throw",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "Strength/Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target.",
+    "description": "Scuffle about and make every effort to deliver a blow.",
+    "category": "Physical/Special"
+}

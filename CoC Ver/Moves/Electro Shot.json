@@ -1,0 +1,11 @@
+{
+    "name": "Electro Shot",
+    "type": "Electric",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Pulse Move. Charge move. On the first round, the User Increases their Special. Fully charges under active Rain Weather.",
+    "description": "The user spends some time gathering electrical energy, before releasing it as a massive thunderstorm.",
+    "category": "Special"
+}

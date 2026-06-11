@@ -1,0 +1,11 @@
+{
+    "name": "Light Of Ruin",
+    "type": "Fairy",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Recoil. Lethal. Unique.",
+    "description": "By drawing energy from the Eternal Flower, the Pokémon unleashes all of its hurt. A beautiful light surrounds the area, yet the pain inside of its heart remains.",
+    "category": "Special"
+}

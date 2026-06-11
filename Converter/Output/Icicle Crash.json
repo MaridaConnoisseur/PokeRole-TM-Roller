@@ -1,0 +1,11 @@
+{
+    "name": "Icicle Crash",
+    "type": "Ice",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Lethal. Roll 3 Chance Dice to Flinch the Target.",
+    "description": "The Pokémon creates a big stalactite on top of the foe and lets it fall on top of it. Sometimes they manage to impale the foe to the ground.",
+    "category": "Physical"
+}

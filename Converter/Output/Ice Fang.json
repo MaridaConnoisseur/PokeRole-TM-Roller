@@ -1,0 +1,11 @@
+{
+    "name": "Ice Fang",
+    "type": "Ice",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Bite Move. Roll 2 Chance Dice to Flinch the Target. Roll 2 Chance Dice to Freeze the Target.",
+    "description": "The Pokémon bites their foe with sharp teeth and a geli breath to chill their bones directly",
+    "category": "Physical"
+}

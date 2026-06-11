@@ -1,0 +1,11 @@
+{
+    "name": "Metal Claw",
+    "type": "Steel",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Roll 1 Chance Die to Increase the User's Strength by 1.",
+    "description": "The Pokémon uses the foe as a whetstone.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Roost",
+    "type": "Flying",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Self",
+    "effect": "Target Self. Basic Heal. If successful, spend 1 Will point to activate. Remove the User's Immunity to Ground-Type Moves. Duration 1 Round.",
+    "description": "The Pokémon gathers some twigs and builds themselves a comfy nest on the floor to roost and relax.",
+    "category": "Support"
+}

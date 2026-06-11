@@ -1,0 +1,11 @@
+{
+    "name": "Petal Dance",
+    "type": "Grass",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Random Foe",
+    "effect": "Target Random Foe. Rampage.",
+    "description": "The Pokémon casts a huge cluster of petals to dance in the wind; they let nature run its course, as the wind will choose who will take the devastating blow.",
+    "category": "Special"
+}

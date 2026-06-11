@@ -1,0 +1,11 @@
+{
+    "name": "Air Slash",
+    "type": "Flying",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Cutter Move. Roll 3 Chance Dice to Flinch the Target.",
+    "description": "A compressed wind-slash, the change of pressure knocks out the target momentarily",
+    "category": "Special"
+}

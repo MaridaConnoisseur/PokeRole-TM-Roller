@@ -1,0 +1,11 @@
+{
+    "name": "Monkey Grip",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "User",
+    "effect": "On your following turn, you gain the ability to use two of your weapons in one action. Gaining Bonus Dice to Accuracy and Damage equal to half your rank (Round Down)",
+    "description": "You take a moment to prepare to use two of your weapons at once!",
+    "category": "Support"
+}

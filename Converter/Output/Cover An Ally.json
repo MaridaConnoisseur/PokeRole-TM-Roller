@@ -1,0 +1,11 @@
+{
+    "name": "Cover An Ally",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Ally",
+    "effect": "Target One Ally. Reaction 1. The User will become the Target for incoming attacks towards the Target. This Cover lasts until the User's Next Turn or until the Target uses a Non-Ranged Physical Move. Pokémon with Loyalty 2 or less won't use this Maneuver.",
+    "description": "Use your body as a shield to protect your friends! Not even 100 Spearrows will go through you!",
+    "category": "Support"
+}

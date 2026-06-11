@@ -1,0 +1,11 @@
+{
+    "name": "Bitter Blade",
+    "type": "Fire",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Cutter Move. The User restores HP equal to half the damage dealt, rounded down.",
+    "description": "The user focuses its bitter feelings towards the world of the living into a slashing attack, seeing the suffering it brings to others makes it feel reinvigorated.",
+    "category": "Physical"
+}

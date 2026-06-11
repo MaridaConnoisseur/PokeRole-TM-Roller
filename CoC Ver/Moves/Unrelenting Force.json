@@ -1,0 +1,11 @@
+{
+    "name": "Unrelenting Force",
+    "type": "Typeless",
+    "power": 8,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Recoil. If used while below 50% health, ignore Recoil and instead heal for half the damage dealt after defenses. (Round Down) In addition when used below 25% health, this move is a Garunteed Critical Hit if it lands.",
+    "description": "Doom Music Starts!",
+    "category": "Physical"
+}

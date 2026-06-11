@@ -1,0 +1,11 @@
+{
+    "name": "Clamp",
+    "type": "Water",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Block both User and Target. Ongoing Damage. Increase the Target's difficulty to Evade at Storyteller's discretion. Duration 4 Rounds.",
+    "description": "Lured by a beautiful pearl, the target is clamped by the user’s sturdy shell. The user will not release the target until they no longer feel movement.",
+    "category": "Physical"
+}

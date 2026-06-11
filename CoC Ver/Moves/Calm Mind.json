@@ -1,0 +1,11 @@
+{
+    "name": "Calm Mind",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Self",
+    "effect": "Target Self. Increase by 1 the User's Special and Sp. Defense.",
+    "description": "The Pokémon takes a deep breath to increase the mental fortitude required to face any problem.",
+    "category": "Support"
+}

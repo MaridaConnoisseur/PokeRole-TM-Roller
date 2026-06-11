@@ -1,0 +1,11 @@
+{
+    "name": "Lovely Kiss",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "MissingBeautyPoints",
+    "target": "Foe",
+    "effect": "Single Target. Put the Target to Sleep. Pokemon with this Move may forfeit their Beauty score completely, restore 1 Point to their Beauty Score. If the Pokemon forgets this move, restore 1 point to their Beauty Score.",
+    "description": "A true love’s kiss that could turn any prince into a froakie and put any princess to sleep for a hundred years.",
+    "category": "Support"
+}

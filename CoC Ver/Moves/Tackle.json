@@ -1,0 +1,11 @@
+{
+    "name": "Tackle",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity/Strength",
+    "target": "Foe",
+    "effect": "Single Target. ",
+    "description": "The user charges to tackle their foe, it gets the job done.",
+    "category": "Physical"
+}

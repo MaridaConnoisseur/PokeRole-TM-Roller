@@ -1,0 +1,11 @@
+{
+    "name": "Sweet Scent",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Those affected cannot Evade Moves. Out of Battle, it will attract wild Pokemon.",
+    "description": "The Pokémon releases a sweet aroma that lulls their enemies into a false sense of security",
+    "category": "Support"
+}

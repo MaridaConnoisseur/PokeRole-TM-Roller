@@ -1,0 +1,11 @@
+{
+    "name": "Incinerate",
+    "type": "Fire",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. All Foes in Range. Destroy the held item of those affected.",
+    "description": "A small blast of fire that instantly consumes small flammable objects.",
+    "category": "Special"
+}

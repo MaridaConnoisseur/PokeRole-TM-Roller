@@ -1,0 +1,11 @@
+{
+    "name": "Strength ",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Out of battle, double the Pokemon's lifting capacity.",
+    "description": "The Pokémon is very strong. If they concentrate they can strain their muscles to go well beyond their limits of strength.",
+    "category": "Physical"
+}

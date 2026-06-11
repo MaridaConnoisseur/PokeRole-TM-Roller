@@ -1,0 +1,11 @@
+{
+    "name": "Bullet Punch",
+    "type": "Steel",
+    "power": 2,
+    "damage": "Strength/Dexterity",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Reaction 1. Fist Move.",
+    "description": "You cannot outrun a bullet.",
+    "category": "Physical"
+}

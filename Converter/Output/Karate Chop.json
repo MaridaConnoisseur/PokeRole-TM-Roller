@@ -1,0 +1,11 @@
+{
+    "name": "Karate Chop",
+    "type": "Fighting",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. High Critical.",
+    "description": "A classic karate technique, thi chop that has been practiced and mastered.",
+    "category": "Physical"
+}

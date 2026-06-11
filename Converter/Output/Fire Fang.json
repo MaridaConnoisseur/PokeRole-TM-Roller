@@ -1,0 +1,11 @@
+{
+    "name": "Fire Fang",
+    "type": "Fire",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Bite Move. Roll 2 Chance Dice to Flinch the Target. Roll 2 Chance Dice to inflict 1st Degree Burn on the Target.",
+    "description": "The Pokémon bites the foe with their mouth ablaze, tearing and searing their foe’s flesh in a single attack.",
+    "category": "Physical"
+}

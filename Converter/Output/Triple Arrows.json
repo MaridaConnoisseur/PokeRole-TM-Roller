@@ -1,0 +1,11 @@
+{
+    "name": "Triple Arrows",
+    "type": "Fighting",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Ranged. Triple Action. Reduce the foe's Defense by 1. *If All 3 hits land, all of the User's Physical and Special Moves now have the \"High Critical\" Effect, this effect has a whole scene duration.",
+    "description": "Three fast arrows shot in succession. The Pokémon who manages to land all three in the exact same spot has become a true sniper.",
+    "category": "Physical"
+}

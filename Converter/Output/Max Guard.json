@@ -1,0 +1,11 @@
+{
+    "name": "Max Guard",
+    "type": "Normal",
+    "power": 0,
+    "damage": "SameAsBasePower",
+    "accuracy": "SameAsBaseMove",
+    "target": "Self",
+    "effect": "Target Max Self. Shield Move. Reaction 5. Reduce 5 Damage this Max Pokemon would receive from a Physical or Special Move. Negate the Added Effects of Any Move that targets the Max User",
+    "description": "",
+    "category": "Physical/Special"
+}

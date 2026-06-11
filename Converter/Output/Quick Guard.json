@@ -1,0 +1,11 @@
+{
+    "name": "Quick Guard",
+    "type": "Fighting",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "All Allies",
+    "effect": "Target User and Allies in Range. Reaction 3. Shield Move. Reduce 3 Damage from a Physical or Special Move with Priority. Negate the Added effects of Reaction and late Reaction Moves targeting the User and Allies.",
+    "description": "The user reacts instinctively and defends itself and its team mates, nullyfing the effects of the fastest attacks.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "U-Turn",
+    "type": "Bug",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Switcher Move for User.",
+    "description": "A bait and switch move, where the user strikes then makes a sudden u-turn back to safety.",
+    "category": "Physical"
+}

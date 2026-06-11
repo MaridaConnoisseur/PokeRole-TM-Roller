@@ -1,0 +1,11 @@
+{
+    "name": "Sky Uppercut",
+    "type": "Fighting",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Fist Move. Low Accuracy 1. If the Target is Out of Range due to using \"Fly\", \"Bounce\" or \"Sky Drop\" this Move hits anyways.",
+    "description": "The user attacks with an uppercut, throwing the foe skyward with lots of force. Even flyers are not safe from this attack.",
+    "category": "Physical"
+}

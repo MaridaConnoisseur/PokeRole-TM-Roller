@@ -1,0 +1,11 @@
+{
+    "name": "Shadow Sneak",
+    "type": "Ghost",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity/Strength",
+    "target": "Foe",
+    "effect": "Single Target. Reaction 1.",
+    "description": "The user sneaks through the darkness and strikes by coming out of the target’s shadow. The Pokémon is able travel freely through the shadow realm.",
+    "category": "Physical"
+}

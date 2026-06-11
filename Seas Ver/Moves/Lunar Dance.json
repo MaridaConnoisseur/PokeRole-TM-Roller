@@ -1,0 +1,11 @@
+{
+    "name": "Lunar Dance",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Self",
+    "effect": "Target Self. Unique. Roll the User's Remaining HP as Typeless Damage dice to itself. One allied Target restores its full HP and it is cured from any Status Condition, if it was fainted, restore conciousness. If the chosen Target is not in-battle, it is called out and ready to fight with the same remaining actions as the user.",
+    "description": "The moon shines at the darkest hours, reflecting sun’s life bringer light on those fallen into the night. Cresselia takes pity of their lost souls and guides them towards the dawn.",
+    "category": "Support"
+}

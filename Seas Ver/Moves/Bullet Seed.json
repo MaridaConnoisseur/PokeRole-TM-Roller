@@ -1,0 +1,11 @@
+{
+    "name": "Bullet Seed",
+    "type": "Grass",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Ranged. Successive Actions. Projectile Moves.",
+    "description": "The Pokémon starts shooting seed as if they were a machine gun.",
+    "category": "Physical"
+}

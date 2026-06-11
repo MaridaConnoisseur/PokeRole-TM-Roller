@@ -1,0 +1,11 @@
+{
+    "name": "Infinity Coins",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "Strength/Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Spend up to 100 Poke, for each 10 Poke, this move adds an additional chance to hit. Successive Action.",
+    "description": "Your cash keeps on flowing and flowing and flowing!",
+    "category": "Special"
+}

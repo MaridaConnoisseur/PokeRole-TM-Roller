@@ -1,0 +1,11 @@
+{
+    "name": "Reversal",
+    "type": "Fighting",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. *Add 1 Extra Die to the Damage Pool for every missing HP the User has. Up to 5 Dice may be added this way.",
+    "description": "The user gathers their mettle to block away the pain and focus only on hitting harder.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Gambling is Fun",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "",
+    "target": "User",
+    "effect": "Roll two D6's and resolve an effect for each result. On a roll of 1 You lose 3 HP. On a roll of 2 you gain two random Stat Reductions. On a roll of 3 you gain two random Stat Increases. On a roll of 4 you Heal 3 HP. On a roll of 5 a random target besides yourself Heals 3 HP. On a roll of 6 use Metronome three times and pick one result to immediately perform.",
+    "description": "Roll me some even more bones.",
+    "category": "Support"
+}

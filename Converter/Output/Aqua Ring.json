@@ -1,0 +1,11 @@
+{
+    "name": "Aqua Ring",
+    "type": "Water",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Self",
+    "effect": "Target Self. The User heals 1 HP at the end of each Round. Spend 1 Will point to activate. Whole Scene Duration.",
+    "description": "The Pokémon coats themselves in fresh water.",
+    "category": "Support"
+}

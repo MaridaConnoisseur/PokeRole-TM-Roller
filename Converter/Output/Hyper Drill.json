@@ -1,0 +1,11 @@
+{
+    "name": "Hyper Drill",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. Ignore Shield Moves active on the Foe or their side of the field.",
+    "description": "Using their tail as a powerful drill, the Pokémon pierces through any surface it comes in contact with.",
+    "category": "Physical"
+}

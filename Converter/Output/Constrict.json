@@ -1,0 +1,11 @@
+{
+    "name": "Constrict",
+    "type": "Normal",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. This Move deals Typeless damage. Roll 1 chance die to reduce the Target's Dexterity by 1.",
+    "description": "The Pokémon tightens their hold on the foe to keep them locked in a squeeze.",
+    "category": "Physical"
+}

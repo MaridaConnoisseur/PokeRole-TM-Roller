@@ -1,0 +1,11 @@
+{
+    "name": "Photon Geyser",
+    "type": "Psychic",
+    "power": 4,
+    "damage": "Strength/Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. Unique. This Move's Damage Pool, can be rolled with either Strength or Special Attribute, dealing Physical or Special Damage respectively. Choose whatever is most convenient for the user.",
+    "description": "The Pokémon attacks with a large pillar of light that comes out from they stand, either the blazing energy or the crushing strike are enough to knock foes out.",
+    "category": "Physical/Special"
+}

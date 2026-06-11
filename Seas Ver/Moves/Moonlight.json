@@ -1,0 +1,11 @@
+{
+    "name": "Moonlight",
+    "type": "Fairy",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Self",
+    "effect": "Target Self. Basic Heal. If successful, spend 1 Will point to activate. Night Time and Sunny Weather increase it to Complete Heal. Rain, Sandstorm and Hail Weather reduceto Minor Heal of 1 HP.",
+    "description": "The Pokémon uses the moon’s power to heal their injuries.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Screech",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "Foe",
+    "effect": "Single Target. Sound Move. Reduce the Target's Defense by 2.",
+    "description": "A mighty screech will make the target cover its ears instead of covering its flanks.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Snarl",
+    "type": "Dark",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "All Foes",
+    "effect": "Target all foes in Range. Sound Move. Reduce by 1 the Special of those affected",
+    "description": "The Pokémon viciously snarls showing its teeth to the foes. This menacing look will make everyone cower in fear.",
+    "category": "Special"
+}

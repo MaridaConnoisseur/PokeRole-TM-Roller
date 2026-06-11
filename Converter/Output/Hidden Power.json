@@ -1,0 +1,11 @@
+{
+    "name": "Hidden Power",
+    "type": "Varies",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. This Move will always deal Super-Effective Damage against the Target. If used by the Pokemon #201 Unown. See p. 530",
+    "description": "Inside every Pokémon lies the key to unlock all kinds of power.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Gear Up",
+    "type": "Steel",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "Ally",
+    "effect": "Target One Ally. Increase by 1 the Strength and Spcial of one Steel-Type of Electric-Type Ally.",
+    "description": "The Pokémon performs a basic manteniance on their ally. A change of oil and filters, new spark plugs, and the ally is more than ready!",
+    "category": "Support"
+}

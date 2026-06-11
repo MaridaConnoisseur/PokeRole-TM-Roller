@@ -1,0 +1,11 @@
+{
+    "name": "Sketch",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "Single Target. Copy Move. Replace \"Sketch\" with the copied Move. Permanent Duration.",
+    "description": "The Pokémon draws a rough sketch of their target performing a Move and through their art studies they manage to learn that same Move in the process.",
+    "category": "Support"
+}

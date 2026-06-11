@@ -1,0 +1,11 @@
+{
+    "name": "Poison Sting",
+    "type": "Poison",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Ranged. Roll 3 Chance Dice to Poison the Target.",
+    "description": "A tiny stab that causes big troubles.",
+    "category": "Physical"
+}

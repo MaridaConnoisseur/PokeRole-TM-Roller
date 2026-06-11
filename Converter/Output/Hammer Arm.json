@@ -1,0 +1,11 @@
+{
+    "name": "Hammer Arm",
+    "type": "Fighting",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Fist Move. Low Accuracy 1. Reduce User's Dexterity by 1.",
+    "description": "Stop. Hammer Arm time!",
+    "category": "Physical"
+}

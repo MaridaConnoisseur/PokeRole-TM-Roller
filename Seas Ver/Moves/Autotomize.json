@@ -1,0 +1,11 @@
+{
+    "name": "Autotomize",
+    "type": "Steel",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Self",
+    "effect": "Target Self. Increase the User's Dexterity by 2. Halve the User's weight.",
+    "description": "Rotating parts and tiny gears, the Pokémon works like a welloiled machine.",
+    "category": "Support"
+}

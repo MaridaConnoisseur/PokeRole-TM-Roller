@@ -1,0 +1,11 @@
+{
+    "name": "Power Gem",
+    "type": "Rock",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. ",
+    "description": "With a crystal gem, the Pokémon will always save the day!",
+    "category": "Special"
+}

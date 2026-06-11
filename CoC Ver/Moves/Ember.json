@@ -1,0 +1,11 @@
+{
+    "name": "Ember",
+    "type": "Fire",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Roll 1 Chance Die to inflict 1st Degree Burn on the Target.",
+    "description": "A basic fire attack, but not any less dangerous. Even a small flame can grow out of control.",
+    "category": "Special"
+}

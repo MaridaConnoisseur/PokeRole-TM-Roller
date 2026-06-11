@@ -1,0 +1,11 @@
+{
+    "name": "Baneful Bunker",
+    "type": "Poison",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "User",
+    "effect": "Reaction. Shield move. Used in reaction to the user being targeted, reducing incoming damage by 3. If the move that strikes the user is a Contact move, the foe is now Poisoned",
+    "description": "The user encloses itself inside it's sturdy shell of which is covered in poisonous barbs. If a barb pricks the foe's skin, the wound would start to fester.",
+    "category": "Support"
+  }

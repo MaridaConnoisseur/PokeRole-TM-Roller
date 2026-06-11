@@ -1,0 +1,11 @@
+{
+    "name": "Magnet Rise",
+    "type": "Electric",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Self",
+    "effect": "Target Self. The User gains Immunity against Ground-Type Moves. Whole Scene Duration",
+    "description": "The Pokémon creates a magnetic field to repel themselves from the ground, allowing it to float for a short period of time.",
+    "category": "Support"
+}

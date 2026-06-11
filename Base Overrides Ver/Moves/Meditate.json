@@ -1,0 +1,11 @@
+{
+    "name": "Meditate",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Self",
+    "effect": "Target Self. Increase by 1 the User's Special and Sp. Defense.",
+    "description": "Through meditation the Pokémon brings forward their mind’s strength into their body.",
+    "category": "Support"
+}

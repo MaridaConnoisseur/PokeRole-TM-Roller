@@ -1,0 +1,11 @@
+{
+    "name": "Shadowform",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "User",
+    "effect": "Expend 1 Will to trigger Shadowform. Can only be cancelled at the Start of a Round. While Shadowform is active, increase your Base Special or Strength by 2 and increase Damage Dice for all moves by 2. Drain 1 Will after every turn. If Will hits 0 when Shadowform is active, User is inflicted with Confused that cannot be cured for Four Rounds and ignores the half-damage penalty when attacking their allies.",
+    "description": "Absolute power corrupts absolutely, or so says those who are too cowardly to claim it for themselves.",
+    "category": "Support"
+}

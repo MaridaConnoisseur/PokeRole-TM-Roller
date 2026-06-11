@@ -1,0 +1,11 @@
+{
+    "name": "Detect",
+    "type": "Fighting",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Self",
+    "effect": "Target Self. Reaction 5. Shield Move. Reduce 3 Damage this Pokemon would receive from a Physical or Special move. Negate the Added Effcts of Any Moves that target the user.",
+    "description": "The Pokémon detects the intentions of the attacker and reacts just in time to minimize the damage.",
+    "category": "Support"
+}

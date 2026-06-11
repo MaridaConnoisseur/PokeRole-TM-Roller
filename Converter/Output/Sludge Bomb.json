@@ -1,0 +1,11 @@
+{
+    "name": "Sludge Bomb",
+    "type": "Poison",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Projectile Move. Roll 3 Chance Dice to Poison the Target.",
+    "description": "An explosive burst of organic waste directly into the target’s face. Nerves of steel are required not to throw your breakfast afterwards.",
+    "category": "Special"
+}

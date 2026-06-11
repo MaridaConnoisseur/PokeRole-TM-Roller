@@ -1,0 +1,11 @@
+{
+    "name": "Hatred Unshackled",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "User",
+    "effect": "For turns equal to your Rank Bonus, or until you drop below 1/4th of your total health, all Rampage Moves gain +3 Damage Dice. You ignore Confusion until this move fades, you cannot use this move while Confused. You lose 3 Health at the end of each turn.",
+    "description": "Your mind clouds with your hate, your body begins to adapt to the excess hormones. You become hate personified.",
+    "category": "Support"
+}

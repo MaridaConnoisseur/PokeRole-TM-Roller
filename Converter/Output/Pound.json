@@ -1,0 +1,11 @@
+{
+    "name": "Pound",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. ",
+    "description": "The user pounds the target’s head. Simple",
+    "category": "Physical"
+}

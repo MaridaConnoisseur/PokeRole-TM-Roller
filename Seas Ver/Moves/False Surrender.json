@@ -1,0 +1,11 @@
+{
+    "name": "False Surrender",
+    "type": "Dark",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Never Miss.",
+    "description": "The Pokémon bows down in defeat, begging for forgiveness; then backstabs the guillible foe.",
+    "category": "Physical"
+}

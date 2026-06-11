@@ -1,0 +1,11 @@
+{
+    "name": "Electro Drift",
+    "type": "Electric",
+    "power": 4,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. Unique. *Add 4 Extra Dice to the Damage pool of this Move if the Target is weak to Electric-Type Moves.",
+    "description": "Miraidon accelerates its turbines and races forward at ultrafast speeds, piercing its target in a blast of futuristic electricity",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Fairy Lock",
+    "type": "Fairy",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Battlefield",
+    "effect": "Target Battlefield. Block. Duration 1 Round.",
+    "description": "The User moves as if locking a door, preventing anyone from leaving the room. It takes everyone a few seconds to realize they are not really trapped.",
+    "category": "Support"
+}

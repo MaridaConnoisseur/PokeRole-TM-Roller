@@ -1,0 +1,11 @@
+{
+    "name": "Punishment",
+    "type": "Dark",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. *Add up to 7 Dice to the Damage Pool of the Move for every Attribute increase the target has. (ie The target has 2 increased points on Strength, add 2 Damage dice).",
+    "description": "You shouldn’t have done that...",
+    "category": "Physical"
+}

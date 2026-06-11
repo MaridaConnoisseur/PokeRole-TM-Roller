@@ -1,0 +1,11 @@
+{
+    "name": "Mortal Spin",
+    "type": "Poison",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Dancing. Poisons affected Foes. Remove Hazards (Spikes, Stealth Rock, etc.) from the User's side of the field. Remove Leech Seed and the effects of moves which inflict the Blocked Status and deal end of Round damage from the User (ex: Fire Spin, Whirlpool etc.)",
+    "description": "The Pokemon coats itself in a poison before performing a spin attack. No Pokemon would want to keep holding on while it does this. The spin knocks away any hazards near it as well.",
+    "category": "Physical"
+}

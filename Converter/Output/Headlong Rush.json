@@ -1,0 +1,11 @@
+{
+    "name": "Headlong Rush",
+    "type": "Ground",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Reduce by 1 the User's Defense and Sp. Defense.",
+    "description": "This Pokémon is headstrong in a very very literal way.",
+    "category": "Physical"
+}

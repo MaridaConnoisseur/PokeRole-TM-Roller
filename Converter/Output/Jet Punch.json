@@ -1,0 +1,11 @@
+{
+    "name": "Jet Punch",
+    "type": "Water",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Reaction 1. Fist Move.",
+    "description": "The fist of justice strikes true, swift...and wet!",
+    "category": "Physical"
+}

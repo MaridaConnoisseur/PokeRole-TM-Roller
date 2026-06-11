@@ -1,0 +1,11 @@
+{
+    "name": "Ion Deluge",
+    "type": "Electric",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Battlefield",
+    "effect": "Target Battlefield. Damage from Normal-Type Moves will be considered to be Electric-Type. Whole Scene Duration.",
+    "description": "The user electrifies all the particles in the environment with shocking results!",
+    "category": "Support"
+}

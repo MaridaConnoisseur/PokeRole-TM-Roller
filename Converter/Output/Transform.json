@@ -1,0 +1,11 @@
+{
+    "name": "Transform",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Self",
+    "effect": "Target Self. Unique Move. The User transforms into a copy of a chosen Target. It has the same Ability, Attributes, Attribute Increases and Reductions, and Moves, keeping Transform. Whole Scene Duration.",
+    "description": "The Pokémon modifies their own DNA structure and becomes an identical clone to any Pokémon, creature or object it can see. Some clones keep their funny eyes.",
+    "category": "Support"
+}

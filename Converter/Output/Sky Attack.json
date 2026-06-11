@@ -1,0 +1,11 @@
+{
+    "name": "Sky Attack",
+    "type": "Flying",
+    "power": 6,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Charge Move. High Critical. Lethal. Roll 3 Chance Dice to Flinch the Target.",
+    "description": "In a graceful but lethal strike, the Pokémon takes a deep dive towards the foe as if the sky was falling down right on top of it",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Below the Belt",
+    "type": "Typeless",
+    "power": 2,
+    "damage": "Dexterity",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Inflict Burn or Frostbite (of the User's choice). Flinch the foe.",
+    "description": "A dirty tactic made to leave a foe open.",
+    "category": "Physical"
+}

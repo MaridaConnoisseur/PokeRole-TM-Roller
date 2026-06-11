@@ -1,0 +1,11 @@
+{
+    "name": "Spicy Extract",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "Single Target. Increase the Target's Strength by 2. Reduce the Target's Defense by 2.",
+    "description": "The user dares their victim to eat a hot pepper, out of pride, the foe does and suffers as the pepper was double-loaded with spicy extract.",
+    "category": "Support"
+}

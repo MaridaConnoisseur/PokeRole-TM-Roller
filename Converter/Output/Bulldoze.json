@@ -1,0 +1,11 @@
+{
+    "name": "Bulldoze",
+    "type": "Ground",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Area",
+    "effect": "Area Move. Reduce by 1 the Dexterity of those affected.",
+    "description": "The user stomps and flattens the ground, pushing all the rubbish and leaving the surface ready for construction.",
+    "category": "Physical"
+}

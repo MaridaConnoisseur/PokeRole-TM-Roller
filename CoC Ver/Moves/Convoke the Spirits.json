@@ -1,0 +1,11 @@
+{
+    "name": "Convoke the Spirits",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Allies",
+    "effect": "Heal Random Allies equal to Rank Bonus for 2 HP each. In addition, grant healed allies a Random Stat Increase. You may expend 1 Will to instead choose which Allies to heal. This move can grant multiple Stat Increases but may not raise the same stat more than once on the same target (remove already applied Stat Increases from the random selection).",
+    "description": "If you listen hard enough, you will find that the Gods guide your healing hands.",
+    "category": "Support"
+}

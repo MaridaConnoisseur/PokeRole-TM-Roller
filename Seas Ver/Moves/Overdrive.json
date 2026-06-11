@@ -1,0 +1,11 @@
+{
+    "name": "Overdrive",
+    "type": "Electric",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Sound Move.",
+    "description": "The Pokémon uses its own body as an amplifier for the energizing sounds it produces.",
+    "category": "Special"
+}

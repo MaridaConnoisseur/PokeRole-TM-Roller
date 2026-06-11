@@ -1,0 +1,11 @@
+{
+    "name": "Confide",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cute",
+    "target": "Foe",
+    "effect": "Single Target. Reduce the Target's Special by 1.",
+    "description": "The Pokémon tells a secret to the target. They giggle together but the foe loses its concentration on the battle.",
+    "category": "Support"
+}

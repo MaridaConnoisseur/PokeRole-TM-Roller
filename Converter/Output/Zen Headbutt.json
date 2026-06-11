@@ -1,0 +1,11 @@
+{
+    "name": "Zen Headbutt",
+    "type": "Psychic",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Roll 3 Chance Dice to Flinch the Target.",
+    "description": "The Pokémon uses both their mental and physical prowess in a questionable yet effective “psychic” strike.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Doodle",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "Single Target. Replace the User's Ability with the Target's. Whole Scene Duration. Unique Abilities can't be copied.",
+    "description": "By doodling a quick drawing of their target the doodle somehow allows the Pokémon to make use of the depicted creature’s powers.",
+    "category": "Support"
+}

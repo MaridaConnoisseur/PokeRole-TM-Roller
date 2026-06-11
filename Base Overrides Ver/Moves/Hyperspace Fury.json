@@ -1,0 +1,11 @@
+{
+    "name": "Hyperspace Fury",
+    "type": "Dark",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Never Miss. Ignores the effect of any Force Field or Shield Move active on the foe's side. Reduce the User's Defense by 1.",
+    "description": "The Pokémon opens portals to attack with each one of its arms, bypassing all defenses and making it impossible to escape; however, portals go both ways.",
+    "category": "Physical"
+}

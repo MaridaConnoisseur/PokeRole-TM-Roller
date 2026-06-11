@@ -1,0 +1,11 @@
+{
+    "name": "Cross Poison",
+    "type": "Poison",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Cutter Move. High Critical. Roll 1 Chance Die to Poison the Target.",
+    "description": "The Pokémon releases a powerful acidic gas that melts all inorganic matter in seconds.",
+    "category": "Physical"
+}

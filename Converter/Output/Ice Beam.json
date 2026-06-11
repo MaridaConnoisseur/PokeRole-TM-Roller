@@ -1,0 +1,11 @@
+{
+    "name": "Ice Beam",
+    "type": "Ice",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Roll 1 Chance Die to Freeze the Target.",
+    "description": "The Pokémon shoots a cold beam that reduces all warmth on the environment up to freezing point.",
+    "category": "Special"
+}

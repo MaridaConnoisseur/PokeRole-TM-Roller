@@ -1,0 +1,11 @@
+{
+    "name": "Pyro Ball",
+    "type": "Fire",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Projectile Move. Ranged. Roll 1 Chance die to inflict 2nd Degree Burn on the Target.",
+    "description": "The Pokémon lights a heavy stone on fire and kicks it while it’s ablaze. The hit is pretty heavy already, the fire is just for showing off.",
+    "category": "Physical"
+}

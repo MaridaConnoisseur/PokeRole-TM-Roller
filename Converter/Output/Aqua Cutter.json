@@ -1,0 +1,11 @@
+{
+    "name": "Aqua Cutter",
+    "type": "Water",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Ranged. High Critical. Cutter Move.",
+    "description": "The User compacts water and shoots it as a pressurized jet. This jet is very sharp and can easily cut through solids.",
+    "category": "Physical"
+}

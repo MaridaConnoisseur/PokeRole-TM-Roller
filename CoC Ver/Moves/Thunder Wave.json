@@ -1,0 +1,11 @@
+{
+    "name": "Thunder Wave",
+    "type": "Electric",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Paralyze the Target.",
+    "description": "A series of electric waves hit the target, their voltage is too weak to cause much harm but muscles will get cramped for hours.",
+    "category": "Support"
+}

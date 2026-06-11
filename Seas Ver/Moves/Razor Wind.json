@@ -1,0 +1,11 @@
+{
+    "name": "Razor Wind",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Charge Move. High Critical. Cutter Move.",
+    "description": "The Pokémon sways the winds while charging what appears to be an invisible blade made of pressurized air. The wind slices everything it touches as if it were a razor.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Block",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Strength/Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Blocks. Whole Scene Duration.",
+    "description": "You don’t seem to understand. I’m not blocked in here with you... You are blocked in here with me!",
+    "category": "Support"
+}

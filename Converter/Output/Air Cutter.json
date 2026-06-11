@@ -1,0 +1,11 @@
+{
+    "name": "Air Cutter",
+    "type": "Flying",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. High Critical. Wind Move. Cutter Move.",
+    "description": "A sharp wide wave of wind is sent out , everyone can feel it slicing throught their midsection.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Siphon Will",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe and User or Ally",
+    "effect": "Reduce One Stat on a Foe, and Increase the same Stat on yourself or a chosen Ally. This Move can be used multiple times to apply different Stat Increases and Reductions.",
+    "description": "Drain the power of a foe, to increase your own or your allies.",
+    "category": "Support"
+}

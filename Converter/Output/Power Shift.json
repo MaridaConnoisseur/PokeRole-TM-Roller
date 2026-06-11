@@ -1,0 +1,11 @@
+{
+    "name": "Power Shift",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Self",
+    "effect": "Target Self. Switch the User's Strength with its Defense and its Special with its Sp. Defense.",
+    "description": "The Pokémon knows that sometimes the best defense is a good offense.",
+    "category": "Support"
+}

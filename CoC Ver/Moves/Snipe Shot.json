@@ -1,0 +1,11 @@
+{
+    "name": "Snipe Shot",
+    "type": "Water",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Pulse Move. High Critical. Ignore effects from Moves or Abilities that would prevent this Move from targeting a foe.",
+    "description": "The User Shoots a piercing water jet with incredible precision.",
+    "category": "Special"
+}

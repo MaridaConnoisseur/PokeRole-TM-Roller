@@ -1,0 +1,11 @@
+{
+    "name": "Grass Whistle",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Beauty",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 3. Sound Move. Put the Target to Sleep.",
+    "description": "A soothing and relaxing melody created with the sounds of nature. It is a very subtle tone, so it may be hard to listen.",
+    "category": "Support"
+}

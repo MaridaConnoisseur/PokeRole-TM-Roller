@@ -1,0 +1,11 @@
+{
+    "name": "Belly Drum",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "Self",
+    "effect": "Target Self. Roll half of the User's HP as Typeless Damage Dice to itself, ignore defenses. Increase User's Strength by 3.",
+    "description": "With an angry war cry the user hits their belly as drums of war.",
+    "category": "Support"
+}

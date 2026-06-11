@@ -1,0 +1,11 @@
+{
+    "name": "Drain Punch",
+    "type": "Fighting",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. Fist Move. The User restores HP equal to half the damage dealt, rounded down.",
+    "description": "A solid punch that weakens the foes and revitalizes the user with each hit.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Crunch",
+    "type": "Dark",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Bite Move. Lethal. Roll 1 Chance Die to Reduce the foe's Defense by 1.",
+    "description": "The Pokémon viciously mauls, tears, and rips apart anything its fangs can come in contact with.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Double Hit",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Double Action.",
+    "description": "The Pokémon uses the true and tested “one-two”.",
+    "category": "Physical"
+}

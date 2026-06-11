@@ -1,0 +1,11 @@
+{
+    "name": "Razor Leaf",
+    "type": "Grass",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Cutter Move. Ranged. High Critical.",
+    "description": "The user sends out a barrage of sharp razor-like leaves. “Death by a thousand cuts” would be the best depiction.",
+    "category": "Physical"
+}

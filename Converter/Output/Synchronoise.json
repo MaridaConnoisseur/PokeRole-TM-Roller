@@ -1,0 +1,11 @@
+{
+    "name": "Synchronoise",
+    "type": "Psychic",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Area",
+    "effect": "Area Move. Sound Move. Choose one Type (Fire, Poison, Steel, etc.). This move only affects those with that Type.",
+    "description": "Each type of energy is contained by a thin layer of particles. With the right vibration frequency, that thin layer can be shattered like glass.",
+    "category": "Special"
+}

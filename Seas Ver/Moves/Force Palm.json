@@ -1,0 +1,11 @@
+{
+    "name": "Force Palm",
+    "type": "Fighting",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Dice to Paralyze the Target.",
+    "description": "A powerful open-palm hit that knocks the foe several feet away and may leave them unable to move.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Simple Beam",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Change the Target's Ability to \"Simple\". Whole Scene Duration. This effect does not end by switching out the affected Pokemon.",
+    "description": "A weak mental beam that doesn’t hurt or confuse the target but it does change their view of life as they start to take a simpler apporach to things.",
+    "category": "Support"
+}

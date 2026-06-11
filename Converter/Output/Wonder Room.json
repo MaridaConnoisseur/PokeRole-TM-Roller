@@ -1,0 +1,11 @@
+{
+    "name": "Wonder Room",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Battlefield",
+    "effect": "Target the Battlefield. Everyone on the Battlefield will have their Defense and Sp. Defense calculated with Insight instead of Vitality. If using Insight as Sp. Defense optional rule, swap the calculation. Duration 4 Rounds.",
+    "description": "The battlefield is now a space that puts the mind to the test. A resilient mind will be a resilient body, but if the mind is weak the body will feel frail and feeble.",
+    "category": "Support"
+}

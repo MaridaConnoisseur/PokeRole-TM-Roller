@@ -1,0 +1,11 @@
+{
+    "name": "Darkest Lariat",
+    "type": "Dark",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Ignore Defenses.",
+    "description": "The user swings both of its arms against the target, there’s no armor thick enough to stop this cruel strike.",
+    "category": "Physical"
+}

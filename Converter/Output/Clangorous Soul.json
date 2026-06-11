@@ -1,0 +1,11 @@
+{
+    "name": "Clangorous Soul",
+    "type": "Dragon",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "Self",
+    "effect": "Target Self. User deals Damage Dice to itself equal to Half of its Total HP rounded down. Increase by 1 the User's Strength, Dexterity, Special, Defense and Sp. Defense.",
+    "description": "The Pokémon shakes its scales around, to sharpen, shed, and rearrange them. It’s a bit rough, but in the end the Pokémon feels more focused for battle.",
+    "category": "Support"
+}

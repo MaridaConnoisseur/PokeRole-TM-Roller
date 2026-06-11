@@ -1,0 +1,11 @@
+{
+    "name": "Amnesia",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Self",
+    "effect": "Target Self. Increase the User's Sp. Defense by 2.",
+    "description": "No thoughts. Head empty",
+    "category": "Support"
+}

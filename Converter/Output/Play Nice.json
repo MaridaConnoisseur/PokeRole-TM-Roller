@@ -1,0 +1,11 @@
+{
+    "name": "Play Nice",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cool/Cute",
+    "target": "Foe",
+    "effect": "Single Target. Reduce the Target's Strength by 1.",
+    "description": "The Pokémon starts to play with the foe. They are firendly, respectful, and thank the foe for the fun time. The foe does not want to fight, they want to keep playing.",
+    "category": "Support"
+}

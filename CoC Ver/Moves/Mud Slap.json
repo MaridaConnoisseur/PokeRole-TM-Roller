@@ -1,0 +1,11 @@
+{
+  "name": "Mud Slap",
+  "type": "Ground",
+  "power": 1,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Striking. Reduce the foe's Accuracy by 1.",
+  "description": "The user hurls some mud to the face of the foe, leaving it unable to see clearly.",
+  "category": "Special"
+}

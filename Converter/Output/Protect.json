@@ -1,0 +1,11 @@
+{
+    "name": "Protect",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Self",
+    "effect": "Target Self. Reaction 5. Shield Move. Reduce 3 Damage this Pokemon would receive from a Physical or Special Move. Negate the Added Effects of Moves that target the user.",
+    "description": "A mighty energy shield materializes in front of the user to to deflect attacks and dispel ill effects.",
+    "category": "Support"
+}

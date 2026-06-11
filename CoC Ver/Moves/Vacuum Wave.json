@@ -1,0 +1,11 @@
+{
+  "name": "Vacuum Wave",
+  "type": "Fighting",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Fist Based. Priority 1.",
+  "description": "The user pulls the enemy closer using the power of its ki. This traction has a lot of strength and may break anything it pulls.",
+  "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Grudge",
+    "type": "Ghost",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Foe",
+    "effect": "Single Target. The User Faints. Reduce the Target's Will to 0 points and reset any effect it got from spending them. Roll Target's Loyalty at the end of the round, increase difficulty by 1 each round. Failing this roll faints the Target.",
+    "description": "The last words of this Pokémon imprint their grudge and anger over their foe. Depleting the foe of their will to carry on in this world.",
+    "category": "Support"
+}

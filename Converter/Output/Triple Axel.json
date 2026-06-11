@@ -1,0 +1,11 @@
+{
+    "name": "Triple Axel",
+    "type": "Ice",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Triple Action. *Add 1 Extra Die to the Damage of the 2nd hit and 2 Extra Dice to the Damage of the 3rd hit. **Second hit has Low Accuracy 1. ***Third hit has Low Accuracy 2.",
+    "description": "A series of cold-blooded kicks that break bone as they would break brittle ice.",
+    "category": "Physical"
+}

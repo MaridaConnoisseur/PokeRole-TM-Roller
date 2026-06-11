@@ -1,0 +1,11 @@
+{
+    "name": "Counterstrike",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "Vitality",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "If the User has taken damage from a foe during the previous Round, add Damage Dice equal to the Total Damage taken from the highest-damaging move.",
+    "description": "Take some, get some.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Freezing Glare",
+    "type": "Psychic",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Roll 1 Chance Die to Freeze the Target.",
+    "description": "The Pokémon shoots freakin’ laser beams from its freakin’ eyes against everything that moves...until nothing does.",
+    "category": "Special"
+}

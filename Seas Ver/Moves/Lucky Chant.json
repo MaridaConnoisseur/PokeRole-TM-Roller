@@ -1,0 +1,11 @@
+{
+    "name": "Lucky Chant",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "User's Battlefield",
+    "effect": "Lasts 4 Rounds. If a foe were to target the user or their allies and succeed on a Critical or Guaranteed Critical Move, it is a regular success while Lucky Chant is active. Outside of battle, good things happen at the story teller's  discretion.",
+    "description": "The user chants an incantation to the skies. The beautiful performance grants this pokemon and it's allies divine protection.",
+    "category": "Support"
+}

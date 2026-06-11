@@ -1,0 +1,11 @@
+{
+    "name": "Strange Steam",
+    "type": "Fairy",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Roll 2 Chance Dice to Confuse the Target.",
+    "description": "The user releases an addictive and sweet-smelling steam. Do not be fooled as it is mildly toxic with nasty side-effects.",
+    "category": "Special"
+}

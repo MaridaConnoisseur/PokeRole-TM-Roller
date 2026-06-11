@@ -1,0 +1,11 @@
+{
+  "name": "Magical Leaf",
+  "type": "Grass",
+  "power": 2,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Slicing. Never Fail.",
+  "description": "The user sends out a floating leaf that will pursue the target until it hits.",
+  "category": "Special"
+}

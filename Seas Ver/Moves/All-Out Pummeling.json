@@ -1,0 +1,11 @@
+{
+    "name": "All-Out Pummeling",
+    "type": "Fighting",
+    "power": "Happiness + Loyalty",
+    "damage": "SameAsBasePower",
+    "accuracy": "SameAsBaseMove",
+    "target": "Foe",
+    "effect": "Single Target. Suggested effects: Remove Barriers, Attribute Increase, Damage Increase See p. 610 for more info.",
+    "description": "",
+    "category": "Support/Physical/Special"
+}

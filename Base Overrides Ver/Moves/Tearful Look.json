@@ -1,0 +1,11 @@
+{
+    "name": "Tearful Look",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cute",
+    "target": "Foe",
+    "effect": "Single Target. Reduce by 1 the Target's Strength and Special.",
+    "description": "The Pokémon’s eyes start watering as if it were about to cry, it’s foe is moved by the tears and loses its will to fight.",
+    "category": "Support"
+}

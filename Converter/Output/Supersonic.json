@@ -1,0 +1,11 @@
+{
+    "name": "Supersonic",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 3. Sound Move. Confuse the Target.",
+    "description": "The Pokémon shoots a series of ultrasonic waves that mess with the foe by making it feel dizzy and disoriented.",
+    "category": "Support"
+}

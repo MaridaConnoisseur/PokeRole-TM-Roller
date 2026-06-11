@@ -1,0 +1,11 @@
+{
+    "name": "Hyper Voice",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Sound Move.",
+    "description": "The user screeches or sings at such high frequencies that anything made of glass will break. The ears of the victims are left in no better state.",
+    "category": "Special"
+}

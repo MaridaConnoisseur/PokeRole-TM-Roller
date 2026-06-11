@@ -1,0 +1,11 @@
+{
+    "name": "Eternabeam",
+    "type": "Dragon",
+    "power": 7,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Lethal. Must Recharge.",
+    "description": "The Pokémon shoots an incredibly powerful beam towards the sky. The energy released might keep traveling through space thousands of years later.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Mega Drain",
+    "type": "Grass",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. The User restores HP equal to half the damage dealt, rounded down.",
+    "description": "The user absorbs a big amount of vital energy and nutrients from the target to feed from.",
+    "category": "Special"
+}

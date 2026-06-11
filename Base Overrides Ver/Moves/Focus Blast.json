@@ -1,0 +1,11 @@
+{
+    "name": "Focus Blast",
+    "type": "Fighting",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Projectile Move. Roll 1 Chance die to Reduce the foe's Sp. Defense by 1.",
+    "description": "A powerful energy blast that requires the user to chant each syllabe of the technique’s name and release it by yelling “Haaaaa!”",
+    "category": "Special"
+}

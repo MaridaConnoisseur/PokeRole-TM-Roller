@@ -1,0 +1,11 @@
+{
+    "name": "Charging Blast",
+    "type": "Typeless",
+    "power": 1,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Your next attack against the target ignores 2 of their Special Defense.",
+    "description": "A quick attack that charges up your next strike.",
+    "category": "Special"
+}

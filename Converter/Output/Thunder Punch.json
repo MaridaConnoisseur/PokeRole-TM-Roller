@@ -1,0 +1,11 @@
+{
+    "name": "Thunder Punch",
+    "type": "Electric",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Fist Move. Roll 1 Chance die to Paralyze the Target.",
+    "description": "A charged punch to deliver a shocking blow.",
+    "category": "Physical"
+}

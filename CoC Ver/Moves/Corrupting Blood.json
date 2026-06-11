@@ -1,0 +1,11 @@
+{
+    "name": "Corrupting Blood",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "All Foes",
+    "effect": "Inflict All Foes with Corrupted Blood. This acts as if they were afflicted with Toxic (but is not subject to Toxic's Type Immunities), and you Heal for half the total Damage dealt by Corrupted Blood, rounded down. You can choose to direct the healing to an ally. Effects which Cure the Poisoned Status are able to remove Corrupted Blood from a target. Cost's 1 Will to use.",
+    "description": "You've learned how to repay your debts using the blood of others. It's not like they'll need it anymore, right?",
+    "category": "Support"
+}

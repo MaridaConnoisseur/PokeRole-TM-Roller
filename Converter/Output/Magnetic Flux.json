@@ -1,0 +1,11 @@
+{
+    "name": "Magnetic Flux",
+    "type": "Electric",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "All Allies",
+    "effect": "Target User and Allies in range. Increase by 1 the Defense and Sp. Defense of Electric-Type or Steel-Type Targets.",
+    "description": "The Pokémon alters the magnetic field around itself to repel damage. This also affects other Pokémon sensible to magnetic charges.",
+    "category": "Support"
+}

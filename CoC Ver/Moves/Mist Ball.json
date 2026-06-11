@@ -1,0 +1,11 @@
+{
+    "name": "Mist Ball",
+    "type": "Psychic",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Unique. Projectile Move. Roll 5 Chance Dice to Reduce the Target's Special by 1. *This Effect can be stacked up to 3 times per target.",
+    "description": "The user engulfs its foe with a cloud, this soothing mist keeps evil intents from surfacing ino the Target’s mind.",
+    "category": "Special"
+}

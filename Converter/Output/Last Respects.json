@@ -1,0 +1,11 @@
+{
+    "name": "Last Respects",
+    "type": "Ghost",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. *Add 2 Extra Dice to the Damage pool of this Move for every ally that Fainted during this Battle Up to 8 Dice may be added this way.",
+    "description": "The Pokémon gathers the souls the departed and helps them fulfill their desire of revenge before moving on.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Take Heart",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Self",
+    "effect": "Target Self. Heal any Status Ailment on the User. Increase by 1 the User's Special and Sp. Defense.",
+    "description": "There’s something only you can do so that this blue planet doesn’t lose it’s light. Believe in yourself and show your brave heart.",
+    "category": "Support"
+}

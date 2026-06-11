@@ -1,0 +1,11 @@
+{
+    "name": "Draining Kiss",
+    "type": "Fairy",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. The User restores HP equal to half the damage dealt, rounded down.",
+    "description": "The Pokémon blows a flirtatious kiss; the foe catches it believing to have found love, but it turns out to be a trick to steal its life energy.",
+    "category": "Special"
+}

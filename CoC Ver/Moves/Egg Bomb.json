@@ -1,0 +1,11 @@
+{
+    "name": "Egg Bomb",
+    "type": "Normal",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Strength/Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Ranged. Projectile Move.",
+    "description": "The target can’t take a yolk. Let’s make them laugh with an egg-cellent pun to crack them up.",
+    "category": "Physical"
+}

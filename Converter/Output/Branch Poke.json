@@ -1,0 +1,11 @@
+{
+    "name": "Branch Poke",
+    "type": "Grass",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. ",
+    "description": "The Pokémon rudely starts poking its foe with a stick.",
+    "category": "Physical"
+}

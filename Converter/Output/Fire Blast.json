@@ -1,0 +1,11 @@
+{
+    "name": "Fire Blast",
+    "type": "Fire",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Lethal. Roll 3 Chance Dice to inflict 3rd Degree Burn on the Target.",
+    "description": "The Pokémon shoots a giant fireball that explodes as soon as it touches their target. Blasting fire in all directions.",
+    "category": "Special"
+}

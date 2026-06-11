@@ -1,0 +1,11 @@
+{
+    "name": "Mind Blown",
+    "type": "Fire",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Area",
+    "effect": "Area Move. Recoil.",
+    "description": "The Pokémon has had a terrible day and has a headache to match. Try not to disturb the peace because their head really feels like exploding.",
+    "category": "Special"
+}

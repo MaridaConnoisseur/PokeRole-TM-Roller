@@ -1,0 +1,11 @@
+{
+    "name": "Splash",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Self",
+    "effect": "Target Self. No effect.",
+    "description": "Oh, for the love of Arceus...",
+    "category": "Support"
+}

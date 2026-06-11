@@ -1,0 +1,11 @@
+{
+    "name": "Strength Sap",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. Reduce Target's Strength by 1. Heal 1 HP to the user. If successful, spend 1 Will Point to activate.",
+    "description": "The Pokémon looks for a weak point on its foe, then feeds on its vital energy. The foe is left feeling feeble.",
+    "category": "Support"
+}

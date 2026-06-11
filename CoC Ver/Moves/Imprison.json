@@ -1,0 +1,11 @@
+{
+    "name": "Imprison",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Self",
+    "effect": "Target Self. While the User is on the battlefield, Moves known by the User cannot be used by foes. This effect ends if the User is removed from battle.",
+    "description": "This move blocks all shared parts of a memory the user is well aware of. Moves, techniques, names, places, people or situations, no one will be able to recall those imprisoned memories.",
+    "category": "Support"
+}

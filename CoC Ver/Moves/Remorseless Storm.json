@@ -1,0 +1,11 @@
+{
+    "name": "Remorseless Storm",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "User",
+    "effect": "Surround yourself in an aura that debilitates your foes over several Rounds. After performing this move, All Foes suffer -1 Base Dexterity. At the end of the User's next turn, All Foes suffer -1 to Defense and Sp. Defense. After the User's next turn All Foes take typeless damage equal to the User's Rank Bonus, reduced by their Special Defense. After the User's next turn, the aura fades and the stat reductions with it, however All Foes must then roll Vitality+Rank against this move's Accuracy Successes, any targets which don't get as many or more successes become Paralyzed.",
+    "description": "Your very presence ebbs an aura of paralyzing fear. Winter has nothing on you.",
+    "category": "Support"
+}

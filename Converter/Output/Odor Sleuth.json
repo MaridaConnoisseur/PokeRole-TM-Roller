@@ -1,0 +1,11 @@
+{
+    "name": "Odor Sleuth",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. The Foe cannot Evade Moves performed by the User. User ignores Ghost-Type immunity to Normal and Fight-Type Moves and vice versa. Out of battle, Add successes of this Move to any roll for Tracking targets.",
+    "description": "The Pokémon uses their keen sense of smell to corner the foe and find it when it tries to scurry away",
+    "category": "Support"
+}

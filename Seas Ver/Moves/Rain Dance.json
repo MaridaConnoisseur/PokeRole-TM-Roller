@@ -1,0 +1,11 @@
+{
+    "name": "Rain Dance",
+    "type": "Water",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Battlefield",
+    "effect": "Target Battlefield. Activate Rain Weather. Duration 4 Rounds.",
+    "description": "The Pokémon performs a peculiar dance in the middle of the field, everyone thinks it silly until the first thunder rumbles.",
+    "category": "Support"
+}

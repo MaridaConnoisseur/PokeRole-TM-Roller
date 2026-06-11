@@ -1,0 +1,11 @@
+{
+    "name": "Flower Trick",
+    "type": "Grass",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Never Miss. This Move is always considered to be a Critical Hit and gets the proper Bonus for it.",
+    "description": "The user throws a bouquet of flowers at the target, who holds them close believing them to be a gift, only to realize the bouquet were flower bombs.",
+    "category": "Physical"
+}

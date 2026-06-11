@@ -1,0 +1,11 @@
+{
+    "name": "Toxic Thread",
+    "type": "Poison",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Reduce Target's Dexterity by 1. Poison the Foe.",
+    "description": "The user shoots a sticky thread that entangles around the foe, the thread is also laced with a potent toxin that will poison the foe on contact.",
+    "category": "Support"
+}

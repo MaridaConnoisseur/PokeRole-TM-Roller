@@ -1,0 +1,11 @@
+{
+    "name": "Nasty Plot",
+    "type": "Dark",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Self",
+    "effect": "Target Self. Increase User's Special by 2.",
+    "description": "Rubbing both hands and laughing sinisterly the Pokémon rejoices in the evil plans they’ll soon carry out.",
+    "category": "Support"
+}

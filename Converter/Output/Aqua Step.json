@@ -1,0 +1,11 @@
+{
+    "name": "Aqua Step",
+    "type": "Water",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Increase the User's Dexterity by 1.",
+    "description": "The most fluid dance steps you’ll ever see. The user toys with their target by kicking and splashing around.",
+    "category": "Physical"
+}

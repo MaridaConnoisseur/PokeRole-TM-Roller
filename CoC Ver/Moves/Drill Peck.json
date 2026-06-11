@@ -1,0 +1,11 @@
+{
+  "name": "Drill Peck",
+  "type": "Flying",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Biting.",
+  "description": "The user pierces the foe with its beak used as a drill. A dangerous move.",
+  "category": "Physical"
+}

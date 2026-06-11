@@ -1,0 +1,11 @@
+{
+    "name": "Blade Flurry",
+    "type": "Typeless",
+    "power": 3,
+    "damage": "Dexterity",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Successive Action. Each attack in this chain hits a separate target. Every target hit by this move suffers -2 Accuracy against the User till the end of the Next Round.",
+    "description": "You're moving so fast, you're leaving after-images whenever you attack.",
+    "category": "Physical"
+}

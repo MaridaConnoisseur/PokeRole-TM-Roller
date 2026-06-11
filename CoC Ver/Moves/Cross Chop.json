@@ -1,0 +1,11 @@
+{
+  "name": "Cross Chop",
+  "type": "Fighting",
+  "power": 4,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Striking. High Critical. -2 Accuracy.",
+  "description": "The user delivers a chop with its arms crossed trying to hot a weak spot.",
+  "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Flying Kicks",
+    "type": "Typeless",
+    "power": 1,
+    "damage": "Strength/Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "After using the move, the User goes into the sky (as if they had used Bounce). On the following turn, they come down, using a second Kick Move. They gain High Critical and 2 Damage Dice on the following turn.",
+    "description": "You go kick your foe, and then go high into the air, only to come down a turn later.",
+    "category": "Physical"
+}

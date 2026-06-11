@@ -1,0 +1,11 @@
+{
+    "name": "Safeguard",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Ally's Battlefield",
+    "effect": "Target User's side of the Field. Force Field. Those affected are immune to all Status Ailements/Conditions. Previously inflicted Status Ailments/Conditions remain. Duration 4 Rounds.",
+    "description": "A force field covers half of the battlefield and filters out all impurities and ill intentions coming from the other side.",
+    "category": "Support"
+}

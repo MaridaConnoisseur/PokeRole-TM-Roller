@@ -1,0 +1,11 @@
+{
+    "name": "Low Kick",
+    "type": "Fighting",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. Add 1 Extra Damage Dice for every 50kg of the weight on the foe, up to 4 Dice may be added this way.",
+    "description": "The Pokémon uses a kick to the sheen to throw the foe into the ground. The bigger they are, the harder they fall.",
+    "category": "Physical"
+}

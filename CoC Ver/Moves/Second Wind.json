@@ -1,0 +1,11 @@
+{
+    "name": "Second Wind",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "User",
+    "effect": "Heal yourself 4 Health and 2 Will. This can only be used once per Combat, gaining a second use at level 8.",
+    "description": "You take a focused breath, to restore your will to fight.",
+    "category": "Support"
+}

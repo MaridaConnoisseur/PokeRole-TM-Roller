@@ -1,0 +1,11 @@
+{
+    "name": "Defend Order",
+    "type": "Bug",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "Self",
+    "effect": "Target Self. Increase the User's Defense and Sp. Defense by 1.",
+    "description": "A swarm of bugs flies around the user, creating a barrier to protect their swarm queen from damage.",
+    "category": "Support"
+}

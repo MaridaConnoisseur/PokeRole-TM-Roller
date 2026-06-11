@@ -1,0 +1,11 @@
+{
+    "name": "Freeze Dry",
+    "type": "Ice",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Water-Type Pokemon receive Super-Effective Damage from this Move. If a Target is out of range due to using the Move \"Dive\" this Move hits anyways.",
+    "description": "All moisture is frozen and then subjected to high pressure, evaporating it immediately. Water-type Pokémon suffer this Move the most.",
+    "category": "Special"
+}

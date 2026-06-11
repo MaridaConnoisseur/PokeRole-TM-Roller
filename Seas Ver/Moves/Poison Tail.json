@@ -1,0 +1,11 @@
+{
+    "name": "Poison Tail",
+    "type": "Poison",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. High Critical. Roll 1 Chance Die to Poison the Target.",
+    "description": "A sharp edge dipped in venom—an attack in bad blood in all senses of the word.",
+    "category": "Physical"
+}

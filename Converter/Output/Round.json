@@ -1,0 +1,11 @@
+{
+    "name": "Round",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Sound Move. *If the user and an ally are able to use Round. Both may choose to do it at the same time. If they do, add 3 Extra Dice to the Damage Pool of both Pokemon.",
+    "description": "The user attacks the foe with the power of music, if another one joins the performance, the musical harmony will rock their public!",
+    "category": "Special"
+}

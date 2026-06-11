@@ -1,0 +1,11 @@
+{
+    "name": "Infinite Counterstrike",
+    "type": "Typeless",
+    "power": 3,
+    "damage": "Vitality",
+    "accuracy": "Vitality",
+    "target": "User",
+    "effect": "Priority 6. Shield Move. Until the end of the Round you may redirect an attack that would target an Ally to yourself once per Ally. At the end of the Round, roll this move's Damage Dice against each Foe that performed an attacking move that was redirected.",
+    "description": "You keep countering, and countering and countering.",
+    "category": "Physical"
+}

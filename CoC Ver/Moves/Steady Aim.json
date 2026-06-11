@@ -1,0 +1,11 @@
+{
+    "name": "Steady Aim",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "You gain High Critical and +2 Flat Damage on your next Pulse move against the Target.",
+    "description": "Sometimes, the better plan is to aim first.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Moonblast",
+    "type": "Fairy",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Dice to Reduce Target's Special by 1.",
+    "description": "The user becomes a champion of lunar justice. In the name of the moon, they will right the wrongs and triumph over evil!",
+    "category": "Special"
+}

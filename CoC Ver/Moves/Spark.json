@@ -1,0 +1,11 @@
+{
+    "name": "Spark",
+    "type": "Electric",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Dice to Paralyze the Target.",
+    "description": "The user engulfs itself with statc electricity then charges with a solid tackle against the foe. Sparks fly, very literally.",
+    "category": "Physical"
+}

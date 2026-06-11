@@ -1,0 +1,11 @@
+{
+    "name": "Scorching Sands",
+    "type": "Ground",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Dice to inflict 1st Degree Burn on the foe.",
+    "description": "The sand around the user heats to scorching temperatures as it is thrown against their foe.",
+    "category": "Special"
+}

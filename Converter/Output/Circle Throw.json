@@ -1,0 +1,11 @@
+{
+    "name": "Circle Throw",
+    "type": "Fighting",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy -1. Late Reaction 1. Switcher Move for the foe.",
+    "description": "Using their best sumo moves, the Pokémon throws the foe 60ft. out of the battlefield.",
+    "category": "Physical"
+}

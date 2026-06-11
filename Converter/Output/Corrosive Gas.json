@@ -1,0 +1,11 @@
+{
+    "name": "Corrosive Gas",
+    "type": "Poison",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Area",
+    "effect": "Area Attack. Those affected lose their held item.",
+    "description": "The Pokémon releases a powerful acidic gas that melts all inorganic matter in seconds.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Spore",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Powder Move. Put the Target to Sleep.",
+    "description": "A very potent somniferous spore. Dangerous to inhale as it could make you sleep for days.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Shock Wave",
+    "type": "Electric",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Never Miss.",
+    "description": "A series of lightning bolts rise through the floor towards the sky, it is impossible to predict where they are coming from.",
+    "category": "Special"
+}

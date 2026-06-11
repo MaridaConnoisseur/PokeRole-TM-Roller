@@ -1,0 +1,11 @@
+{
+    "name": "Extrasensory",
+    "type": "Psychic",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Roll 1 Chance Die to Flinch the Target.",
+    "description": "The Pokémon alters their target’s senses, making it feel things that aren’t really there.",
+    "category": "Special"
+}

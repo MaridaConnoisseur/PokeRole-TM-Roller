@@ -1,0 +1,11 @@
+{
+    "name": "Power Split",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Average the User's Strength and Special with the Target's, rounded down.",
+    "description": "Through a mental link both Pokémon are aware of each other strengths, which ends up evening the odds.",
+    "category": "Support"
+}

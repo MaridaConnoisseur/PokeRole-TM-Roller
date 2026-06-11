@@ -1,0 +1,11 @@
+{
+    "name": "Rage",
+    "type": "Normal",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. If a foe damages the User with a Physical or Special Move in the same round after using this Move. Increase the User's Strength by 1. This effect can stack up to 3 Times.",
+    "description": "The user gets angry and throws a tantrum against the foe. The more the battle continues the angrier the user gets.",
+    "category": "Physical"
+}

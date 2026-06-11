@@ -1,0 +1,11 @@
+{
+    "name": "Grassy Terrain",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Ally's Battlefield",
+    "effect": "Target User's side of the field. Add 1 Extra Damage Dice to all Physical & Special Grass-Type Moves. Everyone on the User's side of the field heals 1 HP at the end of each Round. Spend 1 Will Point t activate. Duration 4 Rounds.",
+    "description": "A patch of grass grows in the area surrounding the user, through it nature grants her many blessings.",
+    "category": "Support"
+}

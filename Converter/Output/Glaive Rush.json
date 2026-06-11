@@ -1,0 +1,11 @@
+{
+    "name": "Glaive Rush",
+    "type": "Dragon",
+    "power": 6,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. The User is now Vulnerable to: The Next Physical or Special Move that targets them.",
+    "description": "The user attacks with its sharp dorsal fin by doing a somersault slash. This can pretty much slice in half anything, but it also leaves the user prone to sneak attacks.",
+    "category": "Physical"
+}

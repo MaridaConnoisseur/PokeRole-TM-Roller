@@ -1,0 +1,11 @@
+{
+  "name": "Shed Tail",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User + Ally",
+  "effect": "Deal 6 Damage to the user and set a decoy with 4 HP and the same Defenses as the user. All moves targeting the selected ally are redirected to the decoy. If the decoy's HP is depleted, it disappears and the ally comes back into the fight. Decoy can only be affected by damaging moves. Sound based moves ignore the decoy.",
+  "description": "The user sheds it's tail off and crafts it into a makeshift dummy to protect an ally.",
+  "category": "Support"
+}

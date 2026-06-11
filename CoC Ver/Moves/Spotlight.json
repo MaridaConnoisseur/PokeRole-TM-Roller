@@ -1,0 +1,11 @@
+{
+    "name": "Spotlight",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cool",
+    "target": "Ally",
+    "effect": "Target One Ally. Reaction 3. All of the Foe's Moves will Target the Chosen Ally if able. Duration 1 Round.",
+    "description": "The user points a focused light onto one of their allies. The ally can’t help but catch everyone’s attention into itself.",
+    "category": "Support"
+}

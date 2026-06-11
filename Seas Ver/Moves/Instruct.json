@@ -1,0 +1,11 @@
+{
+    "name": "Instruct",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Copy Move. Unique Moves can't be copied. You may choose another Target(s) for the copied Move.",
+    "description": "The Pokémon sends a psychic command to a target, enabling the user to mentally tell them what to do. If you see a Pokémon attacking their own allies... this was it.",
+    "category": "Support"
+}

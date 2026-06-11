@@ -1,0 +1,11 @@
+{
+    "name": "Feint Attack",
+    "type": "Dark",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Never Miss.",
+    "description": "The user approaches inconspicuously, pretending to attack the foe directly, then actually hits the foe from behind.",
+    "category": "Physical"
+}

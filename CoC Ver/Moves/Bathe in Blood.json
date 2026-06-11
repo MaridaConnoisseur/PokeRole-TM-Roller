@@ -1,0 +1,11 @@
+{
+    "name": "Bathe in Blood",
+    "type": "Typeless",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Only usable below 50% Base Max Health. Heals the User for Half the Damage Dealt. High Critical, upgrades to a Garunteed Critical Hit at level 8.",
+    "description": "YOU'RE TOO ANGRY TO DIE LIKE A MERE MORTAL MON.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Poison Fang",
+    "type": "Poison",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Bite Move. Roll 5 Chance Dice to Badly Poison the Target.",
+    "description": "The Pokémon goes for a quick bite, releasing the foe just as fast. Let the poison slowly consume the foe from the inside out. No need to spend more energy when a drop is more than enough.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Defense Curl",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "Self",
+    "effect": "Target Self. Increase the User's Defense by 1. Increase by 1 the Power of the Moves \"Ice Ball\" & \"Rollout\".",
+    "description": "The user curls into a ball to protect themselves when they feel threatened.",
+    "category": "Support"
+}

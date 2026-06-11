@@ -1,0 +1,11 @@
+{
+    "name": "Rock Blast",
+    "type": "Rock",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Ranged. Successive Actions. Projectile Move.",
+    "description": "A rock shrapnel, the user shoots tiny bullet-like pebbles.",
+    "category": "Physical"
+}

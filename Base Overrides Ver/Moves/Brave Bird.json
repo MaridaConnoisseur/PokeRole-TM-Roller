@@ -1,0 +1,11 @@
+{
+    "name": "Brave Bird",
+    "type": "Flying",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Recoil.",
+    "description": "Back in the day humans relied on birds to send their messages and even go to war. Many earned medals for bravery.",
+    "category": "Physical"
+}

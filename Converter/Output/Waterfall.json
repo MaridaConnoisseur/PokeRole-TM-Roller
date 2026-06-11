@@ -1,0 +1,11 @@
+{
+    "name": "Waterfall",
+    "type": "Water",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Dice to Flinch the Target.",
+    "description": "The Pokémon swims with such force and speed that it could even swim upwards in a waterfall.",
+    "category": "Physical"
+}

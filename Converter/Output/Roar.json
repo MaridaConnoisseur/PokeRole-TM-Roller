@@ -1,0 +1,11 @@
+{
+    "name": "Roar",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Late Reaction 6. Switcher Move for the Foe. In the wild, the battle may end.",
+    "description": "With a potent roar, to make the foe reconsider their intentions.",
+    "category": "Support"
+}

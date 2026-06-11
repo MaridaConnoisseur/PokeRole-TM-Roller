@@ -1,0 +1,11 @@
+{
+    "name": "Gunk Shot",
+    "type": "Poison",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Ranged. Roll 3 Chance Dice to Poison the Target.",
+    "description": "The target is covered heat to toe in sludge, filth and organic waste. It can’t even cry for help or all of it will go into its mouth.",
+    "category": "Physical"
+}

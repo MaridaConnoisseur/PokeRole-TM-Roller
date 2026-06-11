@@ -1,0 +1,11 @@
+{
+    "name": "Make It Rain",
+    "type": "Steel",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Area",
+    "effect": "Area Move. Reduce the User's Special by 2. At the end of the battle give the User and every Trainer whose Pokemon was hit, Money equal to their Rank: Starter/Rookie - 100 Standard - 250 Advanced - 500 Ace or more - 1000",
+    "description": "The Pokémon calls a rain of gold to fall from the sky. All the greedy Pokémon who threw themselves at the money get in range for an explosion of golden light. Worth it!",
+    "category": "Special"
+}

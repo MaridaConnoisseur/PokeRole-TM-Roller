@@ -1,0 +1,11 @@
+{
+    "name": "Tera Starstorm",
+    "type": "Normal",
+    "power": 5,
+    "damage": "Strength/Special",
+    "accuracy": "Strength/Special",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Unique Move. *If the User is actively Terastallized, the Type of this Move changes to match that of the Tera-Type, this affects Weaknesses, Resistances and STAB accordingly. Change the type of those affected at random.",
+    "description": "Tera crystals full of energy fall from the sky as meteors. A beautiful but extemely chaotic scene follows as all Pokémon absorb the Tera Energy without control.",
+    "category": "Physical/Special"
+}

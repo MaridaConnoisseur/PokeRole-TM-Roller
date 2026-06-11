@@ -1,0 +1,11 @@
+{
+    "name": "King's Shield",
+    "type": "Steel",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "User",
+    "effect": "Reaction. Shield move. Used in reaction to the user being targeted, reducing incoming damage by 3. If the move that strikes the user is a Contact move, the foe's Strength is lowered by 2.",
+    "description": "The pokemon uses a ghostly shield to protect itself. If the foe managed to touch it, the user will drain some of it's life force.",
+    "category": "Support"
+}

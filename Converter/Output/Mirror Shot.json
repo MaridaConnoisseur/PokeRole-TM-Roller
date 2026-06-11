@@ -1,0 +1,11 @@
+{
+    "name": "Mirror Shot",
+    "type": "Steel",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Roll 3 Chance Dice to Confuse the Target.",
+    "description": "Through a series of reflective surfaces, the Pokémon redirects a beam through unexpected directions. The foe is at a loss; they don’t know if what they see is real or a reflection.",
+    "category": "Special"
+}

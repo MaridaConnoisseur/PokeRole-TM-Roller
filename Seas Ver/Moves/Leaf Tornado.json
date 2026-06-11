@@ -1,0 +1,11 @@
+{
+    "name": "Leaf Tornado",
+    "type": "Grass",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Roll 5 Chance Dice to Reduce 1 Success from all Accuracy Rolls of the foe.",
+    "description": "A cluster of leaves and twigs swirls around the foe, getting in its eyes and making it difficult to aim properly",
+    "category": "Special"
+}

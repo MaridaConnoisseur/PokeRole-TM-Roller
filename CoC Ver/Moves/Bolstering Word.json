@@ -1,0 +1,11 @@
+{
+    "name": "Bolstering Word",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "User and Allies",
+    "effect": "Boost the User and Allies Defense and Special Defense till the end of the next round.",
+    "description": "A Kind word goes a long distance in restoring ones resolve.",
+    "category": "Support"
+}

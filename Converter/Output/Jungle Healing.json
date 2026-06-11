@@ -1,0 +1,11 @@
+{
+    "name": "Jungle Healing",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "All Allies",
+    "effect": "Target User and Allies in Range. Heal any Status Ailment (Burn, Freeze, Paralysis, Poison & Sleep) on the Targets. Restore 1 HP to the targets. If successful spend 1 Will point to activate.",
+    "description": "A stream of life force from plants and trees flow into the User and their Allies.",
+    "category": "Support"
+}

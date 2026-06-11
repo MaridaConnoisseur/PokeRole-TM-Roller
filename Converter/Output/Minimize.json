@@ -1,0 +1,11 @@
+{
+    "name": "Minimize",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Self",
+    "effect": "Target Self. The User can now make up to 5 Evasions per Round. Reduce the User's Height and Weight in half. The user is now Vulernable to: Stomp. Whole Scene Duration.",
+    "description": "The Pokémon compacts their body. Becoming a much smaller target to be difficult to hit. But a well placed stomp may leave them squished on the floor, though.",
+    "category": "Support"
+}

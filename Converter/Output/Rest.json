@@ -1,0 +1,11 @@
+{
+    "name": "Rest",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "Self",
+    "effect": "Target Self. Complete Heal. If successful, spend 1 Will point to activate. Put the User to Sleep.",
+    "description": "Yeah, this seems like a good spot to take a nap.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Tachyon Cutter",
+    "type": "Steel",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Cutter Move. Lethal. Never Miss. Double Action.",
+    "description": "The Pokémon swings with a sword so sharp, it cuts twice.",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Noxious Torque",
+    "type": "Poison",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. Ranged. Roll 3 Chance Dice to Poison the Target.",
+    "description": "Surrounded by noxious gases, the victim is spun around at high speeds.",
+    "category": "Physical"
+}

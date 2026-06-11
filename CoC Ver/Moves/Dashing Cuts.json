@@ -1,0 +1,11 @@
+{
+    "name": "Dashing Cuts",
+    "type": "Typeless",
+    "power": 1,
+    "damage": "Dexterity",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Priority 1. Switcher Move. You gain High Critical against the target during your next turn.",
+    "description": "A quick attack to both leave a target open, and yourself defended.",
+    "category": "Physical"
+}

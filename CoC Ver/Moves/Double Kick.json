@@ -1,0 +1,11 @@
+{
+  "name": "Double Kick",
+  "type": "Fighting",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Kicking. Double Action.",
+  "description": "The user throws two powerful kicks.",
+  "category": "Physical"
+}

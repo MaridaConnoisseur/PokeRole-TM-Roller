@@ -1,0 +1,11 @@
+{
+    "name": "Mach Punch",
+    "type": "Fighting",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Reaction 1. Fist Move.",
+    "description": "The user launches a punch so quickly that it’s barely seen.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Dual Chop",
+    "type": "Dragon",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Double Action.",
+    "description": "Two brutal blows are all this Pokémon needs to make the opponent yield to their might.",
+    "category": "Physical"
+}

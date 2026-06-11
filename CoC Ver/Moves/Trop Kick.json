@@ -1,0 +1,11 @@
+{
+  "name": "Trop Kick",
+  "type": "Grass",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Kicking. Reduce foe's Strength by 1.",
+  "description": "The user strikes with an intense and alluring kick.",
+  "category": "Physical"
+}

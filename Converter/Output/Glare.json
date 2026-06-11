@@ -1,0 +1,11 @@
+{
+    "name": "Glare",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Paralyze the Target.",
+    "description": "With just one look, the target knows it is about to be someone else’s lunch, fear has them immobilized.",
+    "category": "Support"
+}

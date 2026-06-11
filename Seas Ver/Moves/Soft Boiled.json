@@ -1,0 +1,11 @@
+{
+    "name": "Soft Boiled",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Self",
+    "effect": "Target Self. Basic Heal. If successful, spend 1 Will point to activate. Out of battle, this Move can be used on allies.",
+    "description": "An over-easy egg for a healthy breakfast!",
+    "category": "Support"
+}

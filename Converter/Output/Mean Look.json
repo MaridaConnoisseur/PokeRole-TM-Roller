@@ -1,0 +1,11 @@
+{
+    "name": "Mean Look",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Tough",
+    "target": "Foe",
+    "effect": "Single Target. Blocks. Whole Scene Duration.",
+    "description": "An intense and ever-vigilant stare that surveils all possible paths the foe has to escape.",
+    "category": "Support"
+}

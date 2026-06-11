@@ -1,0 +1,11 @@
+{
+    "name": "Glacial Lance",
+    "type": "Ice",
+    "power": 6,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Lethal. Unique.",
+    "description": "It looks just like any other Blizzard until the ice spears start raining straight into you.",
+    "category": "Physical"
+}

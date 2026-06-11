@@ -1,0 +1,11 @@
+{
+    "name": "Vacuum Wave",
+    "type": "Fighting",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Reaction 1.",
+    "description": "Using their chi as a vacuum, the Pokémon pulls the foe closer, the foe gets hurt by the sudden force wave on its body",
+    "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Water Pulse",
+    "type": "Water",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Dice to Confuse the Target.",
+    "description": "The user sends out a pulsing ring of water that blasts the foe with ultrasonic waves. For a while, everything seems as if reflected in the water ripples.",
+    "category": "Special"
+}

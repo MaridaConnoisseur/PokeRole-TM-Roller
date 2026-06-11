@@ -1,0 +1,11 @@
+{
+    "name": "Parabolic Charge",
+    "type": "Electric",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Vitality",
+    "target": "Area",
+    "effect": "Area Move. The User restore HP equal to half the damage to one Target, rounded down.",
+    "description": "The Pokémon lets loose a big electric charge from its body. The charge comes back to it even bigger.",
+    "category": "Special"
+}

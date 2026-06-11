@@ -1,0 +1,11 @@
+{
+    "name": "Confuse Ray",
+    "type": "Ghost",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "Single Target. Confuse the Target.",
+    "description": "The user flashes a sinister ray of bright light that others cannot help but go straight into it.",
+    "category": "Support"
+}

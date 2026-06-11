@@ -1,0 +1,11 @@
+{
+    "name": "Lunar Blessing",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Ally",
+    "effect": "*Target User or Target one Ally. Unique. If successful, spend 1 Will point to activate. Complete Heal. Heal all status Ailments on the Target. Reduce 1 success to all Accuracy Rolls of one foe.",
+    "description": "Put your faith on the moon, pray during dark times and it shall bring light into your heart, guide the strayed, and cast away the creatures from the shadows.",
+    "category": "Support"
+}

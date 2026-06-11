@@ -1,0 +1,11 @@
+{
+    "name": "Dragon Hammer",
+    "type": "Dragon",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target.",
+    "description": "The Pokémon swings its body as a hammer and leaves the foe nailed to the cracked ground.",
+    "category": "Physical"
+}

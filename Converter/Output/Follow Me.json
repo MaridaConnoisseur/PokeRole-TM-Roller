@@ -1,0 +1,11 @@
+{
+    "name": "Follow Me",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cool",
+    "target": "Self",
+    "effect": "Target Self. Reaction 4. All Foe's Moves able to do so will Target the user. Duration 1 Round.",
+    "description": "The Pokemon draws everyone’s attention, provoking their foes to do their worse.",
+    "category": "Support"
+}

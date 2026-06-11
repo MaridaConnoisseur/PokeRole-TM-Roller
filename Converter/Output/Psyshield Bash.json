@@ -1,0 +1,11 @@
+{
+    "name": "Psyshield Bash",
+    "type": "Psychic",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Dice to Increase by 1 the User's Defense and Sp. Defense.",
+    "description": "The user cloaks itself in a shield of psychic energy then rams into the foe.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Hydro Cannon",
+    "type": "Water",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Must Recharge",
+    "description": "Those who fear fire’s destructive power have forgotten that water triumphs over the flames every single time.",
+    "category": "Special"
+}

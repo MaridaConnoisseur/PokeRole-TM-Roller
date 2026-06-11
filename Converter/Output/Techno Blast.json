@@ -1,0 +1,11 @@
+{
+    "name": "Techno Blast",
+    "type": "Normal",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. *If Genesect is performing this Move, this Move's type may change to: Fire, Ice, Water, or Electric depending on the Driver it has as Held Item.",
+    "description": "A laser briefly beams away from the Pokémon, whatever it hits explodes a second later. This move can be modified with the right programing of a computer.",
+    "category": "Special"
+}

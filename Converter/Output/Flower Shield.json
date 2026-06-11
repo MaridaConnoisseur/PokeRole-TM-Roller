@@ -1,0 +1,11 @@
+{
+    "name": "Flower Shield",
+    "type": "Fairy",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Battlefield",
+    "effect": "Target battlefield. Increase by 1 the Defense of all Grass-Type Pokemon.",
+    "description": "The whole field grows flowers and those flowers keep growing on top of all Grass-Type Pokémon in the field, providing a mild cover and protection from harm.",
+    "category": "Support"
+}

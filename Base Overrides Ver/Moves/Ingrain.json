@@ -1,0 +1,11 @@
+{
+    "name": "Ingrain",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Self",
+    "effect": "Target Self. The User heals 1 HP at the end of each Round. Spend 1 Will point to activate. Blocks. Whole Scene Duration.",
+    "description": "The Pokémon roots themselves to absorb nutrients directly from the ground.",
+    "category": "Support"
+}

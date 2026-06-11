@@ -1,0 +1,11 @@
+{
+    "name": "Trailblaze",
+    "type": "Grass",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Increase the User's Dexterity by 1.",
+    "description": "With their nimble footwork. the user leaps out of the tall grass to take the foe by surprise.",
+    "category": "Physical"
+}

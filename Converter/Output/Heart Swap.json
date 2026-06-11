@@ -1,0 +1,11 @@
+{
+    "name": "Heart Swap",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Switch the User's Trait and Attribute Increases and Reductions with those on the Target's.",
+    "description": "The User enters the mind of the foe to give implant them with their own feelings of insecurity and take the foe’s feelings of confidence in itself.",
+    "category": "Support"
+}

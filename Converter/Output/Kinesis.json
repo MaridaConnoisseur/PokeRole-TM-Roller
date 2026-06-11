@@ -1,0 +1,11 @@
+{
+    "name": "Kinesis",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Reduce 1 success to all the Accuracy Rolls of the Target.",
+    "description": "A basic display of psychic abilities, making objects and other creatures levitate for a short period of time.",
+    "category": "Support"
+}

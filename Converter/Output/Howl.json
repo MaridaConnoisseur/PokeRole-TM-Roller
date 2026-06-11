@@ -1,0 +1,11 @@
+{
+    "name": "Howl",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cool",
+    "target": "All Allies",
+    "effect": "Target User and Allies in Range. Sound Move. Increase by 1 the Strength of those affected.",
+    "description": "If you hear the howl, the pack has already surrounded you.",
+    "category": "Support"
+}

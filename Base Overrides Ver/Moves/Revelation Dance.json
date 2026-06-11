@@ -1,0 +1,11 @@
+{
+    "name": "Revelation Dance",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. *The Type of this Move becomes the same as the User's Main Type. This affects Weakness, Resistances, and STAB accordingly.",
+    "description": "The Pokémon performs a dance, the dance’s energy influences the Type of this Move.",
+    "category": "Special"
+}

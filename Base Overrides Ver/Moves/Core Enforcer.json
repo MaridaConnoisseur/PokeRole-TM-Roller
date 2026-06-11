@@ -1,0 +1,11 @@
+{
+    "name": "Core Enforcer",
+    "type": "Dragon",
+    "power": 4,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. If the User has already received Damage from the Target this Round, Remove the Target's Ability for the rest of the scene. This effect does not end by switching out the affected Pokemon. Unique Abilities are not affected by this effect.",
+    "description": "Zygarde shoots a beam that fractures the target to its core, rendering it unable to sustain even their own essence.",
+    "category": "Special"
+}

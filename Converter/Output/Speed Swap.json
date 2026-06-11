@@ -1,0 +1,11 @@
+{
+    "name": "Speed Swap",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Switch the User's Dexterity with the Target's.",
+    "description": "This move allows the user to release its power. If the user has any boosts, the damage is increased.",
+    "category": "Support"
+}

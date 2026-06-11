@@ -1,0 +1,11 @@
+{
+    "name": "Electro Shot",
+    "type": "Electric",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. Charge Move. If Rain Weather is active, you skip this Move's Charge acton. Increase the User's Special Score by 1.",
+    "description": "The user stands as tall as possible, waiting for a lightning to strike. Then re-directs the lightning directly towards the foe; recharging themselves in the process.",
+    "category": "Special"
+}

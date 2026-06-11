@@ -1,0 +1,11 @@
+{
+    "name": "Collision Course",
+    "type": "Fighting",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. Unique. *Add 4 Extra Dice to the Damage pool of this Move if the Target is weak to Fight-Type Moves.",
+    "description": "Koraidon dashes through the field with a screeching sound, it will not stop until it violently crashes. Causing a massive prehistoric explosion.",
+    "category": "Physical"
+}

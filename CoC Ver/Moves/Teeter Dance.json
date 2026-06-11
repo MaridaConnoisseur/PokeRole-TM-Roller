@@ -1,0 +1,11 @@
+{
+  "name": "Teeter Dance",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "Area",
+  "effect": "Dancing. Inflicts the Confused Status.",
+  "description": "The user starts dancing around with wobbly movements. Friends and foes will get dizzy by trying to follow it.",
+  "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Clanging Scales",
+  "type": "Dragon",
+  "power": 4,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "All Foes",
+  "effect": "Dancing. Sound Based. Reduce the User's Defense.",
+  "description": "The Pokemon rattles the scales of its armor creating a frightening noise in the area. Some of its scales fall of as a result, leaving some areas exposed.",
+  "category": "Special"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Ceaseless Edge",
+    "type": "Dark",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. High Critical. Cutter Move. Ongoing Damage with Duration of 4 Rounds.",
+    "description": "The user slashes the foe using a sharp but brittle shell. Tiny spikes from the shell are left embeded into the foe’s wounds causing more damage as the foe moves.",
+    "category": "Physical"
+}

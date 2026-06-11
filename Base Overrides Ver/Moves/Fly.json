@@ -1,0 +1,11 @@
+{
+    "name": "Fly",
+    "type": "Flying",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Charge Move. Out of Range while Charging. Vulnerable while charging to: Thunder / Twister / Sky Uppercut / Gust / Hurricane / Smack Down. Out of battle allows the Pokemon to fly long distances.",
+    "description": "The Pokémon uses an action to fly up high, to asses the best angle to take a dive against the foe. Pokémon who know this Move can fly for long periods of time without rest.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Alter Flow",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "User",
+    "effect": "Recover HP equal to half the difference between your Current HP and your HP 2 Rounds ago (taken from the Start of the Round). Remove any Stat Reductions you received during those 2 Rounds. Costs 2 Will to activate.",
+    "description": "Did you get hit? Well. with the amount of power at your fingertips, no you didn't.",
+    "category": "Support"
+}

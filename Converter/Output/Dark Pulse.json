@@ -1,0 +1,11 @@
+{
+    "name": "Dark Pulse",
+    "type": "Dark",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Random Foe",
+    "effect": "Target Random Foe. Roll 2 Chance Dice to Flinch the Target.",
+    "description": "A haze of dark energy decends on the battlefield preying on those vulnerable to the obscure feelings and fears it provokes.",
+    "category": "Special"
+}

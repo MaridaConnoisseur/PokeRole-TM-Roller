@@ -1,0 +1,11 @@
+{
+    "name": "Wild Charge",
+    "type": "Electric",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Recoil. Roll 1 Chance die to Paralyze the Target.",
+    "description": "The Pokémon surrounds itself with lightning then recklessly charges against their target.",
+    "category": "Physical"
+}

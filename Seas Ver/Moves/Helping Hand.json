@@ -1,0 +1,11 @@
+{
+    "name": "Helping Hand",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cool",
+    "target": "Ally",
+    "effect": "Target One Ally. Reaction 5. The Target Gets 2 Extra Dice on their next Skill Check/Accuracy Roll, and 2 Extra Dice on their next Damage Roll. This Effect does not Stack.",
+    "description": "The Pokémon is the first to come and give a hand to their friend. A true bro.",
+    "category": "Support"
+}

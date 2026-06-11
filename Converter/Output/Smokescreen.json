@@ -1,0 +1,11 @@
+{
+    "name": "Smokescreen",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Reduce 1 success to all the Accuracy Rolls of the Target.",
+    "description": "The Pokémon covers the foe in a cloud of smoke to impair their visibility to make it easier to hide and/or cover their escape.",
+    "category": "Support"
+}

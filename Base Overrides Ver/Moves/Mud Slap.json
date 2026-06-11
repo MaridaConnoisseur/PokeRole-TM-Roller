@@ -1,0 +1,11 @@
+{
+    "name": "Mud Slap",
+    "type": "Ground",
+    "power": 1,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Reduce 1 success to all the Accuracy Rolls of the Target.",
+    "description": "A mud ball splatters right into the foe’s face, reducing their field of vision.",
+    "category": "Special"
+}

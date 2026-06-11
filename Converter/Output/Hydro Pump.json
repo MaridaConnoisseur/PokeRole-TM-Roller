@@ -1,0 +1,11 @@
+{
+    "name": "Hydro Pump",
+    "type": "Water",
+    "power": 5,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2",
+    "description": "Water works best under pressure.",
+    "category": "Special"
+}

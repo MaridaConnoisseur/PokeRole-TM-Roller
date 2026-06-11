@@ -1,0 +1,11 @@
+{
+    "name": "Shell Trap",
+    "type": "Fire",
+    "power": 6,
+    "damage": "Special",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. Late Reaction 3. This Move's damage is only rolled the next time the User is hit with a Non-Ranged Physical attack.",
+    "description": "The Pokémon apparently just buries underground, but secretly prepares their shell to detonate; anyone who steps on it will be blown to pieces.",
+    "category": "Special"
+}

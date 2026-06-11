@@ -1,0 +1,11 @@
+{
+    "name": "Shattered Psyche",
+    "type": "Psychic",
+    "power": "Happiness + Loyalty",
+    "damage": "SameAsBasePower",
+    "accuracy": "SameAsBaseMove",
+    "target": "Foe",
+    "effect": "Single Target. Suggested effects: Activate Psychic Terrain, Attribute Increase, Damage Increase See p. 610 for more info.",
+    "description": "",
+    "category": "Support/Physical/Special"
+}

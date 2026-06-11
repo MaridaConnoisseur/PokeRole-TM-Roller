@@ -1,0 +1,11 @@
+{
+    "name": "Psyblade",
+    "type": "Psychic",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity/Insight",
+    "target": "Foe",
+    "effect": "Single Target. Lethal. Cutter Move. *If Electric Terrain is active, add 2 Extra Dice to the Damage pool of this Move.",
+    "description": "The Pokémon attacks using an ethereal blade. Electric energy will increase the sharpness of its edge.",
+    "category": "Physical"
+}

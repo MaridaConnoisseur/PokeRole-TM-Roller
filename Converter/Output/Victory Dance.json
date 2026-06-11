@@ -1,0 +1,11 @@
+{
+    "name": "Victory Dance",
+    "type": "Fighting",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cool",
+    "target": "Self",
+    "effect": "Target Self. Increase by 1 the User's Strength and Defense. Add 1 Die to the User's Damage Pool for all Non-Ranged Physical Attacks.",
+    "description": "The user dances spelling the letters “EZ” in a display of overconfidence. Encouraging their foes to either get good or give up already",
+    "category": "Support"
+}

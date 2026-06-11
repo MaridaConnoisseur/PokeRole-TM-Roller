@@ -1,0 +1,11 @@
+{
+    "name": "Power Swap",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Whole Scene Duration. Switch the User's Strength and Special with the Target's.",
+    "description": "The Pokémon enters their foe’s mind to steal its power and implant on them the idea of their own frailty.",
+    "category": "Support"
+}

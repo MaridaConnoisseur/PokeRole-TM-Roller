@@ -1,0 +1,11 @@
+{
+    "name": "Sacrifice",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "User",
+    "effect": "Deal 2 Damage to the User. The next Support Move the User performs gains Never Fail. If this move inflicts a Status or effect that deals damage at the end of the Round, immediately deal damage to the primary target as if 1 Round has passed (and trigger other associated end of Round effects if applicable). If the move does neither, Increase one of the User's Stats by 1 (chosen randomly).",
+    "description": "Just...a bit of borrowed power...",
+    "category": "Support"
+}

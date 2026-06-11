@@ -1,0 +1,11 @@
+{
+    "name": "Lava Plume",
+    "type": "Fire",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Area",
+    "effect": "Area Move. Roll 3 Chance Dice to inflict 1st Degree Burn on those affected.",
+    "description": "The floor is lava. The sky is lava. Everywhere is lava. Hundreds of lava bits start raining scattered around the field.",
+    "category": "Special"
+}

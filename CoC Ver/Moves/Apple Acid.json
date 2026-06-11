@@ -1,0 +1,11 @@
+{
+    "name": "Apple Acid",
+    "type": "Grass",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. Reduce the Foe's Sp. Defense by 1.",
+    "description": "The Pokémon produces a sap from the tart apples they feed on, if the apples are not ripe their sap will be acidic and bad for teeth.",
+    "category": "Special"
+}

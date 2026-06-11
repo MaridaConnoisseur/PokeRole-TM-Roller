@@ -1,0 +1,11 @@
+{
+    "name": "The Shieldwall",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Vitality",
+    "target": "User",
+    "effect": "Priority 6. Redirect all Moves to the User. Reduce incoming damage by the User's Rank Bonus. The User may not use this move again, until they use another move.",
+    "description": "You create your own shieldwall, standing as a barrier between doom and your allies.",
+    "category": "Support"
+}

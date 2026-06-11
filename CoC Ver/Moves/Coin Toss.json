@@ -1,0 +1,11 @@
+{
+    "name": "Coin Toss",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "Strength/Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Spend up to 50 Poke on this attack, for each 10 Poke spent, increase it's Power by 1.",
+    "description": "You throw your coins at your foes!",
+    "category": "Special"
+}

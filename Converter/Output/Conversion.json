@@ -1,0 +1,11 @@
+{
+    "name": "Conversion",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "Self",
+    "effect": "Target Self. Unique. Change the User's Main Type at random. Whole Scene Duration.",
+    "description": "The Pokémon downloads data from their database to add into their own code.",
+    "category": "Support"
+}

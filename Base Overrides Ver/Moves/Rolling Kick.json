@@ -1,0 +1,11 @@
+{
+    "name": "Rolling Kick",
+    "type": "Fighting",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Roll 3 Chance Dice to Flinch the Target.",
+    "description": "The Pokémon jumps in the air and spins with one leg extended to land an impressive kick against their foe.",
+    "category": "Physical"
+}

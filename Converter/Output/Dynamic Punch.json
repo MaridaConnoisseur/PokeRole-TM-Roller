@@ -1,0 +1,11 @@
+{
+    "name": "Dynamic Punch",
+    "type": "Fighting",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 3. Fist Move. Confuse the Target.",
+    "description": "A punch to a vital pressure point on the foe to disrupt their sense of balance",
+    "category": "Physical"
+}

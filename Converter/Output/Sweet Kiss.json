@@ -1,0 +1,11 @@
+{
+    "name": "Sweet Kiss",
+    "type": "Fairy",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cute",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Confuse the Target.",
+    "description": "The Pokémon timidly approaches the foe and plants a delicate kiss on its cheek then quickly retreats giggling. The foe struggles to understand the meaning of this.",
+    "category": "Support"
+}

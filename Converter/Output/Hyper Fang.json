@@ -1,0 +1,11 @@
+{
+    "name": "Hyper Fang",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Bite Move. Roll 1 Chance die to Flinch the Target.",
+    "description": "The Pokémon bites hard into the foe, leaving nasty teeth marks.",
+    "category": "Physical"
+}

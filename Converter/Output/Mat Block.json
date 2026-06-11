@@ -1,0 +1,11 @@
+{
+    "name": "Mat Block",
+    "type": "Fighting",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "All Allies",
+    "effect": "Target User and Allies in Range. Shield Move. Reaction 1. Reduce 3 Damage from a Physical or Special Move.",
+    "description": "The Pokémon uses a mat as a shield.",
+    "category": "Support"
+}

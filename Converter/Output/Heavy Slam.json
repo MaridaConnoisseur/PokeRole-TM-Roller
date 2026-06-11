@@ -1,0 +1,11 @@
+{
+    "name": "Heavy Slam",
+    "type": "Steel",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. *Add 1 Extra Die to he Damage Pool for every 50kg of weight the User is above the target's weight. Up to 4 Dice may be added this way.",
+    "description": "The foe is about to confirm if the Pokémon is thick-boned.",
+    "category": "Physical"
+}

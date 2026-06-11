@@ -1,0 +1,11 @@
+{
+    "name": "Upper Hand",
+    "type": "Fighting",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Reaction 3. *If this Move is used as a Reaction to another Reaction, Flinch the Target.",
+    "description": "The battle is over when you’ve got the high ground, but the foe refuses to acknowledge it.",
+    "category": "Physical"
+}

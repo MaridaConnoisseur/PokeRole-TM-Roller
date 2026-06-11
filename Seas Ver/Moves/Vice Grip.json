@@ -1,0 +1,11 @@
+{
+    "name": "Vice Grip",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Lethal.",
+    "description": "The Pokémon traps the foe with its pincers or jaws and applies pressure that will leave a nasty bruise.",
+    "category": "Physical"
+}

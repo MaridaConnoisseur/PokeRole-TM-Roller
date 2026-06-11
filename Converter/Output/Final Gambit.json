@@ -1,0 +1,11 @@
+{
+    "name": "Final Gambit",
+    "type": "Fighting",
+    "power": 4,
+    "damage": "Target'sRemainingHP",
+    "accuracy": "Will",
+    "target": "Foe",
+    "effect": "Single Target. Ignore Defenses. The user Faints after dealing Damage.",
+    "description": "The Pokémon puts its last Strength into an all-or-nothing attack. After that, the user faints.",
+    "category": "Special"
+}

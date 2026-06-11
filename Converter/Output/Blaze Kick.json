@@ -1,0 +1,11 @@
+{
+    "name": "Blaze Kick",
+    "type": "Fire",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. High Critical. Roll 2 Chance Dice to inflict 2nd Degree Burn on the Target.",
+    "description": "Setting their legs ablaze, the Pokémon throws a mighty kick that sears the sides of the foe.",
+    "category": "Physical"
+}

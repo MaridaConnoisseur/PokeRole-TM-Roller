@@ -1,0 +1,11 @@
+{
+    "name": "Mist",
+    "type": "Ice",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "All Allies",
+    "effect": "Target User and Allies in Range. Targets cannot have their Attributes or Traits Reduced. Previously Reduced Attributes and Traits remain. Duration 4 Rounds.",
+    "description": "A thick layer of mist cloaks a pack of pokémon, those with the intent to trick and weaken them will have to find them first.",
+    "category": "Support"
+}

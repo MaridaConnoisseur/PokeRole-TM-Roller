@@ -1,0 +1,11 @@
+{
+    "name": "Rock Tomb",
+    "type": "Rock",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1. Ranged. Reduce the Target's Dexterity by 1.",
+    "description": "The pokémon buries their foe prematurely, but it’ll be good practice for the real thing.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Tail Whip",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cute",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Reduce by 1 the Defense of those affected.",
+    "description": "The Pokémon whips their tail in such an adorable way the foes let their guard down.",
+    "category": "Support"
+}

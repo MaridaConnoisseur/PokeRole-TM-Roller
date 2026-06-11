@@ -1,0 +1,11 @@
+{
+    "name": "Dragon Rush",
+    "type": "Dragon",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Roll 2 Chance Dice to Flinch the Target.",
+    "description": "The Pokémon rushes to charge against their foe. Unlucky victims end up crushed into the ground.",
+    "category": "Physical"
+}

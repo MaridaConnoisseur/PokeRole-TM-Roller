@@ -1,0 +1,11 @@
+{
+    "name": "Aromatherapy",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "All Allies",
+    "effect": "Target User and Allies in Range. Cure Status Ailments (All Burn degrees, Freeze, Paralysis, All Poison & Sleep) on the Targets.",
+    "description": "The Pokémon releases a series of essential oils and herbal scents to refresh themselves and their companions.",
+    "category": "Support"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "High Jump Kick",
+    "type": "Fighting",
+    "power": 5,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. If the Accuracy roll fails, Roll 5 Dice of Typeless Damage against the user, ignoring defenses.",
+    "description": "The user launches itself up three stories high to pummel down with a brutal kick. Let’s just trust it’s got a good aim from that distance.",
+    "category": "Physical"
+}

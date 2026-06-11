@@ -1,0 +1,11 @@
+{
+    "name": "Electric Terrain",
+    "type": "Electric",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Battlefield",
+    "effect": "Target Battlefield. Add 1 Extra Damage Dice to all Physical & Special Electric-Type Moves. Pokemon without immunity to Ground will be cured of the Sleep Status. Duration 4 Rounds.",
+    "description": "The user electrifies the battlefield, making it impossible to relax around the sparks and live current.",
+    "category": "Support"
+}

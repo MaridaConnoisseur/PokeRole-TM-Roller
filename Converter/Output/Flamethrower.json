@@ -1,0 +1,11 @@
+{
+    "name": "Flamethrower",
+    "type": "Fire",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Roll 1 Chance Die to inflict 2nd Degree Burn on the Target.",
+    "description": "The most emblematic fire attack, a seeminly endless stream of fire that reduces everything and everyone to ashes.",
+    "category": "Special"
+}

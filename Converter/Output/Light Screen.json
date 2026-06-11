@@ -1,0 +1,11 @@
+{
+    "name": "Light Screen",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Ally's Battlefield",
+    "effect": "Target the User's side of the field. Force Field. Activate a Force Field against Special Damage. Duration 4 Rounds.",
+    "description": "A barrier of light is created over half of the battlefield, all energy trying to go trough dissolves as it crosses it.",
+    "category": "Support"
+}

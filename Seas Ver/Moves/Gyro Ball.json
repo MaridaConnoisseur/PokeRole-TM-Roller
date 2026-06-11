@@ -1,0 +1,11 @@
+{
+    "name": "Gyro Ball",
+    "type": "Steel",
+    "power": 1,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Projectile Move. *Add 1 Extra Die to the Damage Pool of this Move for every point on Dexterity the Target has that surpasses the User's. Up to 5 Dice may be added this way.",
+    "description": "The Pokémon shoots a projectile. Correction: the Pokémon IS the projectile.",
+    "category": "Physical"
+}

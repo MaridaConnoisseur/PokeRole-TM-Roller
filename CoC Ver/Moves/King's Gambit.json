@@ -1,0 +1,11 @@
+{
+    "name": "King's Gambit",
+    "type": "Typeless",
+    "power": 2,
+    "damage": "Dexterity",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Grant a chosen Ally +5 Damage Dice against this target on their next attack.",
+    "description": "Your allies are just pieces on the board, and you always win the game.",
+    "category": "Physical"
+}

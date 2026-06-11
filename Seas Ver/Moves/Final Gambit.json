@@ -1,0 +1,11 @@
+{
+    "name": "Final Gambit",
+    "type": "Normal",
+    "power": 0,
+    "damage": "Special",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Contact. Roll Damage Dice equal to your remaining HP. Ignores the foe's Defenses. The user faints after dealing damage.",
+    "description": "The pokemon puts the last of it's strength into an all-or-nothing attack! Afterwards though, it can't go on.",
+    "category": "Special"
+    }

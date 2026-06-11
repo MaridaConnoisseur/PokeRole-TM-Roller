@@ -1,0 +1,11 @@
+{
+  "name": "Malignant Chain",
+  "type": "Poison",
+  "power": 4,
+  "damage": "Special",
+  "accuracy": "Special",
+  "target": "Foe",
+  "effect": "Roll 5 Chance Dice to Badly Poison the target.",
+  "description": "The user assails the target with a horrid poison by wrapping them in a toxic, corrosive chain.",
+  "category": "Special"
+}

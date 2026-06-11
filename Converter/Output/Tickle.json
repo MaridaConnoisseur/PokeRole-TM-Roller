@@ -1,0 +1,11 @@
+{
+    "name": "Tickle",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cute",
+    "target": "Foe",
+    "effect": "Single Target. Reduce by 1 the Target's Strength and Defense.",
+    "description": "Whoever said laughter is the best therapy lied.",
+    "category": "Support"
+}

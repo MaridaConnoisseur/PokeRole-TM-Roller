@@ -1,0 +1,11 @@
+{
+    "name": "Never-Ending Nightmare",
+    "type": "Ghost",
+    "power": "Happiness + Loyalty",
+    "damage": "SameAsBasePower",
+    "accuracy": "SameAsBaseMove",
+    "target": "Foe",
+    "effect": "Single Target. Suggested effects: Ignore Ability, Attribute Increase, Damage Increase See p. 610 for more info.",
+    "description": "",
+    "category": "Support/Physical/Special"
+}

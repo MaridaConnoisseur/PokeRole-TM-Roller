@@ -1,0 +1,11 @@
+{
+  "name": "Fake Out",
+  "type": "Normal",
+  "power": 2,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Striking. Priority 1. Flinch the foe. This move will only work the First Round the Pokemon is out in battle. From the second round on, it will fail automatically.",
+  "description": "While still preparing for battle, the user will suddenly attack the foe.",
+  "category": "Physical"
+}

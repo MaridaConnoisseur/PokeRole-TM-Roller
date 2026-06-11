@@ -1,0 +1,11 @@
+{
+    "name": "Focus Punch",
+    "type": "Fighting",
+    "power": 6,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Fist Move. Charge Move. The User Flinches if it is hit while Charging this Move.",
+    "description": "The user must focus on delivering the greatest punch in history, if they succeed they’ll be known as the One-Punch Pokémon.",
+    "category": "Physical"
+}

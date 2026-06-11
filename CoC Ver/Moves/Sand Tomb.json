@@ -1,0 +1,11 @@
+{
+    "name": "Sand Tomb",
+    "type": "Ground",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Ranged. Blocks. Ongoing Damage. Duration 4 Rounds. Increase the Target's difficulty to Evade at Storyteller's discretion.",
+    "description": "The Pokémon creates a pit of shifting sand around the foe to bury it alive. The poor victim struggles for air as the sand keeps sinking it lower and lower.",
+    "category": "Physical"
+}

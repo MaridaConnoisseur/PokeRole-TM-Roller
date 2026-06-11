@@ -1,0 +1,11 @@
+{
+    "name": "Psywave",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "Varies",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Roll Psychic-Type Damage Dice according to the User's Rank: Starter 1 Die / Rookie 2 Dice / Standard 4 Dice/ Advanced 6 Dice / Expert 8 Dice / Ace and forward 10 Dice. Ignore Defenses.",
+    "description": "A powerful mental wave assault’s the target’s brain directly. Everything, from forgotten memories to the secrets of the universe bombard its mind in just a few seconds.",
+    "category": "Special"
+}

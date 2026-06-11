@@ -1,0 +1,11 @@
+{
+    "name": "Bitter Malice",
+    "type": "Ghost",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Dice to Freeze the Foe. *If the Target already has an active Status Condition, add 2 Extra Dice to the Damage Pool of this Move.",
+    "description": "The victim is hit by an onslaught of evil energy. Filled with dread, the victim is unable to move.",
+    "category": "Special"
+}

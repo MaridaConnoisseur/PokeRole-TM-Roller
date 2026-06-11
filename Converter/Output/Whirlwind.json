@@ -1,0 +1,11 @@
+{
+    "name": "Whirlwind",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity/Special",
+    "target": "Foe",
+    "effect": "Single Target. Late Reaction 6. Wind Move. Switcher Move for the Foe. In the wild, the battle may end.",
+    "description": "A strong whirlwind can send you flying away to who knows where. You better be wearing your red shoes.",
+    "category": "Support"
+}

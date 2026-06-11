@@ -1,0 +1,11 @@
+{
+    "name": "Mirror Move",
+    "type": "Flying",
+    "power": 0,
+    "damage": "SameAsCopiedMove",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Copy Move. Unique Moves can't be copied. You may choose another Target(s) for the copied Move.",
+    "description": "The Pokémon parrots the target cries and movements. In an almost perfect impersonation that manages to copy its powers.",
+    "category": "Support"
+}

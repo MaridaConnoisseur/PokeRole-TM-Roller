@@ -1,0 +1,11 @@
+{
+    "name": "Barrier",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Special",
+    "target": "Self",
+    "effect": "Target Self. Increase the User's Defense by 2.",
+    "description": "Whenever a foe attempts to to get too close to the user, they suddenly stop as if something ...or someone, prevented their movement.",
+    "category": "Support"
+}

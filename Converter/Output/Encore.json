@@ -1,0 +1,11 @@
+{
+    "name": "Encore",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Cool",
+    "target": "Foe",
+    "effect": "Single Target. Reaction 3. The Target will repeat the exact same action sequence it had last Round. Target must have had an action sequence. Duration 1 Round. If used on the previous Round, this move fails. See more on p. 529.",
+    "description": "The Pokémon makes a standing ovation at their target, prompting them to repeat everything they just did, exactly the way they did it.",
+    "category": "Support"
+}

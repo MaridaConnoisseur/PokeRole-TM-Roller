@@ -1,0 +1,11 @@
+{
+    "name": "Skitter Smack",
+    "type": "Bug",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Reduce the Target's Special by 1.",
+    "description": "The Pokémon stalks and strikes the foe, usually from behind bushes or any sort of cover.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Lunar Dance",
+  "type": "Psychic",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Insight",
+  "target": "Ally",
+  "effect": "Dancing. The user Faints. One fallen Ally regains consciousness, has its HP fully restored and all Status Ailments healed. If the Ally was not in-battle, it is called out and ready to fight.",
+  "description": "The moon shines at the darkest hours, reflecting the sun's lifebringer light on those who fell into the night, taking pity on their lost souls.",
+  "category": "Support"
+}

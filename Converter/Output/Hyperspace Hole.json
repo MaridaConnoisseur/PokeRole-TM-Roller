@@ -1,0 +1,11 @@
+{
+    "name": "Hyperspace Hole",
+    "type": "Psychic",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Never Miss. Unique. Ignore Defenses. Ignore Shield Moves and Force Field.",
+    "description": "The laws of physics forbid one object from being in many places at once and from occupying the same space as other bodies. But the user disregards their autorithy.",
+    "category": "Special"
+}

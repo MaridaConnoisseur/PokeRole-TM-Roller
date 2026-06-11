@@ -1,0 +1,11 @@
+{
+    "name": "Guard Swap",
+    "type": "Psychic",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Whole Scene Duration. Switch the User's Defense and Sp. Defense with the Target's.",
+    "description": "The Pokémon enters their foe’s mind to steal its fortitude and implant on them the idea of their own weakness.",
+    "category": "Support"
+}

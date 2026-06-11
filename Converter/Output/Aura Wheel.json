@@ -1,0 +1,11 @@
+{
+    "name": "Aura Wheel",
+    "type": "Electric",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Increase the user's Dexterity by 1. If the user of this Move is in \"Hangry Form\" this Move is considered Dark-Type.",
+    "description": "The Pokémon happily runs into a wheel made of electricity that strikes the foe. If the user is feeling hungry the wheel’s energy is replaced by a dark aura.",
+    "category": "Physical"
+}

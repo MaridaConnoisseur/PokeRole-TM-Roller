@@ -1,0 +1,11 @@
+{
+    "name": "Solar Blade",
+    "type": "Grass",
+    "power": 6,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Charge Move. Cutter Move. If Sunny Weather is active, you skip this Move's Charge action. If performed under Rain, Sandstorm or Hail/Snowy Weather, this Move takes two actions to Charge.",
+    "description": "The Pokémon focuses the sunlight on its sharp leaves, then releases the energy with a shattering cut.",
+    "category": "Physical"
+}

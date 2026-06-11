@@ -1,0 +1,11 @@
+{
+    "name": "Psych Up",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. The User gets the same Attribute/Trait Increases and Reductions the Target has.",
+    "description": "The Pokémon mentalizes themselves stronger than anyone. They feel good. They can win. They. Can. Do. This!",
+    "category": "Support"
+}

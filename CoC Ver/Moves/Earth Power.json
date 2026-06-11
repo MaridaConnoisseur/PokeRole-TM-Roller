@@ -1,0 +1,11 @@
+{
+    "name": "Earth Power",
+    "type": "Ground",
+    "power": 3,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Roll 1 Chance Die to Reduce the Target's Sp. Defense by 1.",
+    "description": "The user sends out a subterranean wave that bursts the ground below the target. It’s as if the earth bends to the user’s will.",
+    "category": "Special"
+}

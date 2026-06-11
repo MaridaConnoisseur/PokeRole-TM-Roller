@@ -1,0 +1,11 @@
+{
+    "name": "Cotton Spore",
+    "type": "Grass",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Clever",
+    "target": "Foe",
+    "effect": "Single Target. Powder Move. Reduce the Target's Dexterity by 2.",
+    "description": "The foe is covered head to toe in cotton fluff, disrupting its movement.",
+    "category": "Support"
+}

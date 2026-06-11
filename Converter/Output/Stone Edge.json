@@ -1,0 +1,11 @@
+{
+    "name": "Stone Edge",
+    "type": "Rock",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 2. Ranged. Lethal. High Critical. Cutter Move.",
+    "description": "Obsidian shards are sent out against the foe. This rock may be brittle but is the sharpest in the world.",
+    "category": "Physical"
+}

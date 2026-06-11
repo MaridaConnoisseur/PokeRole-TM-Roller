@@ -1,0 +1,11 @@
+{
+  "name": "Leech Life",
+  "type": "Bug",
+  "power": 3,
+  "damage": "Strength",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Biting. The user restores HP equal to half the damage dealt rounded down.",
+  "description": "The user attacks a vital spot and sucks away the vitality of its foe.",
+  "category": "Physical"
+}

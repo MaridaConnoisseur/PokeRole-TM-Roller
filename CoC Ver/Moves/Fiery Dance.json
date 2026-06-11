@@ -1,0 +1,11 @@
+{
+  "name": "Fiery Dance",
+  "type": "Fire",
+  "power": 3,
+  "damage": "Special",
+  "accuracy": "Dexterity",
+  "target": "Foe",
+  "effect": "Dancing. Roll 5 Chance Dice to Increase the User's Special.",
+  "description": "The user cloaks itself in flames and shoots them while dancing gracefully.",
+  "category": "Special"
+}

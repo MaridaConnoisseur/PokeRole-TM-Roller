@@ -1,0 +1,11 @@
+{
+    "name": "Malevolence",
+    "type": "Typeless",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Will",
+    "target": "All Foes",
+    "effect": "Causes all Status Moves and other Damage over Time Effects to trigger, as if it was the end of the Round (this does not reduce any remaining durations, if applicable). Reset any Confused and Drowsy successes to wake up/snap out. Paralyzed targets cannot will their next check to fail to act. This move cannot be used again until the User has used another move.",
+    "description": "The dark energies you surround yourself with finally win, corrupting your soul and thusly, empowering the misery you put onto others.",
+    "category": "Support"
+}

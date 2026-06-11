@@ -1,0 +1,11 @@
+{
+    "name": "Darkest Lariat",
+    "type": "Dark",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Striking. Ignore the the foe's Stat Changes that would decrease this Move's damage.",
+    "description": "The user swings both of its arms against the target, there's no armor thick enough to stop the strike.",
+    "category": "Physical"
+}

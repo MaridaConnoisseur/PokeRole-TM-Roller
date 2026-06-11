@@ -1,0 +1,11 @@
+{
+    "name": "Bite",
+    "type": "Dark",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Bite Move. Roll 3 Chance Dice to Flinch the Foe",
+    "description": "The user lands a vicious bite, leaving an ugly bruise.",
+    "category": "Physical"
+}

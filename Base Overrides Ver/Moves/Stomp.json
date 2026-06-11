@@ -1,0 +1,11 @@
+{
+    "name": "Stomp",
+    "type": "Normal",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Roll 3 Chance Die to Flinch the Target. Targets under the effects of the Move \"Minimize\" are vulnerable.",
+    "description": "Stomping the foe with strong feet. Perfect to squish nasty little bugs.",
+    "category": "Physical"
+}

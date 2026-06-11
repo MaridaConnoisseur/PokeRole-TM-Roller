@@ -1,0 +1,11 @@
+{
+  "name": "Swords Dance",
+  "type": "Normal",
+  "power": 0,
+  "damage": "",
+  "accuracy": "Dexterity",
+  "target": "User",
+  "effect": "Dancing. Increase the User's Strength by 2.",
+  "description": "The Pokemon makes a dance that raises its battle spirit.",
+  "category": "Support"
+}

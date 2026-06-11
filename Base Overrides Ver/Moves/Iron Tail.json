@@ -1,0 +1,11 @@
+{
+    "name": "Iron Tail",
+    "type": "Steel",
+    "power": 4,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 3. Roll 3 Chance Dice to Reduce the Target's Defense by 1.",
+    "description": "With a hardened tail, the Pokémon swings against the foe to make a dent in their armor.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Dancing Steps",
+    "type": "Typeless",
+    "power": 3,
+    "damage": "Dexterity",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Dancing. You invite an Ally to dance with you, allowing them to use one of your Active Dancing moves on their next Turn (as if it was one of their own Active Moves).",
+    "description": "Show me your moves!",
+    "category": "Special"
+}

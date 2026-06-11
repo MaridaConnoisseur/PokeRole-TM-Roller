@@ -1,0 +1,11 @@
+{
+    "name": "Flame Charge",
+    "type": "Fire",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Increase the User's Dexterity by 1.",
+    "description": "The Pokémon dashes so fast they leave a trail of fire behind.",
+    "category": "Physical"
+}

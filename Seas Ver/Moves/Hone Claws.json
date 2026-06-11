@@ -1,0 +1,11 @@
+{
+    "name": "Hone Claws",
+    "type": "Dark",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Self",
+    "effect": "Target Self. Increase by 1 the User's Strength score and Accuracy Pools.",
+    "description": "Sharp claws make for more precise and deadly attacks.",
+    "category": "Support"
+}

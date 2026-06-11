@@ -1,0 +1,11 @@
+{
+    "name": "Mass Destruction",
+    "type": "Typeless",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Your next attack gains All Foes targeting and +2 Damage Dice.",
+    "description": "For a student of the higher powers, you've come to realize that you're REALLY good at creating blowing shit up.",
+    "category": "Special"
+}

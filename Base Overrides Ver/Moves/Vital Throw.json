@@ -1,0 +1,11 @@
+{
+    "name": "Vital Throw",
+    "type": "Fighting",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Vitality",
+    "target": "Foe",
+    "effect": "Single Target. Late Reaction 1. Never Miss.",
+    "description": "You don’t need to go to the enemy, let them come to you.",
+    "category": "Physical"
+}

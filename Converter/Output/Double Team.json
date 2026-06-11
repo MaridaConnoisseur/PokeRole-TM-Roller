@@ -1,0 +1,11 @@
+{
+    "name": "Double Team",
+    "type": "Normal",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Dexterity",
+    "target": "Self",
+    "effect": "Target Self. The User can now make up to 5 Evasions per Round.",
+    "description": "The Pokémon moves so fast they create a series of shadow copies of themselves. Trying to guess which one is the real one is a pain.",
+    "category": "Support"
+}

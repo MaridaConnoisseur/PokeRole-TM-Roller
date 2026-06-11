@@ -1,0 +1,11 @@
+{
+    "name": "Cold Blood",
+    "type": "Typeless",
+    "power": 1,
+    "damage": "Dexterity",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Your next attack against the target has High Critical.",
+    "description": "A quick blow that leaves them open for your follow-up strike.",
+    "category": "Physical"
+}

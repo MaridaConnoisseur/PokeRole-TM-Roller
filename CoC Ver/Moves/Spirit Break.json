@@ -1,0 +1,11 @@
+{
+    "name": "Spirit Break",
+    "type": "Fairy",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Reduce the Target's Special by 1.",
+    "description": "Sticks and stones may break your bones but words will too.",
+    "category": "Physical"
+}

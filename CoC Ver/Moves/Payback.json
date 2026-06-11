@@ -1,0 +1,11 @@
+{
+    "name": "Payback",
+    "type": "Dark",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. *Add 2 Extra Dice to the Damage pool of this Move if the User has already received Damage from the Target this Round.",
+    "description": "Some say the best revenge is a successful and happy life, but not this Pokémon.",
+    "category": "Physical"
+}

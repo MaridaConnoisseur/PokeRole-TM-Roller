@@ -1,0 +1,11 @@
+{
+    "name": "Aurora Beam",
+    "type": "Ice",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Special",
+    "target": "Foe",
+    "effect": "Single Target. Roll 1 Chance Die to Reduce target's Strength by 1.",
+    "description": "The Pokémon shoots a beautiful shimmering beam that cools down a hot temper.",
+    "category": "Special"
+}

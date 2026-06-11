@@ -1,0 +1,11 @@
+{
+    "name": "Eerie Impulse",
+    "type": "Electric",
+    "power": 0,
+    "damage": "",
+    "accuracy": "Insight",
+    "target": "Foe",
+    "effect": "Single Target. Reduce foe's Special by 2.",
+    "description": "The user radiates electricity around itself so the foe will think twice about attacking.",
+    "category": "Support"
+}

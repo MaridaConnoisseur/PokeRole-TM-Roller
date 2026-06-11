@@ -1,0 +1,11 @@
+{
+    "name": "Population Bomb",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Unique. Low Accuracy 2. Successive Actions.",
+    "description": "The Pokémon and their family attack the foe in waves. Parents, children, cousins, aunts, uncles, and extended relatives, the whole family tree will appear on an onslaught.",
+    "category": "Physical"
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Slam",
+    "type": "Normal",
+    "power": 3,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. Low Accuracy 1.",
+    "description": "Everybody get up, it’s time to slam now.",
+    "category": "Physical"
+}

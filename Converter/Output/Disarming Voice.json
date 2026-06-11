@@ -1,0 +1,11 @@
+{
+    "name": "Disarming Voice",
+    "type": "Fairy",
+    "power": 2,
+    "damage": "Special",
+    "accuracy": "Insight",
+    "target": "All Foes",
+    "effect": "Target All Foes in Range. Sound Move. Never Miss.",
+    "description": "With a charming but manipulative cry, the user deals emotional damage to their opponent by making them feel guilty.",
+    "category": "Special"
+}

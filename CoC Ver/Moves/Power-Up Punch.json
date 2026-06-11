@@ -1,0 +1,11 @@
+{
+    "name": "Power-Up Punch",
+    "type": "Fighting",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Dexterity",
+    "target": "Foe",
+    "effect": "Single Target. Fist Move. Increase User's Strength by 1.",
+    "description": "A punch to test the impact’s surface and adjust the level of strength required to punch through it.",
+    "category": "Physical"
+}

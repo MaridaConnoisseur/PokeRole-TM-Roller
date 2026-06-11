@@ -1,0 +1,11 @@
+{
+    "name": "Knock Off",
+    "type": "Dark",
+    "power": 2,
+    "damage": "Strength",
+    "accuracy": "Strength",
+    "target": "Foe",
+    "effect": "Single Target. *If the Target is holding an Item, Add 2 Dice to the Damage pool of this Move. The Target loses its Held Item afterwards.",
+    "description": "The Pokémon rudely smacks what their foe was holding.",
+    "category": "Physical"
+}
